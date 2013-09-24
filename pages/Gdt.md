@@ -13,11 +13,12 @@ _Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h30, 
 
 _Exposés à venir_ :
 
-* jeudi 13/06/2013, 10h30 : **Lionel Rieg.** TBA.
-* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** TBA.
+**TBA**
 
 _Exposés passés_ :
 
+* jeudi 13/06/2013, 10h30 : **Lionel Rieg.** TBA.
+* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** TBA.
 * lundi 10/06/2013, 14h30 : **Matthieu Perrinel.** Context semantics for interaction nets.
 * lundi 03/06/2013, 14h30 : **Simon Castellan.** Concurrent games with symmetry.
 * lundi 27/05/2013, 14h30 : **Federico Aschieri.** Interactive Realizability, Delimited Exceptions and Control Operators.
