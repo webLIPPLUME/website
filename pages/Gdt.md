@@ -32,7 +32,6 @@ _Exposés passés_ :
 * vendredi 22/02/2013, 10h30 : **Thomas Colcombet.** The use of monoids in formal language theory and Schützenberger’s theorem.
 * vendredi 8/02/2013, 10h30 : **Olivier Laurent.** Preuves interactives de logique linéaire sur machine : l2coq et dynll.
 * vendredi 11/01/2013, 10h30 : **Colin Riba.** Forcing MSO on Infinite Words in Weak MSO.
-
 * mardi 11/12/2012, 10h30 : **Thibaut Balabonski.** La pleine paresse, une certaine optimalité.
 * lundi 10/12/2012, 14h30 : **Daniela Petrisan.** Nominal coalgebraic datatypes and applications to the infinitary lambda-calculus.
 * lundi 3/12/2012, 10h30 : **Matteo Mio.** Tree Games.
@@ -64,8 +63,7 @@ _Exposés passés_ :
 * lundi 05/12/2011, 14h00 : **Jean-Marie Madiot.** Dualité en Pi-calcul
 * lundi 21/11/2011, 14h00 : **Matthieu Perrinel.** Bornes fortes pour la logique linéaire par niveau.
 * lundi 28/11/2011, 14h00 : **Ugo Dal Lago.** On Multiplicative Linear Logic and Quantum Circuits.
-* lundi 17/11/2011, 14h00 : **Pierre Lescanne.** Church à la Catalan ou l’art de compter les lambda-termes : la recette de de Bruijn
-
+* lundi 17/11/2011, 14h00 : **Pierre Lescanne.** Church à la Catalan ou l’art de compter les lambda-termes : la recette de de Bruijn.
 * lundi 06/06/2011, 14h00 : **Matthieu Perrinel.** Système de type basé sur la logique linéaire par niveaux.
 * lundi 23/05/2011, 16h30 : **Pierre-Marie Pedrot.** Du calcul des effets étendu.
 * lundi 09/05/2011, 16h30 : **Colin Riba.** Une introduction a Dialectica, 2eme partie.
