@@ -9,7 +9,7 @@ published: true
 
 _contact_ : **Filippo Bonchi** (filippo.bonchi ’at’ ens-lyon.fr)
 
-_Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h30, en salle B2 au [ ENS-Lyon ](http://www.ens-lyon.eu/ecole-normale-superieure-de-lyon-accueil-77247.kjsp): 46 Allée d’Italie, 69364, Lyon._
+_Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h30, en salle B2 au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
@@ -120,5 +120,6 @@ _Exposés passés_ :
 
 _[back to main page][1]_
 
-   [1]: http://www.ens-lyon.fr/LIP/PLUME/
-   [2]: http://www.ens-lyon.fr/LIP/
+[ENS Lyon]: http://www.ens-lyon.eu/ (ENS Lyon)
+[1]: http://www.ens-lyon.fr/LIP/PLUME/
+[2]: http://www.ens-lyon.fr/LIP/
