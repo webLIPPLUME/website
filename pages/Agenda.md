@@ -8,7 +8,7 @@ embedded: true
 published: true
 ---
 
-{% if user %}{# attention de bien laisser en place cette balise #}
+{% if user %}{% comment %} attention de bien laisser en place cette balise {% endcomment %}
 
 <p></p>
 
