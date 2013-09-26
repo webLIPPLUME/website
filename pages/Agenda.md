@@ -4,8 +4,11 @@ subject: "Une vue sur l'agenda de l'équipe."
 author: Plume Webmaster
 timestamp: "2012-02-12 07:14:58 +0200"
 tags: null
+embedded: true
 published: true
 ---
+
+{% if user %}{# attention de bien laisser en place cette balise #}
 
 <p></p>
 
@@ -14,3 +17,5 @@ published: true
   </iframe>
 </div>
 <p></p>
+
+{% else %}The access is limited to **Plume** members.{% endif %}
