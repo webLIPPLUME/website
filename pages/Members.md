@@ -18,7 +18,7 @@ Name | position
 [Valentin Blot][]      | Doctorant / Phd student
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
-[Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan]
+[Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS) (from October, 1st 2013)
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
