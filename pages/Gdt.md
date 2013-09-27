@@ -18,7 +18,6 @@ _Exposés à venir_ :
 _Exposés passés_ :
 
 * jeudi 13/06/2013, 10h30 : **Lionel Rieg.** TBA.
-* jeudi 13/06/2013, 10h30 : **Lionel Rieg.** TBA.
 * lundi 24/06/2013, 14h30 : **Erika De Benedetti.** TBA.
 * lundi 10/06/2013, 14h30 : **Matthieu Perrinel.** Context semantics for interaction nets.
 * lundi 03/06/2013, 14h30 : **Simon Castellan.** Concurrent games with symmetry.
