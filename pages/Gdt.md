@@ -13,12 +13,15 @@ _Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h30, 
 
 _Exposés à venir_ :
 
-**TBA**
+* lundi 07/10/2013, 14h15 : **Pierre Clairambault.**  An introduction to concurrent games on event structures. 
+
+* lundi 14/10/2013, 14h15 : **Russ Harmer.**  TBA. 
+
 
 _Exposés passés_ :
 
-* jeudi 13/06/2013, 10h30 : **Lionel Rieg.** TBA.
-* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** TBA.
+* jeudi 13/06/2013, 10h30 : **Lionel Rieg.** Forcing en réalisabilité classique : passage en call-by-value et exemple.
+* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** Characterizing polynomial and exponential complexity classes in elementary lambda-calculus.
 * lundi 10/06/2013, 14h30 : **Matthieu Perrinel.** Context semantics for interaction nets.
 * lundi 03/06/2013, 14h30 : **Simon Castellan.** Concurrent games with symmetry.
 * lundi 27/05/2013, 14h30 : **Federico Aschieri.** Interactive Realizability, Delimited Exceptions and Control Operators.
