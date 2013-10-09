@@ -33,11 +33,10 @@ published: true
 [Publications]: Publications (Publications)
 [Software]: Software (Software)
 [Internships]: Internships (Internships)
-
+[Séminaire]: Seminaire (Séminaire Plume)
 [GT Plume]: Gdt (Groupe de travail Plume)
 [GT Coq]: http://www.ens-lyon.fr/LIP/GTCoq/ (Groupe de travail Coq)
 [GT Lyon/Chambéry]: <http://www.lama.univ-savoie.fr/index.php?use=seminaires&&lang=fr&equipe=logique&lang=fr> (Groupe de travail Lyon/Chambéry)
-[Séminaire]: Seminaire (Séminaire Plume)
 
 [CNRS]: http://www.cnrs.fr/ (CNRS)
 [ENS Lyon]: http://www.ens-lyon.fr/ (École Normale Supérieure de Lyon)

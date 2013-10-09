@@ -18,9 +18,6 @@ curriculum at [ENS Lyon][3].
 [7]: http://www.ens-lyon.fr/DI/
 
 *[CNRS]: Centre National de la Recherche Scientifique
-
 *[ENS]: École Normale Supérieure
-
 *[UCBL]: Université Claude Bernard de Lyon
-
 *[INRIA]: Institut National de Recherche en Informatique et Automatique
