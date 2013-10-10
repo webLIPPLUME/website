@@ -13,9 +13,11 @@ _Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h15, 
 
 _Exposés à venir_ :
 
-* lundi 07/10/2013, 14h15 : **Pierre Clairambault.**  An introduction to concurrent games on event structures. 
+* lundi 07/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures.
 
-* lundi 14/10/2013, 14h15 : **Russ Harmer.**  TBA. 
+* lundi 14/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures (cont.). 
+
+* lundi 21/10/2013, 14h15 : **Russ Harmer** - ? TBA. 
 
 
 _Exposés passés_ :
