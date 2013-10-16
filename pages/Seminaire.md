@@ -139,7 +139,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
   <span class="semtitle">Rule-based modelling and application to biomolecular networks</span>
 
-  (winter school [ER 06](http://www.ens-lyon.fr/DI/?p=1204) of the [Computer Science Department][]).
+  (winter school [ER 06](http://www.ens-lyon.fr/DI/?p=1204) of the [DI][]).
 
 * **Thursday 10th February:**
 
@@ -151,7 +151,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
   <span class="semtitle">Separation logics and applications</span>
 
-  (winter school [ER 04](http://www.ens-lyon.fr/DI/?p=1203) of the [Computer Science Department][]).
+  (winter school [ER 04](http://www.ens-lyon.fr/DI/?p=1203) of the [DI][]).
 
 * **Thursday 27th January:**
 
@@ -239,7 +239,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
   <span class="semtitle">An Introduction to Size-Change Termination Analysis</span>
 
-  (join seminar with the [Compsys](http://www.ens-lyon.fr/LIP/COMPSYS/) team).
+  (join seminar with the [Compsys][] team).
 
 * **Thursday 16th September:**
 
@@ -255,7 +255,3 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
   <span class="semtitle">La Normativité Logique.</span>
 
-[Computer Science Department]: http://www.ens-lyon.fr/DI/ (Computer Science Department)
-[Choco]: http://choco.pps.jussieu.fr/ (Choco ANR Project)
-[LAMA]: http://www.lama.univ-savoie.fr/ (LAMA)
-[LIMD]: <http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en> (LIMD)

@@ -23,7 +23,3 @@ for the whole month of April we will have the visit of [Pawel Sobocinski][].
 
 [Antonino Salibra][] (Venezia Mestre) will be in Lyon from 11 to 15 february 2013.
 
-[Alexandra Silva]: http://alexandrasilva.org/ (Alexandra Silva)
-[Pawel Sobocinski]: http://users.ecs.soton.ac.uk/ps/ (Pawel Sobocinski)
-[Chung Kil (Gil) Hur]: http://research.microsoft.com/en-us/people/gil/ "Chung Kil (Gil) Hur"
-[Antonino Salibra]: http://www.dsi.unive.it/~salibra/ (Antonino Salibra)

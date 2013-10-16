@@ -158,8 +158,3 @@ Japan)
 [10]: http://sardes.inrialpes.fr/collaborations/collaborations/modyfiable.html
 [11]: http://choco.pps.jussieu.fr/
 [12]: http://scalp.gforge.inria.fr/
-
-*[CNRS]: Centre National de la Recherche Scientifique
-*[ENS]: École Normale Supérieure
-*[UCBL]: Université Claude Bernard de Lyon
-*[INRIA]: Institut National de Recherche en Informatique et Automatique

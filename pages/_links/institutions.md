@@ -11,12 +11,20 @@ published: true
 [DI]: http://www.ens-lyon.fr/DI/ (Département Informatique)
 [LIP]: http://www.ens-lyon.fr/LIP/ (Laboratoire d'Informatique du Parallélisme)
 [PLUME]: http://www.ens-lyon.fr/LIP/PLUME/ (Équipe Plume)
+[Compsys]: http://www.ens-lyon.fr/LIP/COMPSYS/
 
+
+[LAMA]: http://www.lama.univ-savoie.fr/ (LAMA)
+[LIMD]: http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en (LIMD)
+[PPS]: http://www.pps.jussieu.fr/
+
+
+[ANR]: http://www.agence-nationale-recherche.fr/ (Agence Nationale de la Recherche)
 [CNRS]: http://www.cnrs.fr/ (CNRS)
 [INRIA]: http://www.inria.fr/ (INRIA)
 [Lyon 1]: http://www.univ-lyon1.fr/ (Université de Lyon 1)
 
-[PPS]: http://www.pps.jussieu.fr/
+[Faculty of Economics and Management, Novi Sad, Serbia]: http://www.ns.ac.yu/en/fakulteti/ekonomski/osnovna.htm
 
 [29]: http://www.qmul.ac.uk/
 [30]: http://www.mat.unisi.it/newsito/dottorando.php?id=174
@@ -28,7 +36,4 @@ published: true
 [41]: http://www-igm.univ-mlv.fr/~carayol/
 [45]: http://www.di.unito.it/~likavec/
 
-*[CNRS]: Centre National de la Recherche Scientifique
-*[ENSL]: École Normale Supérieure de Lyon
-*[UCBL]: Université Claude Bernard de Lyon
-*[INRIA]: Institut National de Recherche en Informatique et Automatique
+

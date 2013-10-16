@@ -18,3 +18,5 @@ published: true
 [Scalp]: http://scalp.gforge.inria.fr/ (Scalp project)
 [Focus]: http://focus.cs.unibo.it/
 [Sardes]: http://sardes.inrialpes.fr/
+[Galapagos]: http://galapagos.gforge.inria.fr/
+[NoCost]: http://www-lipn.univ-paris13.fr/nocost/

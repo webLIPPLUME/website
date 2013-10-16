@@ -163,29 +163,3 @@ associated with FLoC 2010, 10th July 2010, Edinburgh, UK.
 [Kazushige Terui][]  (Kyoto) will be in
 Lyon from April, 6th to April 9th 2010.
 
-[Daniela Petrisan]: http://www.cs.le.ac.uk/people/dlp10/ (Daniela Petrisan)
-[Fabio Gadducci]: http://www.di.unipi.it/~gadducci/ (Fabio Gadducci)
-[Ugo Dal Lago]: http://www.cs.unibo.it/~dallago/ (Ugo Dal Lago)
-[Luca Roversi]: http://www.di.unito.it/~rover/ (Luca Roversi)
-[Marco Pedicini]: http://www.uniroma3.it/persona.php?persona=JMoX3wKOPtM5QL18a3JP6KFhwPvjHHeQi4lBWeQS7p0=&cf=%7Bcf%7D (Marco Pedicini)
-[Michele Abrusci]: http://host.uniroma3.it/dipartimenti/filosofia/personale/schdado2.htm (Michele Abrusci)
-[Bernardo Toninho]: http://www.cs.cmu.edu/~btoninho/ (Bernardo Toninho)
-[Jaime Gaspar]: http://www.jaimegaspar.com/ "Jaime Gaspar"
-[Fabio Zanasi]: http://www.zanasi.com/fabio/ "Fabio Zanasi"
-[Paolo Oliva]: http://www.eecs.qmul.ac.uk/~pbo/ "Paolo Oliva"
-[Erika de Benedetti]: http://unito.academia.edu/ErikaDeBenedetti "Erika De Benedetti"
-[Simona Ronchi Della Rocca]: http://www.di.unito.it/~ronchi/ "Simona Ronchi Della Rocca"
-[Pawel Sobocinski]: http://users.ecs.soton.ac.uk/ps/ "Pawel Sobocinski"
-[Luis Fernando Pino Duque]: http://www.lix.polytechnique.fr/~luis.pino/ "Luis Fernando Pino Duque"
-[Jan Rutten]: http://homepages.cwi.nl/~janr/ "Jan Rutten"
-[Marcello Bonsangue]: http://www.liacs.nl/~marcello/ "Marcello Bonsague"
-[Alexandra Silva]: http://homepages.cwi.nl/~ams/ "Alexandra Silva"
-[Ugo Dal Lago]: http://www.cs.unibo.it/~dallago/ "Ugo Dal Lago"
-[Masahiro Hamano]: http://www.jaist.ac.jp/~hamano/ "Masahiro Hamano"
-[Silvia Ghilezan]: http://imft.ftn.uns.ac.rs/~silvia/ "Silvia Ghilezan"
-[Martin Hofmann]: http://www2.tcs.ifi.lmu.de/~mhofmann/ "Martin Hofman"
-[Kazushige Terui]: http://www.kurims.kyoto-u.ac.jp/~terui "Kazushige Terui"
-[Ichiro Hasuo]: http://www-mmm.is.s.u-tokyo.ac.jp/~ichiro "Ichiro Hasuo"
-[Matteo Mio]: http://homepages.inf.ed.ac.uk/s0792227/Home_Page/Home.html "Matteo Mio"
-[Luca Roversi]: http://pgp.unito.it/~rover/ "Luca Roversi"
-[Lorenzo Tortora de Falco]: http://logica.uniroma3.it/~tortora/ "Lorenzo Tortora de Falco"
