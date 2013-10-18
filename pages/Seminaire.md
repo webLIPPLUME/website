@@ -1,9 +1,10 @@
 ---
-title: Séminaires - Seminars
+title: "Séminaires - Seminars"
 subject: Le séminaire des jeudis...
 author: Colin Riba
-timestamp: 2012-02-12 07:22:08 +0200
-tags: 
+timestamp: "2012-02-12 07:22:08 +0200"
+tags: null
+published: true
 ---
 
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
@@ -181,7 +182,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
   <span class="semtitle">Constructive proofs of completeness, extra-intuitionistic principles, and delimited control operators</span>
 
-  [slides](slides/ilik-06-01-2011.pdf).
+  [slides](Seminaire/Slides/ilik-06-01-2011.pdf).
 
 ####  Since September 2010
 
@@ -254,4 +255,3 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
   <span class="semspk">Jean-Yves Girard</span> (IML, Marseille),
 
   <span class="semtitle">La Normativité Logique.</span>
-
