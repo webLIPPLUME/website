@@ -20,6 +20,7 @@ _Exposés à venir_ :
 
 
 _Exposés passés_ :
+
 * lundi 14/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures (cont.). 
 * lundi 07/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures.
 * jeudi 13/06/2013, 10h30 : **Lionel Rieg.** Forcing en réalisabilité classique : passage en call-by-value et exemple.
