@@ -38,6 +38,11 @@ _Exposés passés_ :
 * vendredi 22/02/2013, 10h30 : **Thomas Colcombet.** The use of monoids in formal language theory and Schützenberger’s theorem.
 * vendredi 8/02/2013, 10h30 : **Olivier Laurent.** Preuves interactives de logique linéaire sur machine : l2coq et dynll.
 * vendredi 11/01/2013, 10h30 : **Colin Riba.** Forcing MSO on Infinite Words in Weak MSO.
+
+### Archives
+
+#### _exposés proposés en 2012_
+
 * mardi 11/12/2012, 10h30 : **Thibaut Balabonski.** La pleine paresse, une certaine optimalité.
 * lundi 10/12/2012, 14h30 : **Daniela Petrisan.** Nominal coalgebraic datatypes and applications to the infinitary lambda-calculus.
 * lundi 3/12/2012, 10h30 : **Matteo Mio.** Tree Games.
@@ -65,7 +70,10 @@ _Exposés passés_ :
 * lundi 23/01/2012, 14h00 : **Marc Lasson.** Paramétricité dans une sorte imprédicative.
 * lundi 16/01/2012, 14h00 : **Pierre lescanne.** Rationalité et escalade dans les jeux infinis séquentiels.
 * lundi 09/01/2012, 14h00 : **Lionel Rieg.** Vers des réels en réalisabilité classique.
-* lundi 12/12/2012, 14h00 : **Olivier Laurent.** Une preuve arithmetisable de normalisation forte des reseaux MELL ?
+
+#### _Exposés proposés en 2011_
+
+* lundi 12/12/2011, 14h00 : **Olivier Laurent.** Une preuve arithmetisable de normalisation forte des reseaux MELL ?
 * lundi 05/12/2011, 14h00 : **Jean-Marie Madiot.** Dualité en Pi-calcul
 * lundi 21/11/2011, 14h00 : **Matthieu Perrinel.** Bornes fortes pour la logique linéaire par niveau.
 * lundi 28/11/2011, 14h00 : **Ugo Dal Lago.** On Multiplicative Linear Logic and Quantum Circuits.
@@ -81,6 +89,9 @@ _Exposés passés_ :
 * lundi 7/02/2011, 16h30 : **Thanos Tsouanas.** Game semantics for Logic Programming, first part
 * mercredi 26/01/2011, 13h30 : **Colin Riba.** Interpretation fonctionnelle de Goedel (Dialectica) et la “No Counter Interpretation” de Kreisel
 * mercredi 19/01/2011, 13h30 : **Alexandre Miquel.** Realisateurs sauvages de la loi de Pierce.
+
+#### _Exposés proposés en 2010_
+
 * mercredi 01/12/2010, 13h30 : **Colin Riba.** Some questions toward an adequation lemma for Church’s synthesis problem
 * mercredi 24/11/2010, 13h30 : **Filippo Bonchi.** Deriving Labels and Bisimilarity for Concurrent Constraint Programming
 * lundi 04/10/2010, 13h30 : **Barbara Petit.** Scottégories pour le lambda calcul avec constructeurs
@@ -96,6 +107,9 @@ _Exposés passés_ :
 * lundi 8/03/2010: **Marc Lasson** Arithmétique Fonctionnelle Élémentaire, le retour.
 * lundi 25/01/2010: **Paolo Tranquilli** Types et effets : des monads aux réseaux.
 * lundi 18/01/2010: **Olivier Laurent** Jeux et realisabilite (chantier en cours).
+
+#### _Exposés proposés en 2009_
+
 * lundi 30/11: **Alexandre Miquel** Entiers primitifs et methodes d'extraction de temoins en realisabilite classique.
 * lundi 23/11: **Silvia Vecchiato** Dual calculus and some translations.
 * lundi 16/11: **Jean Duprat** Des tactiques pour la resolution d'equations en geometrie.
@@ -115,6 +129,9 @@ _Exposés passés_ :
 * lundi 26/1/09: **Aurélien Pardon** Des théories symétriques monoidales closes à la syntaxe de langages de programmation avec lieurs.
 * lundi 19/1/09: **Romain Demangeon** Systèmes de types pour la terminaison en pi-calcul.
 * mardi 6/1/2009: **Pierre Lescanne** Mécanisation du raisonnement sur les jeux infinis.
+
+#### _Exposés proposés en 2008_
+
 * mardi 2/12/08: **Daniel Hirschkoff** Axiomatisations de la bisimilarité sur des fragments de CCS.
 * mardi 18/11/08: **Philippe Audebaud** Simulation d'algorithmes probabilistes dans un cadre fonctionnel.
 * mardi 4/11/08: **Patrick Baillot** Complexité implicite et logique linéaire.
