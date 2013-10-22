@@ -1,9 +1,10 @@
 ---
-title: Stages - Internship Proposals
+title: "Stages - Internship Proposals"
 subject: Les propositions de stage proposés par tel ou tel membre de Plume.
 author: Plume Webmaster
-timestamp: 2012-11-13 10:21:46 +0200
-tags: 
+timestamp: "2012-11-13 10:21:46 +0200"
+tags: null
+published: true
 ---
 
 ###  [L3 Internships][7]
@@ -15,6 +16,13 @@ _None_ as for now.
 _None_ as for now.
 
 ###  [M2 Internships][9]
+
+#### Behavioural equivalences, coinduction and higher-order calculi                                                                                                   
+
+Proposed by *daniel Hirschkoff* (Oct 22th, 2013)
+See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-bisim.pdf) for more informations.
+
+### Internships proposed in 2012
 
 #### Kleene algebras, automata and regular expressions
 
@@ -45,5 +53,3 @@ See [this page][Damien Pous] for more.
 [11]: http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dhol-choco.pdf
 [12]: http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dhds-compl.pdf
 [13]: http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dhds-lambda.pdf
-
-
