@@ -44,7 +44,7 @@ Information available as <img src="/{{ site.url }}/img/feed-14x14.png" /> {{ "RS
 
 [Trucs]: Trucs (Trucs utiles aux bêtes à plume)
 [Members]: Members (Plume team)
-[Bubli]: Liste des oeuvres (Team collection)
+[Bibli]: Liste des oeuvres (Team collection)
 [Research]: Topics (Research topics)
 [Publications]: Publications (Publications)
 [Software]: Software (Software)
