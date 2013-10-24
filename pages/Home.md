@@ -30,7 +30,7 @@ published: true
 * [Propositions de stage / Internship proposals][Internships]
 
 {% if cas.user %}
-* Les [trucs utiles][Trucs] aux gens à plume...
+* Les [trucs utiles][Trucs] aux gens à plume... Et la [liste des oeuvres][Bibli] maintenue par Russ.
 {% endif %}
 
 ### Actualité / News
