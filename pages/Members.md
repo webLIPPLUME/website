@@ -1,9 +1,10 @@
 ---
-title: Membres - Members
-subject: La liste des membres actuels de l'équipe.
+title: "Membres - Members"
+subject: "La liste des membres actuels de l'équipe."
 author: Plume Webmaster
-timestamp:: 2013-09-04 14:23:29 +0200
-tags: 
+"timestamp:": "2013-09-04 14:23:29 +0200"
+tags: null
+published: true
 ---
 
 ### The team
@@ -12,7 +13,7 @@ tags:
 Name | position
 ---- | --------
 [Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
-*Catherine Desplanches*  | Assistante administrative / Administrative staff
+*Catherine Desplanches*  | Assistante d'équipe/ Team assistant
 [Federico Aschieri][] | Post doctorant ([former position][Federico Aschieri PPS])
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Valentin Blot][]      | Doctorant / Phd student
@@ -43,4 +44,3 @@ Name | position
 ###  Anciens membres / Former members
 
 [Follow this link](FormerMembers). As for now, the list is complete from September, 2006. More complete information, since the creation of the *Plume Team*, will be provided soon.
-
