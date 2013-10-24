@@ -16,7 +16,7 @@ _Exposés à venir_ :
 * lundi 04/11/2013, 14h15 : **Russ Harmer** - TBA. 
 * lundi 11/11/2013, 14h15 : **Holiday** - TBA. 
 * lundi 18/11/2013, 14h15 : **Fabio Zanasi** - TBA. 
-* lundi 25/11/2013, 14h15 : **Paul Brune** - TBA. 
+* lundi 25/11/2013, 14h15 : **Paul Brunet** - TBA. 
 
 
 _Exposés passés_ :
