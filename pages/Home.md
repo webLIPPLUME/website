@@ -31,6 +31,8 @@ published: true
 
 {% if cas.user %}
 * Les [trucs utiles][Trucs] aux gens à plume... Et la [liste des oeuvres][Bibli] maintenue par Russ.
+{% else %}
+* *Log in for more...*
 {% endif %}
 
 ### Actualité / News
