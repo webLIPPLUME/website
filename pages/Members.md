@@ -30,6 +30,7 @@ Name | position
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Alexandre Miquel][]   | Maître de Conférences / assistant professor _(en délégation de [PPS][])_
 [Matthieu Perrinel][]  | Doctorant / PhD student
+[Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 [Lionel Rieg][]        | Doctorant / PhD student

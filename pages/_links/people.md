@@ -15,6 +15,7 @@ published: true
 [Colin Riba]: http://perso.ens-lyon.fr/colin.riba/ (Colin Riba)
 [Damien Pous]: http://perso.ens-lyon.fr/damien.pous/  (Damien Pous)
 [Daniel Hirschkoff]: http://perso.ens-lyon.fr/daniel.hirschkoff/ (Daniel Hirschkoff)
+[Daniela Petrisan]: http://perso.ens-lyon.fr/daniela.petrisan/ (Daniela Petrisan)
 [Erika de Benedetti]: http://perso.ens-lyon.fr/erika.de.benedetti/ (Erika de Benedetti @ Lyon)
 [Erika de Benedetti Turin]: http://unito.academia.edu/ErikaDeBenedetti (Erika de Benedetti @ Turin)
 [Fabio Zanasi Casa]: http://www.zanasi.com/fabio/ (@ casa sua)
