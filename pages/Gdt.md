@@ -20,24 +20,44 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 * lundi 25/11/2013, 14h15 : **Matteo Cimini** - Formalization of bisimulation-up-to techniques in the Abella theorem prover.
+
 * lundi 18/11/2013, 14h15 : **Fabio Zanasi** - Interacting Bialgebras are Frobenius.
+
 * lundi 04/11/2013, 14h15 : **Russ Harmer** - A semantic formulation of Kappa. 
+
 * lundi 14/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures (cont.). 
+
 * lundi 07/10/2013, 14h15 : **Pierre Clairambault** - An introduction to concurrent games on event structures.
+
 * jeudi 13/06/2013, 10h30 : **Lionel Rieg.** Forcing en réalisabilité classique : passage en call-by-value et exemple.
-* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** Characterizing polynomial and exponential complexity classes in elementary lambda-calculus.
+
+* lundi 24/06/2013, 14h30 : **Erika De Benedetti.** Characterizing 
+polynomial and exponential complexity classes in elementary lambda-calculus.
+
 * lundi 10/06/2013, 14h30 : **Matthieu Perrinel.** Context semantics for interaction nets.
+
 * lundi 03/06/2013, 14h30 : **Simon Castellan.** Concurrent games with symmetry.
+
 * lundi 27/05/2013, 14h30 : **Federico Aschieri.** Interactive Realizability, Delimited Exceptions and Control Operators.
+
 * lundi 13/05/2013, 14h30 : **Alexander Kreuzer.** Ordinal analysis of bar recursion (of type 3 applied to simple terms).
+
 * lundi 06/05/2013, 14h30 : **Damien Pous.** Symbolic algorithms for KAT.
+
 * lundi 15/04/2013, 14h30 : **Pawel Sobocinski.** Reachability via Compositionality in bounded Petri nets.
+
 * lundi 08/04/2013, 14h30 : **Olivier Laurent.** Cut-elimination for intersection subtyping.
+
 * lundi 25/03/2013, 14h30 : **Alexandre Miquel.** About Gimel 2.
+
 * lundi 18/03/2013, 14h30 : **Danko Ilic.** Open Induction on Cantor space via constructive control operators.
+
 * lundi 11/03/2013, 14h30 : **Patrick Baillot.** On the characterization of time complexity classes in elementary linear logic.
+
 * vendredi 22/02/2013, 10h30 : **Thomas Colcombet.** The use of monoids in formal language theory and Schützenberger’s theorem.
+
 * vendredi 8/02/2013, 10h30 : **Olivier Laurent.** Preuves interactives de logique linéaire sur machine : l2coq et dynll.
+
 * vendredi 11/01/2013, 10h30 : **Colin Riba.** Forcing MSO on Infinite Words in Weak MSO.
 
 ### Archives
