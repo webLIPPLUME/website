@@ -20,7 +20,7 @@ Name | position
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
-[Pierre Clairambault][]| Chercheur / Researcher (CNRS) (from October, 1st 2013)
+[Pierre Clairambault][]| Chercheur / Researcher (CNRS) 
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Guilhem Jaber][]      | Doctorant / Phd student (Located in Nantes)
@@ -28,7 +28,6 @@ Name | position
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Jean-Marie Madiot][]  | Doctorant / PhD student
-[Alexandre Miquel][]   | Maître de Conférences / assistant professor _(en délégation de [PPS][])_
 [Matthieu Perrinel][]  | Doctorant / PhD student
 [Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
