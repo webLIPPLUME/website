@@ -1,13 +1,15 @@
 ---
-title: Anciens membres - Former members
-subject: Historique des membres de l'équipe depuis sa création.
+title: "Anciens membres - Former members"
+subject: "Historique des membres de l'équipe depuis sa création."
 author: Plume Webmaster
-timestamp: 2013-09-02 12:49:11 +0200
-tags: 
+timestamp: "2013-09-02 12:49:11 +0200"
+tags: null
+published: true
 ---
 
 Name | Current position
 ---- | ----------------
+Alexandre Miquel       | Professeur Universidad della Republica (Montevideo, Uruguay)
 [Antoine Madet][]      | Post doc INRIA/ENS in [Parkas](http://www.di.ens.fr/ParkasTeam.html) team
 [Marc Lasson][]        | Psot doc Cambridge ([new page](http://www.cl.cam.ac.uk/~mrl42/))
 [Séverine Maingaud][]  | Doctorante / Phd student (Located in Paris)
