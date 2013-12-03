@@ -14,10 +14,10 @@ Alexandre Miquel       | Professeur Universidad della Republica (Montevideo, Uru
 [Marc Lasson][]        | Psot doc Cambridge ([new page](http://www.cl.cam.ac.uk/~mrl42/))
 [Séverine Maingaud][]  | Doctorante / Phd student (Located in Paris)
 [Paolo Tranquilli][]   | Post doc Bologna ([new page](http://www.cs.unibo.it/~tranquil/))
-[Barbara Petit][]      | Post doc Bologna ([new page](http://www.cs.unibo.it/~petit/))
+[Barbara Petit][]      | Post doc Grenoble
 Aurélien Pardon        | -
 Jean Duprat            | Retired
-[Romain Demangeon][]   | Post Doctorant / Research Assistant [Queen Mary, University of London][29]
+[Romain Demangeon][46]   | Maître de Conférences Université Paris 6 / assistant professor
 [Silvia Vecchiato][30] | Doctorant / PhD student [Università di Siena][31] _(sept 2009 - feb 2010)_
 Dragiša Žunić | Assistant Professor, [Faculty of Economics and Management, Novi Sad, Serbia][]
 [Samuel Hym][36]       | Maître de Conférences / assistant professor
@@ -48,3 +48,4 @@ Name | Current Position
 [40]: http://www.univ-orleans.fr/lifo/Members/David.Teller/
 [41]: http://www-igm.univ-mlv.fr/~carayol/
 [45]: http://www.di.unito.it/~likavec/
+[46]: http://www-apr.lip6.fr/~demangeon/
