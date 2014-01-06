@@ -7,7 +7,7 @@ tags: null
 published: true
 ---
 
-_contact_ : **Filippo Bonchi** (filippo.bonchi ’at’ ens-lyon.fr)
+_contact_ : **Russ Harmer** (russell.harmer ’at’ ens-lyon.fr)
 
 _Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h15, en salle B1 au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
