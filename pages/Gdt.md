@@ -19,6 +19,8 @@ _Exposés passés_ :
 
 * lundi 6/01/2014 : **Daniele Petrisan** - Bi-simulation up-to in a fibrational setting
 
+### Archives
+
 #### _Exposés proposés en 2013_
 
 * lundi 16/12/2013, 14h15 : **Paul Brunet**
