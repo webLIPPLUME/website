@@ -13,12 +13,18 @@ _Sauf indication contraire, les exposés ont désormais lieu le lundi à 14h15, 
 
 _Exposés à venir_ :
 
-* lundi 02/12/2013, 14h15 : **Workshop “Analyticity and Complexity”**. 
-* lundi 09/12/2013, 14h15 : **Jurriaan Rot** - TBA. 
-* lundi 16/12/2013, 14h15 : **Paul Brunet** - TBA. 
- 
+* lundi 27/01/2014, 14h15 : **Matteo Sammartino** - TBA. 
 
 _Exposés passés_ :
+
+* lundi 6/01/2014 : **Daniele Petrisan** - Bi-simulation up-to in a fibrational setting
+
+#### _Exposés proposés en 2013_
+
+* lundi 16/12/2013, 14h15 : **Paul Brunet**
+
+* lundi 09/12/2013, 14h15 : **Jurriaan Rot**
+
 * lundi 25/11/2013, 14h15 : **Matteo Cimini** - Formalization of bisimulation-up-to techniques in the Abella theorem prover.
 
 * lundi 18/11/2013, 14h15 : **Fabio Zanasi** - Interacting Bialgebras are Frobenius.
@@ -60,9 +66,7 @@ polynomial and exponential complexity classes in elementary lambda-calculus.
 
 * vendredi 11/01/2013, 10h30 : **Colin Riba.** Forcing MSO on Infinite Words in Weak MSO.
 
-### Archives
-
-#### _exposés proposés en 2012_
+#### _Exposés proposés en 2012_
 
 * mardi 11/12/2012, 10h30 : **Thibaut Balabonski.** La pleine paresse, une certaine optimalité.
 * lundi 10/12/2012, 14h30 : **Daniela Petrisan.** Nominal coalgebraic datatypes and applications to the infinitary lambda-calculus.
