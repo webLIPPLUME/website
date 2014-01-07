@@ -13,12 +13,12 @@ _Sauf indication contraire, les exposés ont désormais lieu le **lundi à 14h15
 
 _Exposés à venir_ :
 
-* lundi 27/01/2014 : **Matteo Sammartino** - TBA. 
+* 27/01/2014 : **Matteo Sammartino** - TBA. 
 
 
 _Exposés passés_ :
 
-* lundi 6/01/2014 : **Daniele Petrisan.** Bi-simulation up-to in a fibrational setting
+*  6/01/2014 : **Daniele Petrisan.** Bi-simulation up-to in a fibrational setting
    
    
   
