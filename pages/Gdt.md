@@ -18,7 +18,7 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
-*  6/01/2014 : **Daniele Petrisan.** Bi-simulation up-to in a fibrational setting
+*  6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting
    
    
   
