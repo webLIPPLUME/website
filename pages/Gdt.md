@@ -33,10 +33,9 @@ _Exposés passés_ :
 * lundi 09/12/2013, 14h15 : **Jurriaan Rot.** Combining bi-algebraic semantics and equations.
 * lundi 25/11/2013, 14h15 : **Matteo Cimini.** Formalization of bisimulation-up-to techniques in the Abella theorem prover.
 * lundi 18/11/2013, 14h15 : **Fabio Zanasi.** Interacting bi-algebras are Frobenius.
-* lundi 04/11/2013, 14h15 : **Russ Harmer.** A semantic formulation of Kappa. 
-* lundi 14/10/2013, 14h15 : **Pierre Clairambault.** An introduction to concurrent games on event structures (cont.). 
+* lundi 04/11/2013, 14h15 : **Russ Harmer.** A semantic formulation of Kappa.
+* lundi 14/10/2013, 14h15 : **Pierre Clairambault.** An introduction to concurrent games on event structures (cont.).
 * lundi 07/10/2013, 14h15 : **Pierre Clairambault.** An introduction to concurrent games on event structures.
-
 * jeudi 13/06/2013, 10h30 : **Lionel Rieg.** Forcing en réalisabilité classique : passage en call-by-value et exemple.
 * lundi 24/06/2013, 14h30 : **Erika De Benedetti.** Characterizing 
 polynomial and exponential complexity classes in elementary lambda-calculus.
