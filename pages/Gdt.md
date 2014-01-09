@@ -13,12 +13,15 @@ _Sauf indication contraire, les exposés ont désormais lieu le **lundi à 14h15
 
 _Exposés à venir_ :
 
-* 27/01/2014 : **Matteo Sammartino** - TBA. 
+* 13/01/2015 : SMC week 1
+* 27/01/2014 : **Matteo Sammartino** - TBA.
+* 3/02/2014 : **Filippo Bonchi** - TBA.
+* 10/02/2014 : SMC week 5
 
 
 _Exposés passés_ :
 
-*  6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting
+* 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting
    
    
   
@@ -26,13 +29,14 @@ _Exposés passés_ :
 
 #### _Exposés proposés en 2013_
 
-* lundi 16/12/2013, 14h15 : **Paul Brunet.**
-* lundi 09/12/2013, 14h15 : **Jurriaan Rot.**
+* lundi 16/12/2013, 14h15 : **Paul Brunet.** Kleene algebra with converse.
+* lundi 09/12/2013, 14h15 : **Jurriaan Rot.** Combining bi-algebraic semantics and equations.
 * lundi 25/11/2013, 14h15 : **Matteo Cimini.** Formalization of bisimulation-up-to techniques in the Abella theorem prover.
-* lundi 18/11/2013, 14h15 : **Fabio Zanasi.** Interacting Bialgebras are Frobenius.
+* lundi 18/11/2013, 14h15 : **Fabio Zanasi.** Interacting bi-algebras are Frobenius.
 * lundi 04/11/2013, 14h15 : **Russ Harmer.** A semantic formulation of Kappa. 
 * lundi 14/10/2013, 14h15 : **Pierre Clairambault.** An introduction to concurrent games on event structures (cont.). 
 * lundi 07/10/2013, 14h15 : **Pierre Clairambault.** An introduction to concurrent games on event structures.
+
 * jeudi 13/06/2013, 10h30 : **Lionel Rieg.** Forcing en réalisabilité classique : passage en call-by-value et exemple.
 * lundi 24/06/2013, 14h30 : **Erika De Benedetti.** Characterizing 
 polynomial and exponential complexity classes in elementary lambda-calculus.
