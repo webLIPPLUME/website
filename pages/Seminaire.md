@@ -11,178 +11,223 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
 ###  Next Events
 
-* **Thursday 20th September**, 2pm, _salle de conseil du LIP_:
+  * **Thursday 20th June,** 10:30 am, room B2:
+Igor Walukiewicz (LaBRI).
 
-  <span class="semspk">Luca Roversi</span> (Dipartimento di Informatica, Università di Torino)
+Transfer theorem
 
-  <span class="semtitle">Relating Linear lambda-calculus and Deep Inference</span>
-
-  We recall that SBV is the paradigmatic deep inference system that extends the
-  set of logical operators of multiplicative linear logic with the self-dual
-  non-commutative logical operator Seq. We introduce SBVr that extends SBV by
-  adding the self-dual atom-renaming operator Rename. Both Seq and Rename allow
-  to model beta-reduction of linear lambda-calculus as proof-search steps inside
-  SBVr and its cut-free version BVr, once lambda-terms are represented as
-  formulas. The proof-search SBVr of can compute all boolean functions, exactly
-  like linear lambda-calculus can do.
+(joint work with Sylvain Salvati)
+We consider simply-typed lambda calculus with fixpoint operators. Evaluation of a term gives as a result the Böhm tree of the term. We show that evaluation is compatible with monadic second-order logic (MSOL). This means that for a fixed finite vocabulary of terms, the MSOL properties of Böhm trees of terms are effectively MSOL properties of terms themselves.  Theorems of this kind have been known for some graph operations: unfolding, and Muchnik iteration.
+Similarly to those results, our main theorem has diverse applications.  It can be used to show decidability results,  to construct classes of graphs with decidable MSOL theory,  or to obtain MSOL formulas expressing behavioral properties of terms. Another application is decidability of a control-flow synthesis problem.
 
 ###  Past Events (since September 2010)
 
+####  Since January 2013
+
+  * **Thursday 30th May:**
+Gabriel Scherer (Inria Gallium).
+
+Does a given type have a unique inhabitant? A work in progress.
+
+  * **Thursday 23rd May:**
+Bruno Salvy (Inria & LIP).
+
+Une introduction à la théorie des espèces de structures
+
+  * **Friday 17th May:**
+One day on circular proofs and fixed point logics
+
+Lutz Schroeder (joint work with Yde Venema):
+Flat coalgebraic fixed point logics
+
+Fabio Zanasi (joint work with Alessandro Facchini and Yde Venema):
+A characterization theorem for the alternation-free fragment of the modal mu-calculus
+
+Luigi Santocanale (joint work with Jérôme Fortier):
+La règle de coupure dans les preuves circulaires
+
+  * **Thursday 16th May:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Thursday 11th April:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Thursday 14th March:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Friday 22nd February:**
+Thomas Colcombet (LIAFA, Paris).
+
+_The use of monoids in formal language theory and Schützenberger’s theorem._
+
+  * **Thursday 21st February:**
+Alejandro Díaz-Caro (Université Paris-Ouest & Inria Paris-Rocquencourt).
+
+_Non-determinism (and probabilities) through type isomophism. _
+
+  * **Thursday 14th February:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Thursday 7th February:**
+Cyril Cohen (Gothenburg, Sweden).
+
+Formalization of algebraic numbers in Coq.
+
 ####  Since January 2011
 
-* **Tuesday 6th September**, 2pm:
+  * **Tuesday 11th December:**
+Thibaut Balabonski (Gallium, Inria Rocquencourt).
 
-  <span class="semspk">Ichiro Hasuo</span> (Dept. of Computer Science, University of Tokyo)
+La pleine paresse, une certaine optimalité.
 
-  <span class="semtitle">Semantics of Higher-Order Quantum Computation via Geometry of Interaction</span>
+  * **Monday 10th December:**
+Daniela Petrisan (Leicester, UK). _TBA_
+  * **Thursday 6th December:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting  **in Paris**
+  * **Monday 3rd December:**
+Matteo Mio (LIX)
 
-  (joint work with Naohiko Hoshino, RIMS, Kyoto University).
+Tree Games
 
-* **Thursday 30th June:**
+  * **Thursday 15th November:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Thursday 8th November:**
+Luca Roversi (Torino University, Italy).
 
-  <span class="semspk">Stefan Hetzl</span> (PPS)
+Communication, and concurrency with restriction inside Deep-inference.
 
-  <span class="semtitle">First-Order Proofs as Tree Languages</span>
+  * **Monday 5th November**:
+Gilles Barthe (IMDEA Software Institute, Madrid)
 
-* **Monday 30th May:**
+Computer-Aided Cryptographic Proofs and Designs
 
-  <span class="semspk">Daniel Leivant</span> (Indiana University (USA) & Loria (Nancy))
+  * **Thursday 11th October:**
+[CHoCoLa](http://chocola.ens-lyon.fr/) meeting
+  * **Thursday 4th October:**
+Barbara Koenig (Univeristät Duisburg-Essen, Germany)
 
-  <span class="semtitle">The Comprehension Cube</span>
+Conditional Reactive Systems.
 
-* **Thursday 19th May:**
+  * **Tuesday 2nd October:**
+Russ Harmer (PPS)
 
-  <span class="semspk">Marcello Bonsangue</span> (CWI, Amsterdam)
+Constraining rule-based dynamics with types.
 
-  <span class="semtitle">Three coalgebraic characterizations of context free languages</span>
+  * **Thursday 18th January:**
+Frédéric Prost (CAPP, LIG, Grenoble)
 
-  (joint work with J. Rutten and J. Winter).
+Enforcing Dynamic Interference Policy.
 
-* **Wednesday 18th May:**
+  * **Tuesday 6th September:**
+Ichiro Hasuo (Dept. of Computer Science, University of Tokyo)
 
-  [CoGip](http://perso.ens-lyon.fr/daniel.hirschkoff/cogip/) meets
-  [CWI](http://www.cwi.nl/Coalgebraic_models_of_computation/)
+Semantics of Higher-Order Quantum Computation via Geometry of Interaction
 
-  * <span class="semspk">Damien Pous</span> (CNRS, SARDES, LIG)
+(joint work with Naohiko Hoshino, RIMS, Kyoto University).
+  * **Thursday 30th June:**
+Stefan Hetzl (PPS)
 
-    <span class="semtitle">A Tutorial on Bisimulation Up-To</span>
+First-Order Proofs as Tree Languages
 
+  * **Monday 30th May:**
+Daniel Leivant (Indiana University (USA) & Loria (Nancy))
 
-  * <span class="semspk">Filippo Bonchi</span> (CNRS, PLUME, LIP) & <span class="semspk">Jan Rutten</span> (CWI, Amsterdam)
+The Comprehension Cube
 
-    <span class="semtitle">A Coalgebraic Perspective on Linear Weighted Automata</span>
+  * **Thursday 19th May:**
+Marcello Bonsangue (CWI, Amsterdam)
 
-     Filippo Bonchi: part 1 ; Jan Rutten: part 2.
+Three coalgebraic characterizations of context free languages
 
+(joint work with J. Rutten and J. Winter).
+  * **Wednesday 18th May:**
 
-  * <span class="semspk">Alexandra Silva</span> (CWI, Amsterdam)
+[CoGip](http://perso.ens-lyon.fr/daniel.hirschkoff/cogip/) meets [CWI](http://www.cwi.nl/Coalgebraic_models_of_computation/)
 
-    <span class="semtitle">Sound and complete axiomatizations of coalgebraic language equivalence</span>
+    * Damien Pous (CNRS, SARDES, LIG)
 
+A Tutorial on Bisimulation Up-To
 
-* **Thursday 21st April:**
+    * Filippo Bonchi (CNRS, PLUME, LIP) & Jan Rutten (CWI, Amsterdam)
 
-  <span class="semspk">Lionel Nguyen Van Thé</span> (LATP, Marseille)
+A Coalgebraic Perspective on Linear Weighted Automata
 
-  ([LIMD][] seminar).
+Filippo Bonchi: part 1 ; Jan Rutten: part 2.
 
-* **Thursday 14th April:**
+    * Alexandra Silva (CWI, Amsterdam)
 
-  <span class="semspk">Tom Hirschowitz</span> (LIMD, LAMA)
+Sound and complete axiomatizations of coalgebraic language equivalence
 
-  ([LIMD][] seminar).
+  * **Thursday 21st April:**
+Lionel Nguyen Van Thé (LATP, Marseille)
+([LIMD](http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en) seminar).
+  * **Thursday 14th April:**
+Tom Hirschowitz (LIMD, LAMA)
+([LIMD](http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en) seminar).
+  * **From Monday 4th to Thursday 7th April:**
 
-* **From Monday 4th to Thursday 7th April:**
+Choco Party & Differential Linear Logic course
 
-  Choco Party & Differential Linear Logic course
+Final meeting of the [Choco](http://choco.pps.jussieu.fr/) ANR project.
+  * **Thursday 31th March:**
+Peter G. Hancock (University of Strathclyde, UK)
+([LIMD](http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en) seminar).
+  * **Thursday 17th March:**
+Jacques Duparc (Université de Lausanne).
 
-  Final meeting of the [Choco][] ANR project.
+Games to Look into (Topological) Complexity.
+An Application to Automata Theory: The Wagner Hierarchy
 
-* **Thursday 31th March:**
+  * **Thursday 10th March:**
+Xavier Urbain (ENSIIE & CEDRIC, CNAM).
 
-  <span class="semspk">Peter G. Hancock</span> (University of Strathclyde, UK)
+Démonstration automatique : techniques, outils et certification
 
-  ([LIMD][] seminar).
+  * **Thursday 3rd March:**
+Arnaud Carayol (IGM, Université Paris Est & CNRS).
 
-* **Thursday 17th March:**
+Structures defined by higher-order recursion schemes
 
-  <span class="semspk">Jacques Duparc</span> (Université de Lausanne).
+  * **Thursday 24th February:**
+Federico Aschieri (Torino University, Italy).
 
-  <span class="semtitle">Games to Look into (Topological) Complexity.</span>
+Classical Logic, Learning and Realizability
 
-  An Application to Automata Theory: The Wagner Hierarchy
+  * **Monday 21st February:**
+Masahiro Hamano (PRESTO, Japan Science and Technology Agency (JST))
 
-* **Thursday 10th March:**
+A Geometry of Interaction for Polarized Linear Logic
 
-  <span class="semspk">Xavier Urbain</span> (ENSIIE & CEDRIC, CNAM).
+  * **From Monday 14th February to Friday 18th February:**
 
-  <span class="semtitle">Démonstration automatique : techniques, outils et certification</span>
+Rule-based modelling and application to biomolecular networks
 
-* **Thursday 3rd March:**
+(winter school  [ER 06](http://www.ens-lyon.fr/DI/?p=1204) of the [Computer Science Department](http://www.ens-lyon.fr/DI/)).
+  * **Thursday 10th February:**
+Jacques Jayez (L2C2, Lyon)
 
-  <span class="semspk">Arnaud Carayol</span> (IGM, Université Paris Est & CNRS).
+Projection, attachement et logique épistémique
 
-  <span class="semtitle">Structures defined by higher-order recursion schemes</span>
+  * **From Monday 31st January to Friday 4th February:**
 
-* **Thursday 24th February:**
+Separation logics and applications
 
-  <span class="semspk">Federico Aschieri</span> (Torino University, Italy).
+(winter school  [ER 04](http://www.ens-lyon.fr/DI/?p=1203) of the [Computer Science Department](http://www.ens-lyon.fr/DI/)).
+  * **Thursday 27th January:**
+[Choco](http://choco.pps.jussieu.fr/) seminar.
+  * **Thursday 20th January:**
+Pierre Hyvernat (LIMD, LAMA)
+([LIMD](http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en) seminar).
+  * **Monday 17th January:**
+Ugo Dal Lago (Université de Bologne & INRIA Sophia Antipolis)
 
-  <span class="semtitle">Classical Logic, Learning and Realizability</span>
+Linear Dependent Types and Relative Completeness.
 
-* **Monday 21st February:**
+  * **Thursday 13th January:**
+Thomas Seiller (IML, Marseille)
+([LIMD](http://www.lama.univ-savoie.fr/index.php?use=seminaires&equipe=logique&lang=en) seminar).
+  * **Thursday 6th January:**
+Danko Ilik,
 
-  <span class="semspk">Masahiro Hamano</span> (PRESTO, Japan Science and Technology Agency (JST))
+Constructive proofs of completeness, extra-intuitionistic principles, and delimited control operators
 
-  <span class="semtitle">A Geometry of Interaction for Polarized Linear Logic</span>
-
-* **From Monday 14th February to Friday 18th February:**
-
-  <span class="semtitle">Rule-based modelling and application to biomolecular networks</span>
-
-  (winter school [ER 06](http://www.ens-lyon.fr/DI/?p=1204) of the [DI][]).
-
-* **Thursday 10th February:**
-
-  <span class="semspk">Jacques Jayez</span> (L2C2, Lyon)
-
-  <span class="semtitle">Projection, attachement et logique épistémique</span>
-
-* **From Monday 31st January to Friday 4th February:**
-
-  <span class="semtitle">Separation logics and applications</span>
-
-  (winter school [ER 04](http://www.ens-lyon.fr/DI/?p=1203) of the [DI][]).
-
-* **Thursday 27th January:**
-
-  [Choco][] seminar.
-
-* **Thursday 20th January:**
-
-  <span class="semspk">Pierre Hyvernat</span> (LIMD, LAMA)
-
-  ([LIMD][] seminar).
-
-* **Monday 17th January:**
-
-  <span class="semspk">Ugo Dal Lago</span> (Université de Bologne & INRIA Sophia Antipolis)
-
-  <span class="semtitle">Linear Dependent Types and Relative Completeness.</span>
-
-* **Thursday 13th January:**
-
-  <span class="semspk">Thomas Seiller</span> (IML, Marseille)
-
-  ([LIMD][] seminar).
-
-* **Thursday 6th January:**
-
-  <span class="semspk">Danko Ilik</span>
-
-  <span class="semtitle">Constructive proofs of completeness, extra-intuitionistic principles, and delimited control operators</span>
-
-  [slides](Seminaire_slides/ilik-06-01-2011.pdf).
+[[slides]](http://perso.ens-lyon.fr/colin.riba/seminaire/slides/ilik-06-01-2011.pdf).
 
 ####  Since September 2010
 
