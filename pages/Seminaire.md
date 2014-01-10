@@ -10,19 +10,37 @@ published: true
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
+  * **Thursday 9th Jan,** 10:30 am, room B1:
+Thomas Powell (CARMIN postdoctoral fellow, IHES)
 
-  * **Thursday 20th June,** 10:30 am, room B2:
+ Bar recursive extensions of Goedel's system T
+
+Abstract: Extensions of Goedel's system T with variants of bar recursion play a crucial role in proof theory, where they are used to give a computational interpretation to strong subsystems of mathematics based on the axiom of countable choice. The canonical example of this is Spector's bar recursion, devised in the 1960s to solve the Dialectica interpretation of the double negation shift. However, the last decade or so has seen the development of a much broader variety of such extensions, including modified bar recursion, the symmetric `demand-driven' functional of Berardi, Bezem and Coquand, the update and open recursors of Berger and more recently the products of selection functions of Escardo and Oliva. In this talk I discuss aspects of the computability theory of bar recursion and its variants, and in particular I give an account of recent work on establishing the relationship between these variants and classifying extensions of system T according to primitive recursive definability.
+
+
+
+###  Past Events (since September 2010)
+
+####  Since January 2013
+
+  * **Thursday 19th Dec:**
+Lorenzo Clemente (LaBRI, Bordeaux).
+
+A saturation-based approach to the verification of higher-order functional programs
+
+(joint work with S. Salvati and I. Walukiewicz)
+
+  * **Thursday 21st Nov:**
+Peter Dybjer (Chalmers, Göteborg, Sweeden).
+
+Normalization by evaluation and game semantics
+
+  * **Thursday 20th June:**
 Igor Walukiewicz (LaBRI).
 
 Transfer theorem
 
 (joint work with Sylvain Salvati)
-We consider simply-typed lambda calculus with fixpoint operators. Evaluation of a term gives as a result the Böhm tree of the term. We show that evaluation is compatible with monadic second-order logic (MSOL). This means that for a fixed finite vocabulary of terms, the MSOL properties of Böhm trees of terms are effectively MSOL properties of terms themselves.  Theorems of this kind have been known for some graph operations: unfolding, and Muchnik iteration.
-Similarly to those results, our main theorem has diverse applications.  It can be used to show decidability results,  to construct classes of graphs with decidable MSOL theory,  or to obtain MSOL formulas expressing behavioral properties of terms. Another application is decidability of a control-flow synthesis problem.
-
-###  Past Events (since September 2010)
-
-####  Since January 2013
 
   * **Thursday 30th May:**
 Gabriel Scherer (Inria Gallium).
