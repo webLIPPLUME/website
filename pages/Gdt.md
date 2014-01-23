@@ -7,14 +7,12 @@ tags: null
 published: true
 ---
 
-_contact_ : **Russ Harmer** or **Pierre Clairambault** (russell.harmer or pierre.clairambault ’at’ ens-lyon.fr)
+_contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont désormais lieu le **lundi à 14h15**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 13/01/2014 : SMC week 1
-* 20/01/2014 : SMC week 2
 * 27/01/2014 : **Matteo Sammartino.** - An introduction to pre-sheaf models for nominal calculi.
 * 3/02/2014 : **Filippo Bonchi.** - TBA.
 * 10/02/2014 : SMC week 5
@@ -22,6 +20,8 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 20/01/2014 : SMC week 2
+* 13/01/2014 : SMC week 1
 * 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting.
    
    
