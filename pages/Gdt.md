@@ -13,15 +13,16 @@ _Sauf indication contraire, les exposés ont désormais lieu le **lundi à 14h15
 
 _Exposés à venir_ :
 
-* 27/01/2014 : **Matteo Sammartino.** - An introduction to pre-sheaf models for nominal calculi.
-* 3/02/2014 : **Filippo Bonchi.** - TBA.
-* 10/02/2014 : SMC week 5
+* 3/02/2014 : SMC week 4.
+* 10/02/2014 : SMC week 5.
+* 17/02/2014 : **Filippo Bonchi.** - TBA.
 
 
 _Exposés passés_ :
 
-* 20/01/2014 : SMC week 2
-* 13/01/2014 : SMC week 1
+* 27/01/2014 : **Matteo Sammartino.** - An introduction to pre-sheaf models for nominal calculi.
+* 20/01/2014 : SMC week 2.
+* 13/01/2014 : SMC week 1.
 * 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting.
    
    
