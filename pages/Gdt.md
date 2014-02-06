@@ -16,6 +16,7 @@ _Exposés à venir_ :
 * 3/02/2014 : SMC week 4.
 * 10/02/2014 : SMC week 5.
 * 17/02/2014 : **Filippo Bonchi.** TBA.
+* 3/03/2014 : **Valentin Blot.** TBA.
 
 
 _Exposés passés_ :
