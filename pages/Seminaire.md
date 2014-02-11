@@ -10,16 +10,35 @@ published: true
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
-  * **Thursday 9th Jan,** 10:30 am, room B1:
+
+ * **Thursday 20th Feb,** 10:30 am, room B2:
+Pierre-Evariste Dagan (Gallium, INRIA Paris-Rocquencourt)
+ 
+  Writing and verifying x86 assembly code in the Coq proof assistant
+
+With Nick Benton and Andrew Kennedy (Microsoft Research Cambridge), I
+have worked on CoqOS, a Coq library for programming and verifying x86
+assembly programs. This library offers an operational semantics of (a
+significant subset of) the x86 CPU, a certified assembler, and a
+separation logic for reasoning about x86 assembly programs. In this
+framework, I have implemented a regular expression compiler and proved
+its correctness : the resulting x86 code accepts a word iff the regexp
+matches that word.
+
+I will first give a brief introduction to CoqOS, demonstrating a few
+of its salient features. I shall put a special emphasis on its program
+logic, which is obtained by elegant algebraic means. I will then
+illustrate its workings with some of the programming and proving
+patterns used in my certified compiler.
+
+###  Past Events (since September 2010)
+
+####  Since January 2014
+
+  * **Thursday 9th Jan:**
 Thomas Powell (CARMIN postdoctoral fellow, IHES)
 
  Bar recursive extensions of Goedel's system T
-
-Abstract: Extensions of Goedel's system T with variants of bar recursion play a crucial role in proof theory, where they are used to give a computational interpretation to strong subsystems of mathematics based on the axiom of countable choice. The canonical example of this is Spector's bar recursion, devised in the 1960s to solve the Dialectica interpretation of the double negation shift. However, the last decade or so has seen the development of a much broader variety of such extensions, including modified bar recursion, the symmetric `demand-driven' functional of Berardi, Bezem and Coquand, the update and open recursors of Berger and more recently the products of selection functions of Escardo and Oliva. In this talk I discuss aspects of the computability theory of bar recursion and its variants, and in particular I give an account of recent work on establishing the relationship between these variants and classifying extensions of system T according to primitive recursive definability.
-
-
-
-###  Past Events (since September 2010)
 
 ####  Since January 2013
 
