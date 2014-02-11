@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 
-* 17/02/2014 : **Filippo Bonchi.** Co-induction up-to in a fibrational setting.
+* 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
 * 24/02/2014 : **Olivier Laurent.** TBA.
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 17/03/2014 : **Valentin Blot.** TBA.
