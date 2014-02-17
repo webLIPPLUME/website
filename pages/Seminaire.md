@@ -12,7 +12,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 ###  Next Events
 
  * **Thursday 20th Feb,** 10:30 am, room B2:
-Pierre-Evariste Dagan (Gallium, INRIA Paris-Rocquencourt)
+Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
  
   Writing and verifying x86 assembly code in the Coq proof assistant
 
