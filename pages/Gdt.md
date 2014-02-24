@@ -15,6 +15,7 @@ _Exposés à venir_ :
 
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 17/03/2014 : **Valentin Blot.** TBA.
+* TBA : **Colin Riba.** TBA.
 
 
 _Exposés passés_ :
