@@ -15,12 +15,14 @@ _Exposés à venir_ :
 
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 17/03/2014 : **Valentin Blot.** TBA.
+* 24/03/2014 : Rencontres GeoCal à Bordeaux.
+* 31/03/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * TBA : **Colin Riba.** TBA.
 
 
 _Exposés passés_ :
 
-* 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq).
+* 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E1].
 * 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
 * 10/02/2014 : SMC week 5.
 * 3/02/2014 : SMC week 4.
