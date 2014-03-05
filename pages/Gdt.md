@@ -16,10 +16,11 @@ _Exposés à venir_ :
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 17/03/2014 : **Valentin Blot.** TBA.
 * 24/03/2014 : Rencontres GeoCal à Bordeaux.
-* **jeudi 27/03/2014 : Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
+* **jeudi 27/03/2014 @ 10h30, salle B2 : Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 31/03/2014 : **Erika De Benedetti.** TBA.
 * 7/04/2014 : ETAPS.
 * 14/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
+* 21/04/2014 : Lundi de Pâques.
 * TBA : **Colin Riba.** TBA.
 
 
