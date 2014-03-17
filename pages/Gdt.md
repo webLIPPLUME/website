@@ -13,8 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 1/03/2014-16/03/2014 : Vacances scolaires.
-* 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting.
 * 24/03/2014 : Rencontres GeoCal à Bordeaux.
 * **jeudi 27/03/2014 @ 10h30, salle B2 : Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 31/03/2014 : **Erika De Benedetti.** TBA.
@@ -22,11 +20,14 @@ _Exposés à venir_ :
 * 14/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * **jeudi 17/04/2014 @ 10h30, salle B2 : Colin Riba.** TBA.
 * 21/04/2014 : Lundi de Pâques.
+* **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
 * 26/04/2014-11/05/2014 : Vacances scolaires.
 
 
 _Exposés passés_ :
 
+* 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E1].
+* 1/03/2014-16/03/2014 : Vacances scolaires.
 * 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E1].
 * 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
 * 10/02/2014 : SMC week 5.
