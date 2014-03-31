@@ -24,7 +24,7 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
-* 27/03/2014 : Matthieu Perrinel. Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
+* 27/03/2014 : **Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 24/03/2014 : Rencontres GeoCal à Bordeaux.
 * 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E1].
 * 1/03/2014-16/03/2014 : Vacances scolaires.
