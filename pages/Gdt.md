@@ -13,8 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 24/03/2014 : Rencontres GeoCal à Bordeaux.
-* **jeudi 27/03/2014 @ 10h30, salle B2 : Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 5/04/2014-13/04/2014 : ETAPS.
 * 14/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
@@ -26,6 +24,8 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 27/03/2014 : Matthieu Perrinel. Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
+* 24/03/2014 : Rencontres GeoCal à Bordeaux.
 * 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E1].
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E1].
