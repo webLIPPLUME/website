@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 5/04/2014-13/04/2014 : ETAPS.
-* 14/04/2014 : **Thomas Streicher.** TBA.
+* 14/04/2014 : **_Thomas Streicher_.** TBA.
 * **jeudi 17/04/2014 @ 10h30, salle B2 : Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 21/04/2014 : Lundi de Pâques.
 * **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
@@ -33,7 +33,7 @@ _Exposés passés_ :
 * 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
 * 10/02/2014 : SMC week 5.
 * 3/02/2014 : SMC week 4.
-* 27/01/2014 : **Matteo Sammartino.** An introduction to pre-sheaf models for nominal calculi.
+* 27/01/2014 : **_Matteo Sammartino_.** An introduction to pre-sheaf models for nominal calculi.
 * 20/01/2014 : SMC week 2.
 * 13/01/2014 : SMC week 1.
 * 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting.
