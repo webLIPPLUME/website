@@ -13,17 +13,18 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 5/04/2014-13/04/2014 : ETAPS.
-* 14/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
-* **jeudi 17/04/2014 @ 10h30, salle B2 : Colin Riba.** TBA.
+* 14/04/2014 : **Thomas Streicher.** TBA.
+* **jeudi 17/04/2014 @ 10h30, salle B2 : Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 21/04/2014 : Lundi de Pâques.
 * **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
 * 26/04/2014-11/05/2014 : Vacances scolaires.
+* TBA : **Colin Riba.** TBA.
 
 
 _Exposés passés_ :
 
+* 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 27/03/2014 : **Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 24/03/2014 : Rencontres GeoCal à Bordeaux.
 * 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E1].
