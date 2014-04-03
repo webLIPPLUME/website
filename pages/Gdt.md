@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 5/04/2014-13/04/2014 : ETAPS.
-* 14/04/2014 : **_Thomas Streicher_.** TBA.
+* 14/04/2014 : **_Thomas Streicher_.** A classical realizability model arising from a stable model of untyped lambda calculus.
 * **jeudi 17/04/2014 @ 10h30, salle B2 : Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 21/04/2014 : Lundi de Pâques.
 * **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
