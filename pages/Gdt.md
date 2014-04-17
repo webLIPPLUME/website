@@ -20,7 +20,7 @@ _Exposés à venir_ :
 * 2/06/2014-6/06/2014 : IHP workshop 2.
 * 9/06/2014 : Lundi de Pentecôte.
 * 10/06/2014-14/06/2014 : IHP workshop 3.
-* 16/06/2014-18/06/2014 : [IHP workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/).
+* 16/06/2014-18/06/2014 : [informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/).
 * 23/06/2014-27/06/2014 : IHP workshop 4.
 * 5/07-2014-31/08/2014 : Vacances scolaires.
 
