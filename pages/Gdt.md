@@ -13,15 +13,22 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* **jeudi 17/04/2014 @ 10h30, salle B2 : Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 21/04/2014 : Lundi de Pâques.
 * **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
 * 26/04/2014-11/05/2014 : Vacances scolaires.
-* TBA : **Colin Riba.** TBA.
+* 12/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
+* 2/06/2014-6/06/2014 : IHP workshop 2.
+* 9/06/2014 : Lundi de Pentecôte.
+* 10/06/2014-14/06/2014 : IHP workshop 3.
+* 16/06/2014-18/06/2014 : [IHP workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/).
+* 23/06/2014-27/06/2014 : IHP workshop 4.
+* 5/07-2014-31/08/2014 : Vacances scolaires.
 
 
 _Exposés passés_ :
 
+* 17/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
+* 14/04/2014 : _annulé_
 * 5/04/2014-13/04/2014 : ETAPS.
 * 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 27/03/2014 : **Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
