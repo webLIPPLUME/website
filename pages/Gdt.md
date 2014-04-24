@@ -13,8 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 21/04/2014 : Lundi de Pâques.
-* **jeudi 24/04/2014 @ 10h30, salle B2 : Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
 * 26/04/2014-11/05/2014 : Vacances scolaires.
 * 12/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
 * 2/06/2014-6/06/2014 : IHP workshop 2.
@@ -27,6 +25,8 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 24/04/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
+* 21/04/2014 : Lundi de Pâques.
 * 17/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 14/04/2014 : _annulé_
 * 5/04/2014-13/04/2014 : ETAPS.
