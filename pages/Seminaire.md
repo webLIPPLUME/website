@@ -11,29 +11,34 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
 ###  Next Events
 
- * **Thursday 20th Feb,** 10:30 am, room B2:
-Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
+ * **Thursday 20th Feb,** 10:30 am, room B1:
+Simona Ronchi Della Rocca (Torino, Italy)
  
-  Writing and verifying x86 assembly code in the Coq proof assistant
+  Intersection types, inhabitation and solvability
 
-With Nick Benton and Andrew Kennedy (Microsoft Research Cambridge), I
-have worked on CoqOS, a Coq library for programming and verifying x86
-assembly programs. This library offers an operational semantics of (a
-significant subset of) the x86 CPU, a certified assembler, and a
-separation logic for reasoning about x86 assembly programs. In this
-framework, I have implemented a regular expression compiler and proved
-its correctness : the resulting x86 code accepts a word iff the regexp
-matches that word.
+The inhabitation problem for intersection types is known to be
+undecidable. We study the problem in the case of non-idempotent
+intersection, and we prove decidability through a sound and complete
+algorithm. The interest in this problem arises from the unexplored
+relation between the problem of characterizing solvability by
+intersection types and the inhabitation problem for them. While this
+relation is implicit and in some sense trivial for the lambda-calculus,
+it can become crucial for extension of it allowing abstraction with
+respect to patterns instead that only variables. In fact, the solution
+of the inhabitation problem for non-idempotent intersection allows for a
+complete characterization of solvability in such calculi, through
+intersection types.
 
-I will first give a brief introduction to CoqOS, demonstrating a few
-of its salient features. I shall put a special emphasis on its program
-logic, which is obtained by elegant algebraic means. I will then
-illustrate its workings with some of the programming and proving
-patterns used in my certified compiler.
+
 
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
+
+ * **Thursday 20th Feb:**
+Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
+ 
+  Writing and verifying x86 assembly code in the Coq proof assistant
 
   * **Thursday 9th Jan:**
 Thomas Powell (CARMIN postdoctoral fellow, IHES)
