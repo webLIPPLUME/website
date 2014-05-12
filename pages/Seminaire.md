@@ -11,7 +11,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
 ###  Next Events
 
- * **Thursday 20th Feb,** 10:30 am, room B1:
+ * **Thursday 15th May,** 10:30 am, room B1:
 Simona Ronchi Della Rocca (Torino, Italy)
  
   Intersection types, inhabitation and solvability
@@ -29,7 +29,16 @@ of the inhabitation problem for non-idempotent intersection allows for a
 complete characterization of solvability in such calculi, through
 intersection types.
 
+ * **Thursday 22nd May,** 10:30 am:
+Denis Kuperberg (Warsaw University, Poland)
 
+  The theory of regular cost functions, from finite words to infinite trees
+  
+The theory of regular cost functions, initiated by Colcombet and
+following work with Mikołaj Bojańczyk, is a satisfying framework to extend a large
+spectrum of results on regular languages to a quantitative setting.
+It allows to lift  various formalisms from a boolean semantics to a quantitative semantic that allows to express the existence of bounds, while preserving various decidability properties. These formalisms include automata, monoids, monadic second order logic (MSO), linear temporal logic (LTL). Additionnally, some difficult decidability problems about regular languages can be formulated in terms of cost functions, providing a solution.
+I will present the central concepts of the theory as well as some results and current status.
 
 ###  Past Events (since September 2010)
 
