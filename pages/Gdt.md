@@ -13,23 +13,25 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 26/04/2014-11/05/2014 : Vacances scolaires.
-* 12/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
-* 2/06/2014-6/06/2014 : IHP workshop 2.
+* 19/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
+* 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
+* 2/06/2014-6/06/2014 : _IHP workshop 2._
 * 9/06/2014 : Lundi de Pentecôte.
-* 10/06/2014-14/06/2014 : IHP workshop 3.
-* 16/06/2014-18/06/2014 : [informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/).
-* 23/06/2014-27/06/2014 : IHP workshop 4.
+* 10/06/2014-14/06/2014 : _IHP workshop 3._
+* 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
+* 23/06/2014-27/06/2014 : _IHP workshop 4._
 * 5/07-2014-31/08/2014 : Vacances scolaires.
 
 
 _Exposés passés_ :
 
+* 12/05/2014 : _exposé de candidat MCF_
+* 26/04/2014-11/05/2014 : Vacances scolaires.
 * 24/04/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
 * 21/04/2014 : Lundi de Pâques.
 * 17/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
 * 14/04/2014 : _annulé_
-* 5/04/2014-13/04/2014 : ETAPS.
+* 5/04/2014-13/04/2014 : _ETAPS._
 * 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 27/03/2014 : **Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
 * 24/03/2014 : Rencontres GeoCal à Bordeaux.
@@ -37,11 +39,11 @@ _Exposés passés_ :
 * 1/03/2014-16/03/2014 : Vacances scolaires.
 * 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E1].
 * 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
-* 10/02/2014 : SMC week 5.
-* 3/02/2014 : SMC week 4.
+* 10/02/2014 : _SMC week 5._
+* 3/02/2014 : _SMC week 4._
 * 27/01/2014 : **_Matteo Sammartino_.** An introduction to pre-sheaf models for nominal calculi.
-* 20/01/2014 : SMC week 2.
-* 13/01/2014 : SMC week 1.
+* 20/01/2014 : _SMC week 2._
+* 13/01/2014 : _SMC week 1._
 * 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting.
    
    
