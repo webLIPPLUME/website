@@ -29,7 +29,7 @@ of the inhabitation problem for non-idempotent intersection allows for a
 complete characterization of solvability in such calculi, through
 intersection types.
 
- * **Thursday 22nd May,** 10:30 am:
+ * **Thursday 22nd May,** 10:30 am, room B1:
 Denis Kuperberg (Warsaw University, Poland)
 
   The theory of regular cost functions, from finite words to infinite trees
