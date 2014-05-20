@@ -13,7 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 19/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
 * 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
 * 2/06/2014-6/06/2014 : _IHP workshop 2._
 * 9/06/2014 : Lundi de Pentecôte.
@@ -25,6 +24,7 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 19/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
 * 12/05/2014 : _exposé de candidat MCF_
 * 26/04/2014-11/05/2014 : Vacances scolaires.
 * 24/04/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
