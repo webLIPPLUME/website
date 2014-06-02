@@ -13,8 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
-* 2/06/2014-6/06/2014 : _IHP workshop 2._
 * 9/06/2014 : Lundi de Pentecôte.
 * 10/06/2014-14/06/2014 : _IHP workshop 3._
 * 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
@@ -24,6 +22,9 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 2/06/2014-6/06/2014 : _IHP workshop 2._
+* 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
+* 26/05/2014 : _pause_
 * 19/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
 * 12/05/2014 : _exposé de candidat MCF_
 * 26/04/2014-11/05/2014 : Vacances scolaires.
