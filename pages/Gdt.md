@@ -13,14 +13,14 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 10/06/2014-14/06/2014 : _IHP workshop 3._
-* 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
-* 23/06/2014-27/06/2014 : _IHP workshop 4._
-* 5/07-2014-31/08/2014 : Vacances scolaires.
 
 
 _Exposés passés_ :
 
+* 5/07-2014-31/08/2014 : Vacances scolaires.
+* 23/06/2014-27/06/2014 : _IHP workshop 4._
+* 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
+* 10/06/2014-14/06/2014 : _IHP workshop 3._
 * 9/06/2014 : Lundi de Pentecôte.
 * 2/06/2014-6/06/2014 : _IHP workshop 2._
 * 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
