@@ -16,6 +16,7 @@ Name | position
 *Catherine Desplanches*  | Assistante d'équipe/ Team assistant
 [Federico Aschieri][] | Post doctorant ([former position][Federico Aschieri PPS])
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
+[Emmanuel Beffara][]   | ---
 [Valentin Blot][]      | Doctorant / Phd student
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
@@ -31,6 +32,7 @@ Name | position
 [Matthieu Perrinel][]  | Doctorant / PhD student
 [Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
+[Frédéric Prost][]     | ---
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 [Lionel Rieg][]        | Doctorant / PhD student
 [Thanos Tsouanas][]    | Doctorant / PhD student
