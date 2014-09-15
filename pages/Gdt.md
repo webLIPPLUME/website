@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 15/09/2014 : **Frédéric Prost.** Graph Transformations : cloning issues.
-* 22/09/2014 : **Emmanuel Beffara.** TBA
+* 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 29/09/2014 : **Paul Brunet.** TBA
 
 _Exposés passés_ :
