@@ -6,6 +6,9 @@ timestamp: "2013-03-28 10:39:37 +0200"
 tags: null
 published: true
 ---
+
+[Frédéric Prost]: http://perso.ens-lyon.fr/frederic.prost/
+[Emmanuel Beffara]: http://perso.ens-lyon.fr/emmanuel.beffara/
 [Aurélien Pardon]: http://perso.ens-lyon.fr/aurelien.pardon/
 [Alexander Kreuzer Darmstadt]: http://www.mathematik.tu-darmstadt.de/~akreuzer/ (@ Darmstadt)
 [Alexander Kreuzer]: http://perso.ens-lyon.fr/alexander.kreuzer/ (Alexander Kreuzer)
