@@ -7,6 +7,7 @@ tags: null
 published: true
 ---
 
+[Simon Castellan]: http://perso.ens-lyon.fr/simon.castellan/
 [Frédéric Prost]: http://perso.ens-lyon.fr/frederic.prost/
 [Emmanuel Beffara]: http://perso.ens-lyon.fr/emmanuel.beffara/
 [Aurélien Pardon]: http://perso.ens-lyon.fr/aurelien.pardon/
