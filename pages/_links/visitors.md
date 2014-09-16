@@ -30,7 +30,7 @@ published: true
 [Michele Abrusci]: http://host.uniroma3.it/dipartimenti/filosofia/personale/schdado2.htm (Michele Abrusci)
 [Paolo Oliva]: http://www.eecs.qmul.ac.uk/~pbo/ (Paolo Oliva)
 [Pawel Sobocinski]: http://users.ecs.soton.ac.uk/ps/ (Pawel Sobocinski)
-[Silvia Ghilezan]: http://imft.ftn.uns.ac.rs/~silvia/ "Silvia Ghilezan"
+[Silvia Ghilezan]: http://imft.ftn.uns.ac.rs/~silvia/ (Silvia Ghilezan)
 [Simona Ronchi Della Rocca]: http://www.di.unito.it/~ronchi/ (Simona Ronchi Della Rocca)
 [Steffen van Bakel]: http://www.doc.ic.ac.uk/~svb/ (Steffen van Bakel)
 [Ugo Dal Lago]: http://www.cs.unibo.it/~dallago/ (Ugo Dal Lago)
