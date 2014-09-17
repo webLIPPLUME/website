@@ -16,7 +16,7 @@ Name | position
 *Catherine Desplanches*  | Assistante d'équipe/ Team assistant
 [Federico Aschieri][] | Post doctorant ([former position][Federico Aschieri PPS])
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
-[Emmanuel Beffara][]   | ---
+[Emmanuel Beffara][]   | --- ([former position](http://iml.univ-mrs.fr/~beffara/))
 [Valentin Blot][]      | Doctorant / Phd student
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
