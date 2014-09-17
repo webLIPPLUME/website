@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
-* 29/09/2014 : **Paul Brunet.** TBA
+* 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
 
 _Exposés passés_ :
 
