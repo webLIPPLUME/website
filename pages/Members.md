@@ -21,7 +21,7 @@ Name | position
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
-[Simon Castellan][]    | ---
+[Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS) 
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
