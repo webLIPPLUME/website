@@ -1,0 +1,32 @@
+{
+    "name": "paudebau/plume-website",
+    "description" : "Plume website dependencies",
+    "keywords": ["ens lyon","lip","plume"],
+    "homepage": "http://github.com/paudebau/plume-website",
+    "license": "MIT",
+    "authors": [
+        {"name": "Philippe Audebaud", "email": "paudebau@gmail.com", "homepage": "http://bb.audebaud.org"}
+    ],
+    "repositories": [
+        {"type": "vcs", "url": "https://github.com/Jasig/phpCAS.git"},
+        {"type": "vcs", "url": "https://github.com/paudebau/h2o-php.git"},
+        {"type": "vcs", "url": "https://github.com/tuupola/slim-fake-mcrypt.git"}
+    ],
+    "require": {
+        "tuupola/slim-fake-mcrypt": "dev-master",
+        "slim/slim": "2.3.2",
+        "symfony/yaml": "2.3",
+        "paudebau/h2o-php": "dev-master",
+        "KnpLabs/github-api": "dev-master",
+        "dropbox/dropbox-sdk": "dev-master",
+	"suin/php-rss-writer": ">=1.0",
+        "dflydev/markdown": "dev-master",
+        "easybook/geshi": "dev-master",
+        "evert/sitemap-php": "1.0.0",
+        "intouch/phpcas": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Plume": "lib/" }
+    },
+    "minimum-stability": "dev"   
+}
