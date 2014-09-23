@@ -13,11 +13,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
 
 _Exposés passés_ :
 
+* 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 15/09/2014 : **Frédéric Prost.** Graph Transformations : cloning issues.
 * 5/07-2014-31/08/2014 : Vacances scolaires.
 * 23/06/2014-27/06/2014 : _IHP workshop 4._
