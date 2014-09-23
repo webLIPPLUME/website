@@ -19,8 +19,9 @@ _Exposés passés_ :
 
 * 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 15/09/2014 : **Frédéric Prost.** Graph Transformations : cloning issues.
-* 07/07/2014 : **Anupam Das.** On the Pigeonhole and Related Principles in Deep Inference and Monotone Systems.
 * 5/07-2014-31/08/2014 : Vacances scolaires.
+* 10/07/2014 : **Ryan Kavanagh.**  Coupled logical bisimulations for the lambda-calculus.
+* 07/07/2014 : **Anupam Das.** On the Pigeonhole and Related Principles in Deep Inference and Monotone Systems.
 * 23/06/2014-27/06/2014 : _IHP workshop 4._
 * 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
 * 10/06/2014-14/06/2014 : _IHP workshop 3._
