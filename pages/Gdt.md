@@ -14,6 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
+* 06/10/2014 : **Fabio Zanasi.** How to kill epsilons with a dagger - a coalgebraic take on systems with algebraic label structure
 
 _Exposés passés_ :
 
