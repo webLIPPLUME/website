@@ -7,6 +7,8 @@ tags: null
 published: true
 ---
 
+[Anupman Das]: http://perso.ens-lyon.fr/anupman.das/
+[Matteo Mio]: http://perso.ens-lyon.fr/matteo.mio/
 [Simon Castellan]: http://perso.ens-lyon.fr/simon.castellan/
 [Frédéric Prost]: http://perso.ens-lyon.fr/frederic.prost/
 [Emmanuel Beffara]: http://perso.ens-lyon.fr/emmanuel.beffara/
