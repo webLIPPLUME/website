@@ -13,7 +13,7 @@ published: true
 Name | position
 ---- | --------
 [Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
-*Catherine Desplanches*  | Assistante d'équipe/ Team assistant
+**Catherine Desplanches**  | Assistante d'équipe/ Team assistant
 [Federico Aschieri][] | Post doctorant ([former position][Federico Aschieri PPS])
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
