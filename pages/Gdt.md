@@ -13,10 +13,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 06/10/2014 : **Fabio Zanasi.** How to kill epsilons with a dagger - a coalgebraic take on systems with algebraic label structure
+* 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
 
 _Exposés passés_ :
 
+* 06/10/2014 : **Fabio Zanasi.** How to kill epsilons with a dagger - a coalgebraic take on systems with algebraic label structure.
 * 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
 * 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 15/09/2014 : **Frédéric Prost.** Graph Transformations : cloning issues.
