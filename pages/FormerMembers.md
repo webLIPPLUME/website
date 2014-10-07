@@ -2,13 +2,18 @@
 title: "Anciens membres - Former members"
 subject: "Historique des membres de l'équipe depuis sa création."
 author: Plume Webmaster
-timestamp: "2013-09-02 12:49:11 +0200"
+timestamp: 2014-10-07 12:11:52 +0200
 tags: null
 published: true
 ---
 
 Name | Current position
 ---- | ----------------
+Federico Aschieri      | [Federico Aschieri][]
+Guilhem Jaber          | Joined the [Ascola Team](http://www.emn.fr/z-info/ascola/doku.php) from the [École des Mines de Nantes](http://www.mines-nantes.fr/en/)
+Lionel Rieg            | ATER at Collège de France avec Gérard Berry ([more...][Lionel Rieg])
+Thanos Tsouanas        | follow him via [his personal website](http://www.tsouanas.org/)
+Alexander Kreuzer      | [research fellow](http://www.math.nus.edu.sg/~matkaps/) in the [mathematics departement of NUS](http://www.math.nus.edu.sg/)
 Alexandre Miquel       | Professeur Universidad della Republica (Montevideo, Uruguay)
 [Antoine Madet][]      | Post doc INRIA/ENS in [Parkas](http://www.di.ens.fr/ParkasTeam.html) team
 [Marc Lasson][]        | Psot doc Cambridge ([new page](http://www.cl.cam.ac.uk/~mrl42/))

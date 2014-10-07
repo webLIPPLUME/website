@@ -14,7 +14,6 @@ Name | position
 ---- | --------
 [Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 **Catherine Desplanches**  | Assistante d'équipe/ Team assistant
-[Federico Aschieri][] | Post doctorant ([former position][Federico Aschieri PPS])
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
 [Valentin Blot][]      | Doctorant / Phd student
@@ -26,8 +25,6 @@ Name | position
 [Anupman Das][]        | Post doctorant
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
-[Guilhem Jaber][]      | Doctorant / Phd student (Located in Nantes)
-[Alexander Kreuzer][]  | Post doctorant ([former position][Alexander Kreuzer Darmstadt])
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Jean-Marie Madiot][]  | Doctorant / PhD student
@@ -37,8 +34,6 @@ Name | position
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
-[Lionel Rieg][]        | Doctorant / PhD student
-[Thanos Tsouanas][]    | Doctorant / PhD student
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
 
 ###  Invités récents / Visitors
