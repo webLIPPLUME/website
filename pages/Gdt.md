@@ -14,6 +14,8 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
+* 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
+* 27/10/2014 : _Vacances scolaires._
 
 _Exposés passés_ :
 
