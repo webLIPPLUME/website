@@ -12,10 +12,13 @@ published: true
 
 #### Behaviours as solutions for higher-order programs and processes 	                                                                                               
 Proposed by *Daniel Hirschkoff* (Oct  2014)
-See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf) for more informations.
+See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf).
 #### Types and interpretations for programs of polynomial time complexity
 Proposed by *Patrick Baillot* (Oct  2014)
-See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_interpretations2015.pdf) for more informations.
+See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_interpretations2015.pdf).
+#### Relativized Implicit Computational Complexity and Declassification
+Proposed by *Frédéric Prost* (Oct  2014)
+See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracles.htm).
 
 ###  [M1 Internships][8]
 
