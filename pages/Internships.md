@@ -17,10 +17,9 @@ _None_ as for now.
 
 ###  [M2 Internships][9]
 
-#### Behavioural equivalences, coinduction and higher-order calculi                                                                                                   
-
-Proposed by *daniel Hirschkoff* (Oct 22th, 2013)
-See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-bisim.pdf) for more informations.
+#### Behaviours as solutions for higher-order programs and processes 	                                                                                               
+Proposed by *daniel Hirschkoff* (Oct  2014)
+See [this page]( http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf) for more informations.
 
 ### Internships proposed in 2012
 
