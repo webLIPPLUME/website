@@ -7,13 +7,6 @@ tags: null
 published: true
 ---
 
-###  [L3 Internships][7]
-
-_None_ as for now.
-
-###  [M1 Internships][8]
-
-_None_ as for now.
 
 ###  [M2 Internships][9]
 
@@ -24,6 +17,13 @@ See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf) 
 Proposed by *Patrick Baillot* (Oct  2014)
 See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_interpretations2015.pdf) for more informations.
 
+###  [M1 Internships][8]
+
+_None_ as for now.
+
+###  [L3 Internships][7]
+
+_None_ as for now.
 
 
 [7]: http://www.ens-lyon.fr/DI/stageL3
