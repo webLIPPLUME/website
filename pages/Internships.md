@@ -18,32 +18,13 @@ _None_ as for now.
 ###  [M2 Internships][9]
 
 #### Behaviours as solutions for higher-order programs and processes 	                                                                                               
-Proposed by *daniel Hirschkoff* (Oct  2014)
-See [this page]( http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf) for more informations.
+Proposed by *Daniel Hirschkoff* (Oct  2014)
+See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf) for more informations.
+#### Types and interpretations for programs of polynomial time complexity
+Proposed by *Patrick Baillot* (Oct  2014)
+See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_interpretations2015.pdf) for more informations.
 
-### Internships proposed in 2012
 
-#### Kleene algebras, automata and regular expressions
-
-Proposed by *Damien Pous* (Nov. 6th, 2012).
-See [this page][Damien Pous] for more.
-
-#### PiCoq: pi-calculus within Coq
-
-Proposed by *Damien Pous* (Nov. 6th, 2012).
-See [this page][Damien Pous] for more.
-
-#### Decision procedures for cyclic linear logic and non-commutative structures
-
-Proposed by *Damien Pous* (Nov. 6th, 2012).
-See [this page][Damien Pous] for more.
-
-#### Coinductive algorithms for non standard automata
-
-Proposed by *Damien Pous* and *Filippo Bonchi* (Nov. 6th, 2012).
-See [this page][Damien Pous] for more.
-
-[Damien Pous]: http://perso.ens-lyon.fr/damien.pous/stages.html
 
 [7]: http://www.ens-lyon.fr/DI/stageL3
 [8]: http://www.ens-lyon.fr/DI/stageM1
