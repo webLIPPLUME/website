@@ -13,12 +13,15 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
-* 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
-* 27/10/2014 : _Vacances scolaires._
+* 3/11/2014 : **Simon Castellan.** La strategie de la fourchette.
+* 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
+* 17/11/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
 
 _Exposés passés_ :
 
+* 27/10/2014 : _Vacances scolaires._
+* 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
+* 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
 * 06/10/2014 : **Fabio Zanasi.** How to kill epsilons with a dagger - a coalgebraic take on systems with algebraic label structure.
 * 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
 * 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
