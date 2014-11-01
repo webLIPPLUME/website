@@ -2,7 +2,7 @@
 title: Groupe de travail
 subject: "L'actualité du groupe de travail des lundi."
 author: Plume Webmaster
-timestamp: 2014-11-01 15:15:44 +0200
+timestamp: 2014-11-01 15:18:54 +0200
 tags: null
 published: true
 ---
@@ -17,6 +17,8 @@ _Exposés à venir_ :
 * 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
 * 17/11/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
+
+
 _Exposés passés_ :
 
 * 27/10/2014 : _Vacances scolaires._
