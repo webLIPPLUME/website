@@ -2,7 +2,7 @@
 title: Groupe de travail
 subject: "L'actualité du groupe de travail des lundi."
 author: Plume Webmaster
-timestamp: 2014-11-01 15:18:54 +0200
+timestamp: "2014-11-01 15:18:54 +0200"
 tags: null
 published: true
 ---
@@ -13,14 +13,17 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-* 3/11/2014 : **Simon Castellan.** La strategie de la fourchette.
+
 * 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
-* 17/11/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
+* 17/11/2014 : _Pas de GdT_
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
+* 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
+* 08/12/2014 : **Matteo Mio.** TBA
 
 
 _Exposés passés_ :
 
+* 3/11/2014 : **Simon Castellan.** La strategie de la fourchette.
 * 27/10/2014 : _Vacances scolaires._
 * 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
 * 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
