@@ -15,6 +15,7 @@ _Exposés à venir_ :
 
 
 * 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
+* 12/11/2014 : **_Jim Laird_.** Quantitative Semantics for Mobility.
 * 17/11/2014 : _Pas de GdT_
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
 * 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
