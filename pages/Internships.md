@@ -7,7 +7,6 @@ tags: null
 published: true
 ---
 
-
 ###  [M2 Internships][9]
 
 #### Behaviours as solutions for higher-order programs and processes 	                                                                                               
@@ -19,6 +18,15 @@ See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_inter
 #### Relativized Implicit Computational Complexity and Declassification
 Proposed by *Frédéric Prost* (Oct  2014)
 See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracles.htm).
+#### Coinductive and symbolic algorithms for non standard automata 
+Proposed by *Damien Pous* (Nov 2014)
+See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
+#### Formalisation and certification of ownership in a specialised Java virtual machine
+Proposed by *Damien Pous* (Nov 2014)
+See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
+#### PiCoq: pi-calculus within Coq
+Proposed by *Damien Pous* (Nov 2014)
+See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 
 ###  [M1 Internships][8]
 
