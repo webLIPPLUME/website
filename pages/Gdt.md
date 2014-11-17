@@ -13,10 +13,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 
 _Exposés à venir_ :
 
-
-* 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
-* 12/11/2014 : **_Jim Laird_.** Quantitative Semantics for Mobility.
-* 17/11/2014 : _Pas de GdT_
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
 * 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
 * 08/12/2014 : **Matteo Mio.** TBA
@@ -24,6 +20,9 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 17/11/2014 : _Pas de GdT_
+* 12/11/2014 : **_Jim Laird_.** Quantitative Semantics for Mobility.
+* 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
 * 3/11/2014 : **Simon Castellan.** La strategie de la fourchette.
 * 27/10/2014 : _Vacances scolaires._
 * 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
