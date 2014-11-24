@@ -14,6 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h15**, en **sa
 _Exposés à venir_ :
 
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
+* 27/11/2014 : [Trends in Graph Transformation](http://perso.ens-lyon.fr/frederic.prost/TGT.html).
 * 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
 * 08/12/2014 : **Matteo Mio.** TBA
 
