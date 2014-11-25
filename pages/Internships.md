@@ -27,6 +27,9 @@ See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 #### PiCoq: pi-calculus within Coq
 Proposed by *Damien Pous* (Nov 2014)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
+#### Étude logique de l'ordonnancement dans les algèbres de processus
+Proposed by *Emmanuel Beffara* (Nov 2014)
+See [this page](http://iml.univ-mrs.fr/~beffara/stage-m2if.pdf).
 
 ###  [M1 Internships][8]
 
