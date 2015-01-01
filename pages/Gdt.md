@@ -13,10 +13,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 15/12/2014 : _Pas de GdT_
+* 05/01/2015 : **Adrien Basso-Blandin.** Conception d’un langage dédié à la conception de fonctions biologiques de synthèse par compilation de spécifications comportementales.
 
 _Exposés passés_ :
 
+* 15/12/2014 : _Pas de GdT_
 * 08/12/2014 : **Matteo Mio.** An overview on Monadic Second Order Logic (MSO).
 * 27/11/2014 : [Trends in Graph Transformation](http://perso.ens-lyon.fr/frederic.prost/TGT.html).
 * 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
