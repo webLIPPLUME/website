@@ -18,57 +18,34 @@ _Exposés à venir_ :
 _Exposés passés_ :
 
 * 05/01/2015 : **Adrien Basso-Blandin.** Conception d’un langage dédié à la conception de fonctions biologiques de synthèse par compilation de spécifications comportementales.
-* 15/12/2014 : _Pas de GdT_
+  
+### Archives
+
+#### _Exposés proposés en 2014_
+
 * 08/12/2014 : **Matteo Mio.** An overview on Monadic Second Order Logic (MSO).
-* 27/11/2014 : [Trends in Graph Transformation](http://perso.ens-lyon.fr/frederic.prost/TGT.html).
 * 01/12/2014 : **Pierre Clairambault.** Game semantics and normalization by evaluation.
 * 24/11/2014 : **Philippe Audebaud.** Ciao Scott. Benvenuto Zariski.
-* 17/11/2014 : _Pas de GdT_
 * 12/11/2014 : **_Jim Laird_.** Quantitative Semantics for Mobility.
-* 10/11/2014 : _Pas de GdT (pont du 11 novembre)_
 * 3/11/2014 : **Simon Castellan.** La strategie de la fourchette.
-* 27/10/2014 : _Vacances scolaires._
-* 20/10/2014 : _Après-midi «Trends in computer security» au LIP._
 * 13/10/2014 : **Anupam Das.** Some developments on the linear fragment of classical propositional logic.
 * 06/10/2014 : **Fabio Zanasi.** How to kill epsilons with a dagger - a coalgebraic take on systems with algebraic label structure.
 * 29/09/2014 : **Paul Brunet.** Decidability of Identity-free Relational Kleene Lattices.
 * 22/09/2014 : **Emmanuel Beffara.** Proofs as schedules.
 * 15/09/2014 : **Frédéric Prost.** Graph Transformations : cloning issues.
-* 5/07-2014-31/08/2014 : Vacances scolaires.
 * 10/07/2014 : **Ryan Kavanagh.**  Coupled logical bisimulations for the lambda-calculus.
 * 07/07/2014 : **Anupam Das.** On the Pigeonhole and Related Principles in Deep Inference and Monotone Systems.
-* 23/06/2014-27/06/2014 : _IHP workshop 4._
-* 16/06/2014-18/06/2014 : _[informal workshop on ICC](http://lipn.univ-paris13.fr/~mazza/HOComplexity/)._
-* 10/06/2014-14/06/2014 : _IHP workshop 3._
-* 9/06/2014 : Lundi de Pentecôte.
-* 2/06/2014-6/06/2014 : _IHP workshop 2._
 * 2/06/2014 : **Jean-Marie Madiot.** Bisimulations up-to: beyond first-order transition systems.
-* 26/05/2014 : _pause_
 * 19/05/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E3].
-* 12/05/2014 : _exposé de candidat MCF_
-* 26/04/2014-11/05/2014 : Vacances scolaires.
 * 24/04/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E2].
-* 21/04/2014 : Lundi de Pâques.
 * 17/04/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E2].
-* 14/04/2014 : _annulé_
-* 5/04/2014-13/04/2014 : _ETAPS._
 * 31/03/2014 : **Erika De Benedetti.** Elementary lambda-calculus for a polyvalent characterization of k-(F)EXP.
 * 27/03/2014 : **Matthieu Perrinel.** Stratified Nested Linear Logic: passage des critères sémantiques à un système de type.
-* 24/03/2014 : Rencontres GeoCal à Bordeaux.
 * 17/03/2014 : **Valentin Blot.** Realizability for classical analysis in a reference-enabled setting [S1E1].
-* 1/03/2014-16/03/2014 : Vacances scolaires.
 * 24/02/2014 : **Olivier Laurent.** From Coq through System F to Linear Logic (the theory of l2coq) [S1E1].
 * 17/02/2014 : **Filippo Bonchi & Daniela Petrisan.** Co-induction up-to in a fibrational setting.
-* 10/02/2014 : _SMC week 5._
-* 3/02/2014 : _SMC week 4._
 * 27/01/2014 : **_Matteo Sammartino_.** An introduction to pre-sheaf models for nominal calculi.
-* 20/01/2014 : _SMC week 2._
-* 13/01/2014 : _SMC week 1._
 * 6/01/2014 : **Daniela Petrisan.** Bi-simulation up-to in a fibrational setting.
-   
-   
-  
-### Archives
 
 #### _Exposés proposés en 2013_
 
