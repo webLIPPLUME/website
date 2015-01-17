@@ -13,10 +13,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 12/01/2015 (14h30): **_Alexandra Silva_.** Automata Learning: A Categorical Perspective. 
+* 19/01/2015 (14h15): **Olivier Laurent.** Small Problems Related with Provability in Linear Logic.
 
 _Exposés passés_ :
 
+* 12/01/2015 : **_Alexandra Silva_.** Automata Learning: A Categorical Perspective. 
 * 05/01/2015 : **Adrien Basso-Blandin.** Conception d’un langage dédié à la conception de fonctions biologiques de synthèse par compilation de spécifications comportementales.
 
 ### Archives
