@@ -13,11 +13,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 26/01/2015 : **Pierre Clairambault.** Introduction to normalization by evaluation.
 * 02/02/2015 : _pas de GdT (journées du GDR IM)_
 
 _Exposés passés_ :
 
+* 26/01/2015 : **Pierre Clairambault.** Introduction to normalization by evaluation.
 * 19/01/2015 : **Olivier Laurent.** Small Problems Related with Provability in Linear Logic.
 * 12/01/2015 : **_Alexandra Silva_.** Automata Learning: A Categorical Perspective. 
 * 05/01/2015 : **Adrien Basso-Blandin.** Conception d’un langage dédié à la conception de fonctions biologiques de synthèse par compilation de spécifications comportementales.
