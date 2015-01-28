@@ -14,6 +14,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 _Exposés à venir_ :
 
 * 02/02/2015 : _pas de GdT (journées du GDR IM)_
+* 09/02/2015 : _pas de GdT (vacances scolaires)_
+* 16/02/2015 : _pas de GdT (vacances scolaires)_
+* 23/02/2015 : **Damien Pous.** Kozen's proof of completeness for Kleene algebra.
 
 _Exposés passés_ :
 
