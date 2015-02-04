@@ -40,7 +40,7 @@ published: true
 <p></p>
 <div class="news">
 <dl>
-  <dt>Filippo Bonchi and Damien Pous at CACM</dt>
+  <dt><b>Filippo Bonchi and Damien Pous at CACM</b></dt>
   <dd>A paper by Filippo Bonchi and Damien Pous published in Communications of the
 ACM Research Highlights, with a 
 <a href="http://cacm.acm.org/magazines/2015/2/182642-hacking-nondeterminism-with-induction-and-coinductio
