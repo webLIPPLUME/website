@@ -37,10 +37,15 @@ published: true
 
 ### Actualité / News
 
-Information available as <img src="/{{ site.url }}/img/feed-14x14.png" /> {{ "RSS feed" | links_to "latest-news.xml" | safe }}</p>
-
 <p></p>
 <div class="news">
+<dl>
+  <dt>Filippo Bonchi and Damien Pous at CACM</dt>
+  <dd>A paper by Filippo Bonchi and Damien Pous published in Communications of the
+ACM Research Highlights, with a 
+<a href="http://cacm.acm.org/magazines/2015/2/182642-hacking-nondeterminism-with-induction-and-coinductio
++n/fulltext">video</a>.<dd>
+</dl>
 </div>
 
 
