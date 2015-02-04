@@ -38,7 +38,7 @@ published: true
 ### Actualité / News
 
 <p></p>
-<div class="news">
+<div class="xnews">
 <dl>
   <dt><b>Filippo Bonchi and Damien Pous at CACM</b></dt>
   <dd>A paper by Filippo Bonchi and Damien Pous published in Communications of the
