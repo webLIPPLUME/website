@@ -11,45 +11,54 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
 ###  Next Events
 
- * **Thursday 15th May,** 10:30 am, room B1:
-Simona Ronchi Della Rocca (Torino, Italy)
- 
-  Intersection types, inhabitation and solvability
 
-The inhabitation problem for intersection types is known to be
-undecidable. We study the problem in the case of non-idempotent
-intersection, and we prove decidability through a sound and complete
-algorithm. The interest in this problem arises from the unexplored
-relation between the problem of characterizing solvability by
-intersection types and the inhabitation problem for them. While this
-relation is implicit and in some sense trivial for the lambda-calculus,
-it can become crucial for extension of it allowing abstraction with
-respect to patterns instead that only variables. In fact, the solution
-of the inhabitation problem for non-idempotent intersection allows for a
-complete characterization of solvability in such calculi, through
-intersection types.
+ * **Thursday 5 March,** 10:30 am, room B2:
+Laure Daviaud (LIF, Marseille)
 
- * **Thursday 22nd May,** 10:30 am, room B1:
-Denis Kuperberg (Warsaw University, Poland)
+  Max-plus automata and size-change abstraction
 
-  The theory of regular cost functions, from finite words to infinite trees
+Max-plus automata are weighted automata over the semiring
+(NU{-infinite},max, +) that compute some functions from words to
+NU{-infinite}. More precisely, a max-plus automaton is a non deterministic
+finite automaton with a weight on each transition. The weight of a given
+run is the sum of the weights of the transitions along the run and the
+weight of a word w is the maximum of the weights of the runs labelled by w
+and going from an initial state to a final state.
+
+In this talk, we will study the asymptotic behaviour of a max-plus
+automaton and more precisely the maximum length of a word of weight at
+most n. In particular, I will show that this function is of the form is of
+order n^alpha for a computable rational alpha. I will also explain how
+this analysis can, in combination with the size-change abstraction, be
+used for inferring the termination time of an algorithm as a function of
+the size of its input.
+
+This is a joint work with Thomas Colcombet (LIAFA, Université Paris 7,
+CNRS) and Florian Zuleger (Vienna University).
+
+
   
-The theory of regular cost functions, initiated by Colcombet and
-following work with Mikołaj Bojańczyk, is a satisfying framework to extend a large
-spectrum of results on regular languages to a quantitative setting.
-It allows to lift  various formalisms from a boolean semantics to a quantitative semantic that allows to express the existence of bounds, while preserving various decidability properties. These formalisms include automata, monoids, monadic second order logic (MSO), linear temporal logic (LTL). Additionnally, some difficult decidability problems about regular languages can be formulated in terms of cost functions, providing a solution.
-I will present the central concepts of the theory as well as some results and current status.
-
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
+
+ * **Thursday 22nd May:**
+Denis Kuperberg (Warsaw University, Poland)
+ 
+  The theory of regular cost functions, from finite words to infinite trees
+
+ * **Thursday 15th May:**
+Simona Ronchi Della Rocca (Torino, Italy)
+ 
+  Intersection types, inhabitation and solvability
 
  * **Thursday 20th Feb:**
 Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
  
   Writing and verifying x86 assembly code in the Coq proof assistant
 
-  * **Thursday 9th Jan:**
+
+ * **Thursday 9th Jan:**
 Thomas Powell (CARMIN postdoctoral fellow, IHES)
 
  Bar recursive extensions of Goedel's system T
