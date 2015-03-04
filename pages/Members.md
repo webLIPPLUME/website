@@ -29,7 +29,7 @@ Name | position
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matteo Mio][]         | Chercheur / Researcher (CNRS)
 [Matthieu Perrinel][]  | Doctorant / PhD student
-o[Damien Pous][]        | Chercheur / Researcher (CNRS)
+[Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
