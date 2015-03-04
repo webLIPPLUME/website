@@ -15,14 +15,13 @@ Name | position
 [Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 **Catherine Desplanches**  | Assistante d'équipe/ Team assistant
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
+[Adrien Basso-Blandin][] | Post doctorant
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
-[Valentin Blot][]      | Doctorant / Phd student
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
-[Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
-[Anupman Das][]        | Post doctorant
+[Anupam Das][]         | Post doctorant
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
@@ -30,8 +29,7 @@ Name | position
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matteo Mio][]         | Chercheur / Researcher (CNRS)
 [Matthieu Perrinel][]  | Doctorant / PhD student
-[Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
-[Damien Pous][]        | Chercheur / Researcher (CNRS)
+o[Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])

@@ -2,13 +2,16 @@
 title: "Anciens membres - Former members"
 subject: "Historique des membres de l'équipe depuis sa création."
 author: Plume Webmaster
-timestamp: 2014-10-07 12:11:52 +0200
+timestamp: 2015-03-04 10:15:32 +0200
 tags: null
 published: true
 ---
 
 Name | Current position
 ---- | ----------------
+[Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
+[Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
+[Valentin Blot][]      | Doctorant / Phd student
 Federico Aschieri      | [Federico Aschieri][]
 Guilhem Jaber          | Joined the [Ascola Team](http://www.emn.fr/z-info/ascola/doku.php) from the [École des Mines de Nantes](http://www.mines-nantes.fr/en/)
 Lionel Rieg            | ATER at Collège de France avec Gérard Berry ([more...][Lionel Rieg])

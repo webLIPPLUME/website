@@ -2,22 +2,22 @@
 title: "Membres de l'équipe (présent ou passé)"
 subject: ""
 author: Plume Webmaster
-timestamp: "2013-03-28 10:39:37 +0200"
+timestamp: 2015-03-04 10:20:32 +0200
 tags: null
 published: true
 ---
-
-[Anupman Das]: http://perso.ens-lyon.fr/anupman.das/
-[Matteo Mio]: http://perso.ens-lyon.fr/matteo.mio/
-[Simon Castellan]: http://perso.ens-lyon.fr/simon.castellan/
-[Frédéric Prost]: http://perso.ens-lyon.fr/frederic.prost/
-[Emmanuel Beffara]: http://perso.ens-lyon.fr/emmanuel.beffara/
-[Aurélien Pardon]: http://perso.ens-lyon.fr/aurelien.pardon/
+[Adrien Basso-Blandin]: http://perso.ens-lyon.fr/adrien.basso-blandin/ (Adrien Basso-Blandin)
+[Anupam Das]: http://perso.ens-lyon.fr/anupam.das/ (Anupam Das)
+[Matteo Mio]: http://perso.ens-lyon.fr/matteo.mio/ (Matteo Mio)
+[Simon Castellan]: http://perso.ens-lyon.fr/simon.castellan/ (Simon Castellan)
+[Frédéric Prost]: http://perso.ens-lyon.fr/frederic.prost/ (Frédéric Prost)
+[Emmanuel Beffara]: http://perso.ens-lyon.fr/emmanuel.beffara/ (Emmanuel Beffara)
+[Aurélien Pardon]: http://perso.ens-lyon.fr/aurelien.pardon/ (Aurélien Pardon)
 [Alexander Kreuzer Darmstadt]: http://www.mathematik.tu-darmstadt.de/~akreuzer/ (@ Darmstadt)
 [Alexander Kreuzer]: http://perso.ens-lyon.fr/alexander.kreuzer/ (Alexander Kreuzer)
 [Alexandre Miquel]: http://perso.ens-lyon.fr/alexandre.miquel/ (Alexandre Miquel)
 [Antoine Madet]: http://www.pps.univ-paris-diderot.fr/~madet/ (Antoine Madet)
-[Barbara Petit]: http://perso.ens-lyon.fr/barbara.petit/
+[Barbara Petit]: http://perso.ens-lyon.fr/barbara.petit/ (Barbara Petit)
 [Colin Riba]: http://perso.ens-lyon.fr/colin.riba/ (Colin Riba)
 [Damien Pous]: http://perso.ens-lyon.fr/damien.pous/  (Damien Pous)
 [Daniel Hirschkoff]: http://perso.ens-lyon.fr/daniel.hirschkoff/ (Daniel Hirschkoff)
@@ -36,20 +36,20 @@ published: true
 [Martin Hofman]: http://www2.tcs.ifi.lmu.de/~mhofmann/ (Martin Hofman)
 [Matthieu Perrinel]: http://perso.ens-lyon.fr/matthieu.perrinel/ (Matthieu Perrinel)
 [Olivier Laurent]: http://perso.ens-lyon.fr/olivier.laurent/ (Olivier Laurent)
-[Paolo Tranquilli]: http://perso.ens-lyon.fr/paolo.tranquilli/
+[Paolo Tranquilli]: http://perso.ens-lyon.fr/paolo.tranquilli/ (Paolo Tranquilli)
 [Patrick Baillot]: http://perso.ens-lyon.fr/patrick.baillot/ (Patrick Baillot)
 [Paul Brunet Cachan]: http://perso.eleves.bretagne.ens-cachan.fr/~pbrun703/
-[Paul Brunet]: http://perso.ens-lyon.fr/paul.brunet/
+[Paul Brunet]: http://perso.ens-lyon.fr/paul.brunet/ (Paul Brunet)
 [Pawel Sobocinski]: http://users.ecs.soton.ac.uk/ps/ (Pawel Sobocinski)
 [Philippe AUdebaud]: http://perso.ens-lyon.fr/philippe.audebaud/ (Philippe Audebaud)
-[Pierre Clairambault]: http://www.cl.cam.ac.uk/~pmc51/
+[Pierre Clairambault]: http://perso.ens-lyon.fr/pierre.clairambault/ (Pierre Clairambault)
 [Pierre Lescanne]: http://perso.ens-lyon.fr/pierre.lescanne/ (Pierre Lescanne)
 [Romain Demangeon]: http://www.dcs.qmul.ac.uk/research/logic/QM-EECS-TCS/People.html
 [Romain Demangeon Lyon]: http://perso.ens-lyon.fr/romain.demangeon/ (Romain Demangeon)
-[Russ Harmer]: http://www.pps.univ-paris-diderot.fr/~russ/
+[Russ Harmer]: http://www.pps.univ-paris-diderot.fr/~russ/ (Russ Harmer)
 [Séverine Maingaud]: http://www.pps.jussieu.fr/~maingaud/ (Séverine Maingaud)
 [Stéphane Leroux Lyon]: http://perso.ens-lyon.fr/stephane.leroux/ (Stéphane Leroux)
 [Stéphane Leroux LIX]: http://www.lix.polytechnique.fr/Labo/Stephane.Leroux/ (Stéphane Leroux)
 [Thanos Tsouanas]: http://perso.ens-lyon.fr/thanos.tsouanas/ (Thanos Tsouanas)
-[Tom Hirschowitz]: http://www.lama.univ-savoie.fr/~hirschowitz/
+[Tom Hirschowitz]: http://www.lama.univ-savoie.fr/~hirschowitz/ (Tom Hirschowitz)
 [Valentin Blot]: http://perso.ens-lyon.fr/valentin.blot/ (Valentin Blot)
