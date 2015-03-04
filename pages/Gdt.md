@@ -13,14 +13,14 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 02/03/2015 : **Russ Harmer.** Executable Knowledge.
-* 09/03/2015 : **Colin Riba.** TBA.
+* 09/03/2015 : **Colin Riba.** Representation of Functions in Second-Order Arithmetic and Girard's System F.
 * 16/03/2015 : **Anupam Das.** TBA.
 * 23/03/2015 : _pas de GdT_
 * 30/03/2015 : **Patrick Baillot.** Analyse de complexité par typage et réductions cryptographiques.
 
 _Exposés passés_ :
 
+* 02/03/2015 : **Russ Harmer.** Executable Knowledge.
 * 23/02/2015 : **Damien Pous.** Kozen's proof of completeness for Kleene algebra.
 * 16/02/2015 : _pas de GdT (vacances scolaires)_
 * 09/02/2015 : _pas de GdT (vacances scolaires)_
