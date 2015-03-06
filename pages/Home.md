@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: Home Page
 subject: "Contenu apparaissant sur la page d'accueil."
 author: Plume Webmaster
 timestamp: "2013-03-28 10:39:37 +0200"
@@ -18,7 +18,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [PiCoq][] - [Complice][] - [MALOA][] - [Pace][].
+* **Projets / Projects** : [Récré][] - [PiCoq][] - [Complice][] - [MALOA][] - [Pace][] - [ELICA](http://lipn.univ-paris13.fr/~mazza/Elica/).
 
 * [Publications / Publications][Publications]
 
@@ -62,4 +62,3 @@ ACM Research Highlights, with a
 [GT Coq]: http://www.ens-lyon.fr/LIP/GTCoq/ (Groupe de travail Coq)
 [GT Lyon/Chambéry]: <http://www.lama.univ-savoie.fr/index.php?use=seminaires&&lang=fr&equipe=logique&lang=fr> (Groupe de travail Lyon/Chambéry)
 [Séminaire]: Seminaire (Séminaire Plume)
-
