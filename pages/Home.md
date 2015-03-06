@@ -18,7 +18,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [PiCoq][] - [Complice][] - [MALOA][] - [Pace][] - [ELICA](http://lipn.univ-paris13.fr/~mazza/Elica/).
+* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/).
 
 * [Publications / Publications][Publications]
 
