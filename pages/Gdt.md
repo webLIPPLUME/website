@@ -13,13 +13,17 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 09/03/2015 : **Colin Riba.** Representation of Functions in Second-Order Arithmetic and Girard's System F.
-* 16/03/2015 : **Anupam Das.** TBA.
-* 23/03/2015 : _pas de GdT_
+* 23/03/2015 : _pas de GdT (workshop CLA 2015: http://perso.ens-lyon.fr/pierre.lescanne/CLA/CLA_2015.html)_
 * 30/03/2015 : **Patrick Baillot.** Analyse de complexité par typage et réductions cryptographiques.
+* 06/04/2015 : _pas de GdT (lundi de paques)_
+* 13/04/2015 : _pas de GdT (ETAPS)_
+* 20/04/2015 : TBA
+* 27/04/2015 : **Laure Gonnord.** Validation of Memory Accesses Through Symbolic Analyses.
 
 _Exposés passés_ :
 
+* 16/03/2015 : **Anupam Das.** No complete linear term rewriting for propositional logic (probably).
+* 09/03/2015 : **Colin Riba.** Representation of Functions in Second-Order Arithmetic and Girard's System F.
 * 02/03/2015 : **Russ Harmer.** Executable Knowledge.
 * 23/02/2015 : **Damien Pous.** Kozen's proof of completeness for Kleene algebra.
 * 16/02/2015 : _pas de GdT (vacances scolaires)_
