@@ -13,7 +13,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 23/03/2015 : _pas de GdT (workshop [CLA 2015][http://perso.ens-lyon.fr/pierre.lescanne/CLA/CLA_2015.html])_
+* 23/03/2015 : _pas de GdT (workshop [CLA 2015][])_
 * 30/03/2015 : **Patrick Baillot.** Analyse de complexité par typage et réductions cryptographiques.
 * 06/04/2015 : _pas de GdT (lundi de paques)_
 * 13/04/2015 : _pas de GdT (ETAPS)_
@@ -192,3 +192,4 @@ _[back to main page][1]_
 [ENS Lyon]: http://www.ens-lyon.eu/ (ENS Lyon)
 [1]: http://www.ens-lyon.fr/LIP/PLUME/
 [2]: http://www.ens-lyon.fr/LIP/
+[CLA 2015]: http://perso.ens-lyon.fr/pierre.lescanne/CLA/CLA_2015.html
