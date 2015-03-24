@@ -19,36 +19,15 @@ Emmanuel Coquery (LIRIS, Lyon)
     
 Cet exposé débutera par un rappel des formalismes de représentation des requêtes et des contraintes en logique, puis présentera le langage RQL. RQL (pour Rule Query Language) est un langage de requêtes "à la SQL" qui étend et généralise les dépendances fonctionnelles à de nouvelles catégories de règles. RQL apporte aux analystes de données un outil pratique pour découvrir les implications logiques entre attributs d’une base de données. Ces implications peuvent mettre en évidence des problèmes de qualité de données ou de nouvelles corrélations inattendues entre les attributs. Le traitement de ces requêtes RQL est basé sur une technique de réécriture qui délègue un maximum de calculs au SGBD sous-jacent. Cette contribution vise à renforcer le lien entre la fouille de données et les bases de données et de faciliter l’utilisation de techniques de fouille par des analystes ou des étudiants habitués au SQL.
 
-
- * **Thursday 5 March,** 10:30 am, room B2:
-Laure Daviaud (LIF, Marseille)
-
-  Max-plus automata and size-change abstraction
-
-Max-plus automata are weighted automata over the semiring
-(NU{-infinite},max, +) that compute some functions from words to
-NU{-infinite}. More precisely, a max-plus automaton is a non deterministic
-finite automaton with a weight on each transition. The weight of a given
-run is the sum of the weights of the transitions along the run and the
-weight of a word w is the maximum of the weights of the runs labelled by w
-and going from an initial state to a final state.
-
-In this talk, we will study the asymptotic behaviour of a max-plus
-automaton and more precisely the maximum length of a word of weight at
-most n. In particular, I will show that this function is of the form is of
-order n^alpha for a computable rational alpha. I will also explain how
-this analysis can, in combination with the size-change abstraction, be
-used for inferring the termination time of an algorithm as a function of
-the size of its input.
-
-This is a joint work with Thomas Colcombet (LIAFA, Université Paris 7,
-CNRS) and Florian Zuleger (Vienna University).
-
-
   
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
+
+ * **Thursday 5 March:**
+Laure Daviaud (LIF, Marseille)
+
+  Max-plus automata and size-change abstraction
 
  * **Thursday 22nd May:**
 Denis Kuperberg (Warsaw University, Poland)
