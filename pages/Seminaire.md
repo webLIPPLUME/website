@@ -12,6 +12,14 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 ###  Next Events
 
 
+ * **Thursday 2 March,** 10:30 am, room B2:
+Emmanuel Coquery (LIRIS, Lyon)
+
+   RQL: un langage “à la SQL” pour découvrir des règles à partir des données
+    
+Cet exposé débutera par un rappel des formalismes de représentation des requêtes et des contraintes en logique, puis présentera le langage RQL. RQL (pour Rule Query Language) est un langage de requêtes "à la SQL" qui étend et généralise les dépendances fonctionnelles à de nouvelles catégories de règles. RQL apporte aux analystes de données un outil pratique pour découvrir les implications logiques entre attributs d’une base de données. Ces implications peuvent mettre en évidence des problèmes de qualité de données ou de nouvelles corrélations inattendues entre les attributs. Le traitement de ces requêtes RQL est basé sur une technique de réécriture qui délègue un maximum de calculs au SGBD sous-jacent. Cette contribution vise à renforcer le lien entre la fouille de données et les bases de données et de faciliter l’utilisation de techniques de fouille par des analystes ou des étudiants habitués au SQL.
+
+
  * **Thursday 5 March,** 10:30 am, room B2:
 Laure Daviaud (LIF, Marseille)
 
