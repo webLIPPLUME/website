@@ -14,7 +14,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 _Exposés à venir_ :
 
 * 04/05/2015 : **Frédéric Prost.** Social Data Anonymisation and Graph Transformations.
-* 11/05/2015 : TBA
+* 11/05/2015 : **Emmanuel Beffara.** TBA
 * 18/05/2015 : **Hélène Coullon.** TBA
 
 _Exposés passés_ :
