@@ -15,7 +15,7 @@ _Exposés à venir_ :
 
 * 04/05/2015 : **Frédéric Prost.** Social Data Anonymisation and Graph Transformations.
 * 11/05/2015 : **Emmanuel Beffara.** TBA
-* 18/05/2015 : **Hélène Coullon.** TBA
+* 18/05/2015 **à 11h30** : **Hélène Coullon.** TBA
 
 _Exposés passés_ :
 
