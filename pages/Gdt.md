@@ -13,12 +13,12 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 04/05/2015 : **Frédéric Prost.** Social Data Anonymisation and Graph Transformations.
-* 11/05/2015 : **Emmanuel Beffara.** TBA
+* 11/05/2015 : **Emmanuel Beffara.** Vers l'unification des systèmes de types pour processus mobiles. 
 * 18/05/2015 **à 11h30** : **Hélène Coullon.** TBA
 
 _Exposés passés_ :
 
+* 04/05/2015 : **Frédéric Prost.** Social Data Anonymisation and Graph Transformations.
 * 27/04/2015 : **Laure Gonnord.** Validation of Memory Accesses Through Symbolic Analyses.
 * 20/04/2015 : **Paul Brunet.** A Kleene theorem for Petri automata.
 * 13/04/2015 : _pas de GdT (ETAPS)_
