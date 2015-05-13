@@ -54,6 +54,7 @@ ACM Research Highlights, with a
 
 [Trucs]: Trucs (Trucs utiles aux bêtes à plume)
 [Members]: Members (Plume team)
+[Visitors]: Visitors (Visiteurs)
 [Bibli]: Bibli (Liste des oeuvres - Team collection)
 [Research]: Topics (Research topics)
 [Publications]: Publications (Publications)
