@@ -19,6 +19,7 @@ Name  |  Academic position  |  Date
 
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
-Prof. Barbara Koening   |  University of University of Duisburg-Essen | 24-28 November
-Sebastian Kupper  |  University of University of Duisburg-Essen | 24-28 November
+Prof. Barbara Koening   |  University of Duisburg-Essen | 24-28 November
+Sebastian Kupper  | University of Duisburg-Essen | 24-28 November
+Prof. Glynn Winskel | University of Cambridge | October
 
