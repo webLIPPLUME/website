@@ -11,9 +11,9 @@ published: true
 
 Name  |  Academic position  |  Date
 ----  |  -----------------  |  ----
-Prof. Alexandra Silva    | Radboud University Nijmegen | 07-28 January
-Prof. Marek Zaionc | Jagellonian University Krakow | 23-25 March
-Dr Ktarzyna Grygiel | Jagellonian University Krakow | 23-25 March
+Alexandra Silva    | Radboud University Nijmegen | 07-28 January
+Marek Zaionc | Jagellonian University Krakow | 23-25 March
+Ktarzyna Grygiel | Jagellonian University Krakow | 23-25 March
 
 
 
@@ -21,17 +21,17 @@ Dr Ktarzyna Grygiel | Jagellonian University Krakow | 23-25 March
 
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
-Prof. Glynn Winskel | University of Cambridge | 20-24 October 
+Glynn Winskel | University of Cambridge | 20-24 October 
 Jonathan Hayman | University of Cambridge | 20-24 October 
 Jim Laird | University of Bath | 11-13 November 
-Prof. Barbara Koening   |  University of Duisburg-Essen | 24-28 November
+Barbara Koening   |  University of Duisburg-Essen | 24-28 November
 Sebastian Kupper  | University of Duisburg-Essen | 24-28 November
-Prof. Peter Dybjer | Chalmers University of Technology (Göteborg) | 1-5 December 
+Peter Dybjer | Chalmers University of Technology (Göteborg) | 1-5 December 
 Sylvain Salvati | LaBRI, Université de Bordeaux | 1-12 December 
 
 ### List of visitor of Plume in 2013
 
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
-Prof. Peter Dybjer | Chalmers University of Technology (Göteborg) | 18-22 November
+Peter Dybjer | Chalmers University of Technology (Göteborg) | 18-22 November
 
