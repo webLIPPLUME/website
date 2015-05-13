@@ -12,6 +12,8 @@ published: true
 
 * [Membres / Members][Members]
 
+* [Visiteurs / Visitors][Visitors]
+
 * [Thèmes de recherche / Research Topics][Research]
 
 * **Enseignements / Teaching** : [Computer Science][DI] curriculum at [ENS Lyon][]
