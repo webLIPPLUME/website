@@ -23,7 +23,7 @@ Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
 Glynn Winskel | University of Cambridge | 20-24 October 
 Jonathan Hayman | University of Cambridge | 20-24 October 
-henryk Michalewski | University of Warsaw | 25-30 October 
+Henryk Michalewski | University of Warsaw | 25-30 October 
 Jim Laird | University of Bath | 11-13 November 
 Barbara Koening   |  University of Duisburg-Essen | 24-28 November
 Sebastian Kupper  | University of Duisburg-Essen | 24-28 November
