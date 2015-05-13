@@ -11,7 +11,7 @@ published: true
 
 Name  |  Academic position  |  Date
 ----  |  -----------------  |  ----
-[Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique** | Ciao
+Prof. Alexandra Silva    | Radboud University Nijmegen | January
 
 
 
