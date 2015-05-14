@@ -16,7 +16,6 @@ Marek Zaionc | Jagellonian University Krakow | 23-25 March
 Ktarzyna Grygiel | Jagellonian University Krakow | 23-25 March
 
 
-
 ### List of visitor of Plume in 2014
 
 Name  |  Academic Affiliation  |  Date
@@ -24,7 +23,11 @@ Name  |  Academic Affiliation  |  Date
 Glynn Winskel | University of Cambridge | 20-24 October 
 Jonathan Hayman | University of Cambridge | 20-24 October 
 Henryk Michalewski | University of Warsaw | 25-30 October 
+Dexter Kozen | Cornell University | 27-31 October
+Konstantinos Mamouras | Cornell University | 27-31 October
+Alexandra Silva | University of Nijmegen | 27-31 October
 Jim Laird | University of Bath | 11-13 November 
+Pawel Sobocinski | University of Southampton | 17 November - 15 December
 Barbara Koening   |  University of Duisburg-Essen | 24-28 November
 Sebastian Kupper  | University of Duisburg-Essen | 24-28 November
 Peter Dybjer | Chalmers University of Technology (Göteborg) | 1-5 December 
