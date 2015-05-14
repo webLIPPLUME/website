@@ -6,7 +6,7 @@ tags: null
 published: true
 ---
 
-### List of visitor of Plume in 2015
+### List of visitors of Plume in 2015
 
 
 Name  |  Academic position  |  Date
@@ -16,7 +16,7 @@ Marek Zaionc | Jagellonian University Krakow | 23-25 March
 Ktarzyna Grygiel | Jagellonian University Krakow | 23-25 March
 
 
-### List of visitor of Plume in 2014
+### List of visitors of Plume in 2014
 
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
@@ -33,7 +33,7 @@ Sebastian Kupper  | University of Duisburg-Essen | 24-28 November
 Peter Dybjer | Chalmers University of Technology (Göteborg) | 1-5 December 
 Sylvain Salvati | LaBRI, Université de Bordeaux | 1-12 December 
 
-### List of visitor of Plume in 2013
+### List of visitors of Plume in 2013
 
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
