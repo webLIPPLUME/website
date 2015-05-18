@@ -9,8 +9,6 @@ published: true
 
 ### List of visitors of Plume in 2015
 
-lalsl
-
 Name  |  Academic Affiliation  |  Date
 ----  |  -----------------  |  ----
 Alexandra Silva    | Radboud University Nijmegen | 07-28 January
