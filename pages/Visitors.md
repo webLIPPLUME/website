@@ -6,8 +6,10 @@ tags: null
 published: true
 ---
 
+
 ### List of visitors of Plume in 2015
 
+lalsl
 
 Name  |  Academic Affiliation  |  Date
 ----  |  -----------------  |  ----
@@ -44,4 +46,3 @@ Sylvain Salvati | LaBRI, Université de Bordeaux | 1-12 December
 Name  |  Academic Affiliation  |  Date
 ----    |   -----------------    |    ----
 Peter Dybjer | Chalmers University of Technology (Göteborg) | 18-22 November
-
