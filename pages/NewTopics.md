@@ -31,11 +31,12 @@ Our work in this rather large area of research has focused on the study, design 
 Within this broad area of research we are interested in _concurrency theory_  which we explore by applying and developing logica-based ideas the fields such as _category theory_ of _game theory_ and _automata theory_ and _logic_.
 
 
-##### 
+##### Coinduction
 
-##### 
+##### Rule-based modeling
 
-##### 
+##### Mechanisation of reasonings about behaviours of concurrent systems
 
+##### Kleene Algebra
 
-
+##### Monadic Second Order Logic
