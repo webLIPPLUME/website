@@ -13,7 +13,7 @@ International conferences announcing novel results in these areas include: LICS,
 
 ## Theme 1: The Foundations of Programming Languages
 
-Our work in this rather large area of research has focused on the study, design and application of _logics_ and _type systems_ for programming languages and on _concurrent games_.   
+Our work in this area of research has focused on the study, design and application of _logics_ and _type systems_ for programming languages and on _concurrent games_.   
 
 **Lambda calculus**
 
@@ -26,7 +26,7 @@ Our work in this rather large area of research has focused on the study, design 
 
 ## Theme 2: Theory of Computing Systems
 
-Within this broad area of research we are interested in _concurrency theory_  which we explore by applying and developing logica-based ideas the fields such as _category theory_ of _game theory_ and _automata theory_ and _logic_.
+Within this broad area of research we are mostly interested in _concurrency theory_  which we explore by applying and developing logica-based ideas the fields such as _category theory_, _game theory_, _automata theory_ and _logic_.
 
 
 **Coinduction.**
