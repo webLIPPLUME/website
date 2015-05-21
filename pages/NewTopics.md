@@ -13,7 +13,7 @@ The research carried out by the members of the Plume team is mostly centered on 
 
 International conferences announcing novel results in these areas include: LICS, ICALP, POPL, CONCUR, CSL, ETAPS.
 
-#### Theme 1: The foundation of programming languages
+#### Theme 1: The Foundations of Programming Languages
 
 Our work in this rather large area of research has focused on the study, design and application of _logics_ and _type systems_ for programming languages and on _concurrent games_.   
 
@@ -26,7 +26,7 @@ Our work in this rather large area of research has focused on the study, design 
 ##### Game Semantics
 
 
-#### Theme 2: Theory of computing systems
+#### Theme 2: Theory of Computing Systems
 
 Within this broad area of research we are interested in _concurrency theory_  which we explore by applying and developing logica-based ideas the fields such as _category theory_ of _game theory_ and _automata theory_ and _logic_.
 
