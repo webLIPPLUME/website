@@ -13,7 +13,7 @@ The research carried out by the members of the Plume team is mostly centered on 
 
 International conferences announcing novel results in these areas include: LICS, ICALP, POPL, CONCUR, CSL, ETAPS.
 
-##### Theme 1: The foundation of programming languages
+#### Theme 1: The foundation of programming languages
 
 
 
@@ -26,7 +26,6 @@ programming languages and of their semantics. The second theme focuses on comput
 which we analyze by borrowing tools coming from categorical semantics and logic again.
 
 
-###  Summary
 
 We are interested in _Proof theory_ and in the _formal semantics_ of programming languages. An important part of the research work of members of the Plume team is related to the deep connections between these two fields.
 
