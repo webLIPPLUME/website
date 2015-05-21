@@ -7,15 +7,18 @@ timestamp: 2012-02-12 07:23:44 +0200
 tags: 
 ---
 
+#### Summary
+
 The research carried out by the members of the Plume team is mostly centered on two strongly intertwined themes: the foundation of programming languages (design, semantics, implementation, etc) and the theory of computing systems (compositional analysis, security, verification).
 
-Typical international conferences announcing novel results in these areas are: LICS, ICALP, POPL, CONCUR, CSL, ETAPS, ...
+International conferences announcing novel results in these areas include: LICS, ICALP, POPL, CONCUR, CSL, ETAPS.
 
-##### 
-
-
+##### The foundation of programming languages
 
 
+
+
+##### ciao
 
 The first theme
 revolves around logic, and more specifically proof theory, seen as a guideline for the investigation of the foundation of
