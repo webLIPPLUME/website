@@ -17,13 +17,13 @@ International conferences announcing novel results in these areas include: LICS,
 
 Our work in this rather large area of research has focused on the study, design and application of _logics_ and _type systems_ for programming languages and on _concurrent games_.   
 
-##### Lambda calculus
+**Lambda calculus**
 
-##### Linear Logic
+**Linear Logic**
 
-##### Implicit Computational Complexity
+**Implicit Computational Complexity**
 
-##### Game Semantics
+**Game Semantics**
 
 
 #### Theme 2: Theory of Computing Systems
@@ -31,15 +31,15 @@ Our work in this rather large area of research has focused on the study, design 
 Within this broad area of research we are interested in _concurrency theory_  which we explore by applying and developing logica-based ideas the fields such as _category theory_ of _game theory_ and _automata theory_ and _logic_.
 
 
-##### Coinduction
+**Coinduction.**
 
-##### Rule-based modeling
+**Rule-based modeling.**
 
-##### Mechanisation of reasonings about behaviours of concurrent systems
+**Mechanisation of reasonings about behaviours of concurrent systems.**
 
-##### Kleene Algebra
+**Kleene Algebra**
 
-##### Monadic Second Order Logic.
+**Monadic Second Order Logic.**
 Büchi's and Rabin's theorem (1962,1969) contitute fundamental theoretical results and are at the basis of numerous formal verification tools for concurrent systems. Our recent research results on MSO include: full axiomatizations (Riba, Das), new model theoretic proof of classica results (Riba), Lebesgue measurability and closure-properties of regular sets of trees (Mio), algorithms for computing the probability of regular sets of trees (Mio).
 
 
