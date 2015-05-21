@@ -38,6 +38,6 @@ Within this broad area of research we are mostly interested in _concurrency theo
 **Kleene Algebra**
 
 **Monadic Second Order Logic.**
-Büchi's and Rabin's theorem (1962,1969) contitute fundamental theoretical results and are at the basis of numerous formal verification tools for concurrent systems. Our recent research results on MSO include: full axiomatizations (Riba, Das), new model theoretic proof of classica results (Riba), Lebesgue measurability and closure-properties of regular sets of trees (Mio), algorithms for computing the probability of regular sets of trees (Mio).
+Büchi's and Rabin's theorem (1962,1969) constitute fundamental theoretical results and are at the basis of numerous formal verification tools for concurrent systems. Our recent research results on MSO include: full axiomatizations (Riba, Das), new model theoretic proof of classical results (Riba), Lebesgue measurability and closure-properties of regular sets of trees (Mio), algorithms for computing the probability of regular sets of trees (Mio).
 
 
