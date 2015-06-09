@@ -26,7 +26,7 @@ A consequence is that a function over finite streams is definable by ramified co
 
 ####  Since January 2014
 
- * **Thursday 2 March,**
+* **Thursday 2 March:**
 Emmanuel Coquery (LIRIS, Lyon)
 
    RQL: un langage “à la SQL” pour découvrir des règles à partir des données
@@ -36,7 +36,7 @@ Laure Daviaud (LIF, Marseille)
 
   Max-plus automata and size-change abstraction
 
- * **Thursday 22nd May:**
+* **Thursday 22nd May:**
 Denis Kuperberg (Warsaw University, Poland)
  
   The theory of regular cost functions, from finite words to infinite trees
