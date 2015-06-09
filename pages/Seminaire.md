@@ -41,18 +41,18 @@ Denis Kuperberg (Warsaw University, Poland)
  
   The theory of regular cost functions, from finite words to infinite trees
 
- * **Thursday 15th May:**
+* **Thursday 15th May:**
 Simona Ronchi Della Rocca (Torino, Italy)
  
   Intersection types, inhabitation and solvability
 
- * **Thursday 20th Feb:**
+* **Thursday 20th Feb:**
 Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
  
   Writing and verifying x86 assembly code in the Coq proof assistant
 
 
- * **Thursday 9th Jan:**
+* **Thursday 9th Jan:**
 Thomas Powell (CARMIN postdoctoral fellow, IHES)
 
  Bar recursive extensions of Goedel's system T
