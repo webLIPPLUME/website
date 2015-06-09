@@ -19,6 +19,7 @@ Daniel Leivant (Indiana University Bloomington, USA)
 
 The vast power of iterated recurrence is tamed by data ramification: if a function over words is definable by ramified recurrence and composition, then it is feasible, i.e. computable in polynomial time, i.e. any computation using the first n input symbols can have at most p(n) distinct configurations, for some polynomial p. Here we prove a dual result for coinductive data: if a function over streams is definable by ramified corecurrence, then any computation to obtain the first n symbols of the output can have at most p(n) distinct configurations, for some polynomial p. The latter computation is by multi-cursor finite state transducer on streams.
 A consequence is that a function over finite streams is definable by ramified corecurrence iff it is Turing-computable in logarithmic space. Such corecursive definitions over finite streams are of practical interest, because large finite data is normally used as a knowledge base to be consumed, rather than as recurrence template. Thus, we relate a syntactically restricted computation model, amenable to static analysis, to a major complexity class for streaming algorithms.
+
 (joint work with Ramyaa Ramyaa)
 
 
