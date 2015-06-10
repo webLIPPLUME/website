@@ -12,9 +12,7 @@ The research carried out by the members of the Plume team is mostly centered on 
 
 ## Theme 1: The Foundations of Programming Languages
 
-- Logical Foundations of Programming Languages
-
-How can _logic_ help in designing languages for writing safe programs?  We investigate  _proof theory_ as a foundation for programming languages and their _semantics_. In this area the _proofs-as-programs correspondence_ has triggered the design of _types systems_, for statically ensuring properties, and of proof assistants, for verifying correctness. _Linear logic_ and _game semantics_ are fundamental tools for these works, and are themselves objects of research. Some examples of challenges are: the definition of game semantics for concurrent languages conveniently crafted to overcome combinatorial explosion problems, and the design of type systems that statically ensure complexity bounds on programs.
+How can _logic_ help in designing languages for writing safe programs?  We investigate  _proof theory_ as a foundation for programming languages and their _semantics_. In this area the _proofs-as-programs correspondence_ has triggered the design of _types systems_, for statically ensuring properties, and of proof assistants, for verifying correctness. _Linear logic_ and _game semantics_ are fundamental tools in this line of work, and are themselves objects of current research. Some examples of challenges are: the definition of game semantics for concurrent languages conveniently crafted to overcome combinatorial explosion problems, and the design of type systems that statically ensure complexity bounds on programs.
 
 
 
