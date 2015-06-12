@@ -14,6 +14,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 ###  Next Events
 
  * **Monday 15 June,** 2 pm, Amphi B:
+
 Daniel Leivant (Indiana University Bloomington, USA)
 
 	The Computational Contents of Ramified Corecurrence
