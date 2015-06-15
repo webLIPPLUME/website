@@ -23,7 +23,8 @@ How can one specify and formally verify complex computing systems?  We analyse c
 
 International conferences announcing novel results in these areas include: LICS, ICALP, POPL, CONCUR, CSL, FoSSaCS, ESOP...
 
-##
+
+<hr>
 
 The following divulgative video illustrates an example of research carried out by members of Plume: <a href="http://cacm.acm.org/magazines/2015/2/182642-hacking-nondeterminism-with-induction-and-coinductio
 +n/fulltext">Hacking Nondeterminism with Induction and Coinduction.</a>
