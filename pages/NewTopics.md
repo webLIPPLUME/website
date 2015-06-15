@@ -23,5 +23,5 @@ How can one specify and formally verify complex computing systems?  We analyse c
 
 International conferences announcing novel results in these areas include: LICS, ICALP, POPL, CONCUR, CSL, FoSSaCS, ESOP...
 
-The following divulgative video illustrates an example of research carried out by members of Plume: <iframe src="https://player.vimeo.com/video/116438667" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+The following divulgative video illustrates an example of research carried out by members of Plume: https://vimeo.com/116438667
 
