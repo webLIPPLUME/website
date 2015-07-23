@@ -21,7 +21,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism](http://www.darpa.mil/program/big-mechanism)).
+* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism](http://www.darpa.mil/program/big-mechanism).
 
 * [Publications / Publications][Publications]
 
