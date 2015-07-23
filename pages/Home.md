@@ -8,6 +8,7 @@ embedded: true
 published: true
 ---
 
+
 ###  Qui sommes-nous ? / Who are we?
 
 * [Membres / Members][Members]
@@ -20,7 +21,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/).
+* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) -[Big mechanism (Darpa)] (http://www.darpa.mil/program/big-mechanism).
 
 * [Publications / Publications][Publications]
 
