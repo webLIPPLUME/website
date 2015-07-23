@@ -21,14 +21,14 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism](http://www.darpa.mil/program/big-mechanism).
+* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism (Darpa)](http://www.darpa.mil/program/big-mechanism).
 
 * [Publications / Publications][Publications]
 
 * [Coq, Développements logiciels / Software][Software]
 
 * **Séminaire, groupes de travail, rencontres / Seminars and Meetings** :
-    [GT Plume][] - [GT Lyon/Chambéry][] - [Séminaire][] - [Rencontres ChoCoLa][ChoCoLa]
+    [GT Plume][] - [Séminaire][] - [Rencontres ChoCoLa][ChoCoLa] - [Séminaire Chambéry/Lyon][] 
 
 * [Propositions de stage / Internship proposals][Internships]
 
