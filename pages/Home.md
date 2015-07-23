@@ -28,7 +28,7 @@ published: true
 * [Coq, Développements logiciels / Software][Software]
 
 * **Séminaire, groupes de travail, rencontres / Seminars and Meetings** :
-    [GT Plume][] - [Séminaire][] - [Rencontres ChoCoLa][ChoCoLa] - [Séminaire Chambéry/Lyon][] 
+    [GT Plume][] - [Séminaire][] - [Rencontres ChoCoLa][ChoCoLa] - [Séminaire Chambéry/Lyon](http://www.lama.univ-savoie.fr/index.php?use=seminaires&&lang=fr&equipe=logique&lang=fr)
 
 * [Propositions de stage / Internship proposals][Internships]
 
