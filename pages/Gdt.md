@@ -15,6 +15,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
+* 21/09/2015 : **Olivier Laurent.** Introduction à la focalisation et application à l'orthologique.
 
 _Exposés passés_ :
 
