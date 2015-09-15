@@ -8,12 +8,14 @@ published: true
 ---
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
+* 21/09/2015 : **Olivier Laurent.** Introduction à la focalisation et application à l'orthologique.
 
 _Exposés passés_ :
 
