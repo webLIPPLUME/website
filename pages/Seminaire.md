@@ -9,6 +9,7 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
@@ -27,69 +28,69 @@ A consequence is that a function over finite streams is definable by ramified co
 
 ####  Since January 2014
 
-* **Thursday 2 March:**
+* **Thursday 2 april 2015:**
 Emmanuel Coquery (LIRIS, Lyon)
 
    RQL: un langage “à la SQL” pour découvrir des règles à partir des données
  
-* **Thursday 5 March:**
+* **Thursday 5 March 2015:**
 Laure Daviaud (LIF, Marseille)
 
   Max-plus automata and size-change abstraction
 
-* **Thursday 22nd May:**
+* **Thursday 22nd May 2014:**
 Denis Kuperberg (Warsaw University, Poland)
  
   The theory of regular cost functions, from finite words to infinite trees
 
-* **Thursday 15th May:**
+* **Thursday 15th May 2014:**
 Simona Ronchi Della Rocca (Torino, Italy)
  
   Intersection types, inhabitation and solvability
 
-* **Thursday 20th Feb:**
+* **Thursday 20th Feb 2014:**
 Pierre-Evariste Dagand (Gallium, INRIA Paris-Rocquencourt)
  
   Writing and verifying x86 assembly code in the Coq proof assistant
 
 
-* **Thursday 9th Jan:**
+* **Thursday 9th Jan 2014:**
 Thomas Powell (CARMIN postdoctoral fellow, IHES)
 
  Bar recursive extensions of Goedel's system T
 
 ####  Since January 2013
 
-  * **Thursday 19th Dec:**
+  * **Thursday 19th Dec 2013:**
 Lorenzo Clemente (LaBRI, Bordeaux).
 
 A saturation-based approach to the verification of higher-order functional programs
 
 (joint work with S. Salvati and I. Walukiewicz)
 
-  * **Thursday 21st Nov:**
+  * **Thursday 21st Nov 2013:**
 Peter Dybjer (Chalmers, Göteborg, Sweeden).
 
 Normalization by evaluation and game semantics
 
-  * **Thursday 20th June:**
+  * **Thursday 20th June 2013:**
 Igor Walukiewicz (LaBRI).
 
 Transfer theorem
 
 (joint work with Sylvain Salvati)
 
-  * **Thursday 30th May:**
+  * **Thursday 30th May 2013:**
 Gabriel Scherer (Inria Gallium).
 
 Does a given type have a unique inhabitant? A work in progress.
 
-  * **Thursday 23rd May:**
+  * **Thursday 23rd May 2013:**
 Bruno Salvy (Inria & LIP).
 
 Une introduction à la théorie des espèces de structures
 
-  * **Friday 17th May:**
+  * **Friday 17th May 2013:**
 One day on circular proofs and fixed point logics
 
 Lutz Schroeder (joint work with Yde Venema):
@@ -101,25 +102,25 @@ A characterization theorem for the alternation-free fragment of the modal mu-cal
 Luigi Santocanale (joint work with Jérôme Fortier):
 La règle de coupure dans les preuves circulaires
 
-  * **Thursday 16th May:**
+  * **Thursday 16th May 2013:**
 [CHoCoLa](http://chocola.ens-lyon.fr/) meeting
-  * **Thursday 11th April:**
+  * **Thursday 11th April 2013:**
 [CHoCoLa](http://chocola.ens-lyon.fr/) meeting
-  * **Thursday 14th March:**
+  * **Thursday 14th March 2013:**
 [CHoCoLa](http://chocola.ens-lyon.fr/) meeting
-  * **Friday 22nd February:**
+  * **Friday 22nd February 2013:**
 Thomas Colcombet (LIAFA, Paris).
 
 _The use of monoids in formal language theory and Schützenberger’s theorem._
 
-  * **Thursday 21st February:**
+  * **Thursday 21st February 2013:**
 Alejandro Díaz-Caro (Université Paris-Ouest & Inria Paris-Rocquencourt).
 
 _Non-determinism (and probabilities) through type isomophism. _
 
-  * **Thursday 14th February:**
+  * **Thursday 14th February 2013:**
 [CHoCoLa](http://chocola.ens-lyon.fr/) meeting
-  * **Thursday 7th February:**
+  * **Thursday 7th February 2013:**
 Cyril Cohen (Gothenburg, Sweden).
 
 Formalization of algebraic numbers in Coq.
