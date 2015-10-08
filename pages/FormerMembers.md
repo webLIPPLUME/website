@@ -2,13 +2,16 @@
 title: "Anciens membres - Former members"
 subject: "Historique des membres de l'équipe depuis sa création."
 author: Plume Webmaster
-timestamp: 2015-03-04 10:15:32 +0200
+timestamp: "2015-03-04 10:15:32 +0200"
 tags: null
 published: true
 ---
 
+
 Name | Current position
 ---- | ----------------
+[Jean-Marie Madiot][]  | Doctorant / PhD student
+[Matthieu Perrinel][]  | Doctorant / PhD student
 [Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
 [Valentin Blot][]      | Doctorant / Phd student
