@@ -23,11 +23,11 @@ Name | position
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 [Anupam Das][]         | Post doctorant
-[Laure Daviaud][]         | Post doctorante
+Laure Daviaud         | Post doctorante
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
-[Matias D. Lee][]         | Post doctorant
+Matias D. Lee        | Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio][]         | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
