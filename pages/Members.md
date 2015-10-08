@@ -29,7 +29,7 @@ Laure Daviaud         | Post doctorante
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 Matias D. Lee        | Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
-[Matteo Mio][]         | Chercheur / Researcher (CNRS)
+[Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
