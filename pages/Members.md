@@ -7,6 +7,7 @@ tags: null
 published: true
 ---
 
+
 ### The team
 
 
@@ -22,13 +23,13 @@ Name | position
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 [Anupam Das][]         | Post doctorant
+[Laure Daviaud][]         | Post doctorante
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
+[Matias D. Lee][]         | Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
-[Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matteo Mio][]         | Chercheur / Researcher (CNRS)
-[Matthieu Perrinel][]  | Doctorant / PhD student
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
