@@ -2,13 +2,14 @@
 title: "Membres de l'équipe (présent ou passé)"
 subject: ""
 author: Plume Webmaster
-timestamp: 2015-10-09 08:27:29 +0200
+timestamp: 2015-10-09 08:36:08 +0200
 tags: null
 published: true
 ---
 
 [Laure Daviaud]: https://perso.ens-lyon.fr/laure.daviaud/ (Laure Daviaud)
-[Matias David Lee]: http://cs.famaf.unc.edu.ar/~lee/about-me/ (Matthias D. Lee)
+[Matias David Lee]: https://perso.ens-lyon.fr/matias-david.lee/ (Matias David Lee)
+[Matias David Lee Argentine]: http://cs.famaf.unc.edu.ar/~lee/about-me/ (Matias David Lee)
 [Adrien Basso-Blandin]: https://perso.ens-lyon.fr/adrien.basso-blandin/ (Adrien Basso-Blandin)
 [Anupam Das]: https://perso.ens-lyon.fr/anupam.das/ (Anupam Das)
 [Matteo Mio]: https://perso.ens-lyon.fr/matteo.mio/ (Matteo Mio)

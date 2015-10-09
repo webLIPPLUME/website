@@ -27,7 +27,7 @@ Name | position
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
-[Matias David Lee][]   | Post doctorant
+[Matias David Lee][]   | Post doctorant ([Argentine site][Matias David Lee Argentine])
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
