@@ -7,40 +7,32 @@ tags: null
 published: true
 ---
 
+
 ###  [M2 Internships][9]
 
-#### Behaviours as solutions for higher-order programs and processes 	                                                                                               
-Proposed by *Daniel Hirschkoff* (Oct  2014)
-See [this page](http://perso.ens-lyon.fr/daniel.hirschkoff/Stages/dh-contr.pdf).
-#### Types and interpretations for programs of polynomial time complexity
-Proposed by *Patrick Baillot* (Oct  2014)
-See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2015/sujet_interpretations2015.pdf).
+#### Coupled simulation, coalgebras and up-to techniques 
+Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
+See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
 #### Relativized Implicit Computational Complexity and Declassification
 Proposed by *Frédéric Prost* (Oct  2014)
 See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracles.htm).
-#### Coinductive and symbolic algorithms for non standard automata 
-Proposed by *Damien Pous* (Nov 2014)
-See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 #### Formalisation and certification of ownership in a specialised Java virtual machine
 Proposed by *Damien Pous* (Nov 2014)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 #### PiCoq: pi-calculus within Coq
 Proposed by *Damien Pous* (Nov 2014)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
-#### Étude logique de l'ordonnancement dans les algèbres de processus
-Proposed by *Emmanuel Beffara* (Nov 2014)
-See [this page](http://iml.univ-mrs.fr/~beffara/stage-m2if.pdf).
 #### Proof-Theoretic Strengh of MSO on Inﬁnite Words
 Proposed by *Colin Riba* (Nov 2014)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/mso-arith-M2-2015.pdf).
 
 ###  [M1 Internships][8]
 
-_None_ as for now.
+_None_ as for now, but you can contact us if you are interested.
 
 ###  [L3 Internships][7]
 
-_None_ as for now.
+_None_ as for now, but you can contact us if you are interested.
 
 
 [7]: http://www.ens-lyon.fr/DI/stageL3
