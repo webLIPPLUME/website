@@ -8,6 +8,7 @@ published: true
 ---
 
 
+
 ###  [M2 Internships][9]
 
 #### Coupled simulation, coalgebras and up-to techniques 
@@ -16,11 +17,11 @@ See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.
 #### Relativized Implicit Computational Complexity and Declassification
 Proposed by *Frédéric Prost* (Oct  2014)
 See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracles.htm).
-#### Formalisation and certification of ownership in a specialised Java virtual machine
-Proposed by *Damien Pous* (Nov 2014)
+#### Relation algebra without complement
+Proposed by *Damien Pous* (Oct 2015)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
-#### PiCoq: pi-calculus within Coq
-Proposed by *Damien Pous* (Nov 2014)
+#### Coinductive and symbolic algorithms for challenging automata models
+Proposed by *Damien Pous* (Oct 2015)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 #### Proof-Theoretic Strengh of MSO on Inﬁnite Words
 Proposed by *Colin Riba* (Nov 2014)
