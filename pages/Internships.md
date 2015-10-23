@@ -11,6 +11,18 @@ published: true
 
 ###  [M2 Internships][9]
 
+#### On the theory of the probabilistic mu-calculus
+Proposed by *Matteo Mio* (Oct 2015)
+see [this page][http://perso.ens-lyon.fr/matteo.mio/doku.php?id=m2]
+
+#### On extensions of Monadic Second Order logic
+Proposed by *Matteo Mio* (Oct 2015)
+see [this page][http://perso.ens-lyon.fr/matteo.mio/doku.php?id=m2]
+
+#### Causality in rule-based modeling
+Proposed by *Russel Harmer* (Oct 2015)
+See [this page][http://perso.ens-lyon.fr/russell.harmer/stage.html]
+
 #### Coupled simulation, coalgebras and up-to techniques 
 Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
 See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
