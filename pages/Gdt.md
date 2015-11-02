@@ -10,20 +10,21 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 12/10/2015 : _pas de GdT (Journées GeoCal-LAC-LTP à Nancy)_
-* 19/10/2015 : **Adrien Basso-Blandin.** A knowledge representation meta-model for rule-based modelling of signalling networks.
-* 26/10/2015 : _pas de GdT (Vacances Scolaires)_
-* 02/11/2015 : **Matias Lee.** TBA.
+* 02/11/2015 : **Matias Lee.** Logical Characterization of Bisimulation for Transition Relations over Probability Distributions with Internal Actions. 
 * 09/11/2015 : **_Jérôme Feret_.** TBA.
 
 _Exposés passés_ :
 
+* 26/10/2015 : _pas de GdT (Vacances Scolaires)_
+* 19/10/2015 : **Adrien Basso-Blandin.** A knowledge representation meta-model for rule-based modelling of signalling networks.
+* 12/10/2015 : _pas de GdT (Journées GeoCal-LAC-LTP à Nancy)_
 * 21/09/2015 : **Olivier Laurent.** Introduction à la focalisation et application à l'orthologique.
 * 18/05/2015 : **Hélène Coullon.** Toward Component-based High Performance Computing.
 * 11/05/2015 : **Emmanuel Beffara.** Vers l'unification des systèmes de types pour processus mobiles. 
