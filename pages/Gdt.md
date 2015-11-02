@@ -12,18 +12,21 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 02/11/2015 : **Matias Lee.** Logical Characterization of Bisimulation for Transition Relations over Probability Distributions with Internal Actions. 
 * 09/11/2015 : **_Jérôme Feret_.** TBA.
 * 16/11/2015 : **Laure Daviaud.** TBA.
+* 23/11/2015 : **Jurriaan Rot.** TBA.
+* 30/11/2015 : **Pierre Clairambault.** TBA.
 
 _Exposés passés_ :
 
+* 02/11/2015 : **Matias Lee.** Logical Characterization of Bisimulation for Transition Relations over Probability Distributions with Internal Actions. 
 * 26/10/2015 : _pas de GdT (Vacances Scolaires)_
 * 19/10/2015 : **Adrien Basso-Blandin.** A knowledge representation meta-model for rule-based modelling of signalling networks.
 * 12/10/2015 : _pas de GdT (Journées GeoCal-LAC-LTP à Nancy)_
