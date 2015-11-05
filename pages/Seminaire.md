@@ -30,6 +30,10 @@ Denis Kuperberg (TUM Munich)
 
   TBA
 
+ * **Thursday 26 Nov.,** room TBA:
+Luigi Santocanale (LIF & Université Aix-Marseille)
+
+  TBA
 
 
 ###  Past Events (since September 2010)
