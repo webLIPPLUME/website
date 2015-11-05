@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ###  [M2 Internships][9]
 
 #### Linear graph rewriting for Boolean logic
@@ -24,12 +25,17 @@ Proposed by *Matteo Mio* (Oct 2015)
 see [this page](http://perso.ens-lyon.fr/matteo.mio/doku.php?id=m2)
 
 #### Causality in rule-based modeling
-Proposed by *Russel Harmer* (Oct 2015)
+Proposed by *Russell Harmer* (Oct 2015)
 See [this page](http://perso.ens-lyon.fr/russell.harmer/stage.html)
 
 #### Coupled simulation, coalgebras and up-to techniques 
 Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
 See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
+
+#### Types for complexity analysis, with applications to security 
+Proposed by *Patrick Baillot* (Nov 2015)
+See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2016/sujet_typesforcomplexity.pdf)
+
 #### Relativized Implicit Computational Complexity and Declassification
 Proposed by *Frédéric Prost* (Oct  2014)
 See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracles.htm).
