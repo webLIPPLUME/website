@@ -11,6 +11,7 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
@@ -28,7 +29,18 @@ During the talk, we will present several models of lambda terms, as well as diff
  * **Thursday 19 Nov.,** room TBA:
 Denis Kuperberg (TUM Munich)
 
-  TBA
+  Good-for-Games automata versus Deterministic automata
+
+A nondeterministic automaton on infinite words is said to be Good-for-Games (GFG), if its nondeterminism can be resolved solely with knowledge about the prefix read so far, i.e. if there is no need to guess the future.
+This formalism can be seen as a compromise between determinism and nondeterminism, and retain good properties of determinism such as sound composition with trees and games. This notion appeared independently in several contexts such as synthesis and quantitative models.
+
+In this work, we address the question of the state-space blow-up between deterministic automata and GFG ones, i.e. are GFG automata more succinct than deterministic ones ? It was conjectured by Colcombet than parity GFG automata always contain deterministic sub-automata for the same language.
+We show that for Büchi condition, the blow-up is at most quadratic, while for coBüchi and general parity condition, GFG automata can be exponentially more succinct. 
+
+We also study the complexity of deciding whether an input nondeterministic automaton is GFG. Surprisingly, in the coBüchi case, this can be done in PTime although it amounts to checking the existence of an object of exponential size (the strategy for resolving nondeterminism).
+
+This is joint work with Michał Skrzypczak.
+
 
  * **Thursday 26 Nov.,** room TBA:
 Luigi Santocanale (LIF & Université Aix-Marseille)
