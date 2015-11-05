@@ -25,6 +25,12 @@ In most combinatorial models of lambda terms it is not difficult to specify recu
 
 During the talk, we will present several models of lambda terms, as well as different attempts to solve the enumeration problem. Among others, we will discuss the model based on de Bruijn indices, which turns out to be closely related to two families of binary trees: black-white trees and zigzag-free ones. Moreover, we will show that in such a model strongly normalizing terms are of density 0 among all lambda terms.
 
+ * **Thursday 19 Nov.,** room TBA:
+Denis Kuperberg (TUM Munich)
+
+  TBA
+
+
 
 ###  Past Events (since September 2010)
 
