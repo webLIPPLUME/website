@@ -15,7 +15,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 
 ###  Next Events
 
- * **Thursday 15 June,** 2 pm, room TBA:
+ * **Thursday 12 Nov.,** 2 pm, room TBA:
 Maciej Bendkowski and Katarzyna Grygiel
 (Jagellonian University, Krakow, Poland)
 
