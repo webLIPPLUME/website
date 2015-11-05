@@ -15,6 +15,7 @@ published: true
 #### Linear graph rewriting for Boolean logic
 Proposed by *Anupam Das* and *Olivier Laurent* 
 see [this page]( http://perso.ens-lyon.fr/laurent.lefevre/M2IF/StagesM2/sujets.html#l1.106)
+and see also [PDF]( http://www.anupamdas.com/linear-rewriting.pdf)
 
 #### On the theory of the probabilistic mu-calculus
 Proposed by *Matteo Mio* (Oct 2015)
