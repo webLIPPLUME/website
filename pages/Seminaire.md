@@ -10,23 +10,31 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
+
+ * **Thursday 15 June,** 2 pm, room TBA:
+Maciej Bendkowski and Katarzyna Grygiel
+(Jagellonian University, Krakow, Poland)
+
+  Lambda terms and their combinatorial representations
+
+In most combinatorial models of lambda terms it is not difficult to specify recurrence formulas that allow us to determine the number of lambda terms of a given size. However, applying them is highly inefficient and, moreover, it is a non-trivial task to derive the asymptotic growth of the studied sequences since the related generating functions are expressed in the form of infinitely nested radicals.
+
+During the talk, we will present several models of lambda terms, as well as different attempts to solve the enumeration problem. Among others, we will discuss the model based on de Bruijn indices, which turns out to be closely related to two families of binary trees: black-white trees and zigzag-free ones. Moreover, we will show that in such a model strongly normalizing terms are of density 0 among all lambda terms.
+
+
+###  Past Events (since September 2010)
+
+####  Since January 2014
 
  * **Monday 15 June,** 2 pm, Amphi B:
 Daniel Leivant (Indiana University Bloomington, USA)
 
   The Computational Contents of Ramified Corecurrence
 
-The vast power of iterated recurrence is tamed by data ramification: if a function over words is definable by ramified recurrence and composition, then it is feasible, i.e. computable in polynomial time, i.e. any computation using the first n input symbols can have at most p(n) distinct configurations, for some polynomial p. Here we prove a dual result for coinductive data: if a function over streams is definable by ramified corecurrence, then any computation to obtain the first n symbols of the output can have at most p(n) distinct configurations, for some polynomial p. The latter computation is by multi-cursor finite state transducer on streams.
-A consequence is that a function over finite streams is definable by ramified corecurrence iff it is Turing-computable in logarithmic space. Such corecursive definitions over finite streams are of practical interest, because large finite data is normally used as a knowledge base to be consumed, rather than as recurrence template. Thus, we relate a syntactically restricted computation model, amenable to static analysis, to a major complexity class for streaming algorithms.
-(joint work with Ramyaa Ramyaa)
-
-  
-###  Past Events (since September 2010)
-
-####  Since January 2014
 
 * **Thursday 2 april 2015:**
 Emmanuel Coquery (LIRIS, Lyon)
