@@ -12,8 +12,12 @@ published: true
 
 ###  [M2 Internships][9]
 
+#### High Performance category theory implementation for big graph transformations
+Proposed by Frederic *Frédéric Prost* (Oct 2015)
+see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
+
 #### Linear graph rewriting for Boolean logic
-Proposed by *Anupam Das* and *Olivier Laurent* 
+Proposed by *Anupam Das* and *Olivier Laurent* (Oct 2015) 
 see [this page]( http://perso.ens-lyon.fr/laurent.lefevre/M2IF/StagesM2/sujets.html#l1.106)
 and see also the extended [PDF]( http://www.anupamdas.com/linear-rewriting.pdf)
 
