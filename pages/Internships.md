@@ -21,11 +21,6 @@ Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/wkl.pdf).
 
 
-#### Proof-Theoretic Strengh of MSO on Inﬁnite Words
-Proposed by *Colin Riba* (Nov 2014)
-See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/mso-arith-M2-2015.pdf).
-
-
 #### High Performance category theory implementation for big graph transformations
 Proposed by Frederic *Frédéric Prost* (Oct 2015)
 see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
