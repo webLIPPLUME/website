@@ -12,6 +12,20 @@ published: true
 
 ###  [M2 Internships][9]
 
+#### Witness Extraction for MSO on Infinite Words
+Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
+See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/reg.pdf).
+
+#### The Strength of Safra’s Construction
+Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
+See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/wkl.pdf).
+
+
+#### Proof-Theoretic Strengh of MSO on Inﬁnite Words
+Proposed by *Colin Riba* (Nov 2014)
+See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/mso-arith-M2-2015.pdf).
+
+
 #### High Performance category theory implementation for big graph transformations
 Proposed by Frederic *Frédéric Prost* (Oct 2015)
 see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
@@ -50,9 +64,7 @@ See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
 #### Coinductive and symbolic algorithms for challenging automata models
 Proposed by *Damien Pous* (Oct 2015)
 See [this page](http://perso.ens-lyon.fr/damien.pous/stages.html).
-#### Proof-Theoretic Strengh of MSO on Inﬁnite Words
-Proposed by *Colin Riba* (Nov 2014)
-See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/mso-arith-M2-2015.pdf).
+
 
 ###  [M1 Internships][8]
 
