@@ -12,6 +12,7 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
@@ -47,7 +48,7 @@ Luigi Santocanale (LIF & Université Aix-Marseille)
 
   TBA
 
- * **Thursday 17 Dec.,** room TBA:
+ * **Monday 14 Dec.,** room TBA:
 Pascal Fradet (Inria Rhône-Alpes)
 
   TBA
