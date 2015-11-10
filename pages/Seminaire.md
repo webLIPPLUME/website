@@ -13,11 +13,12 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
- * **Thursday 12 Nov.,** 2 pm, room TBA:
+ * **Thursday 12 Nov.,** 2 pm, room B2:
 Maciej Bendkowski and Katarzyna Grygiel
 (Jagellonian University, Krakow, Poland)
 
