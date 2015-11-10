@@ -35,7 +35,7 @@ Name | position
 [Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/) [personal site](http://jurriaan.me/)
-[Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
+
 
 ###  Invités récents / Visitors
 
