@@ -8,8 +8,10 @@ published: true
 ---
 
 
+
 Name | Current position
 ---- | ----------------
+[Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matthieu Perrinel][]  | Doctorant / PhD student
 [Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
