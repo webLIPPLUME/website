@@ -32,9 +32,9 @@ Name | position
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
-[Frédéric Prost][]     | Maître de Conférences / assistant profeessor on leave from Univ. Joseph Fourier (Grenoble)
+[Frédéric Prost][]     | Maître de Conférences / assistant professor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
-Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/) [personal site](http://jurriaan.me/)
+Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) [personal site](http://jurriaan.me/)
 
 
 ###  Invités récents / Visitors
