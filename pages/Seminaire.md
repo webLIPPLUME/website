@@ -46,11 +46,12 @@ Luigi Santocanale (LIF & Université Aix-Marseille)
 
 ####  Since January 2014
 
- * **Thursday 12 Nov. 2015:**
+* **Thursday 12 Nov. 2015:**
 Maciej Bendkowski and Katarzyna Grygiel
 (Jagellonian University, Krakow, Poland)
 
   Lambda terms and their combinatorial representations
+
 
 * **Monday 15 June 2015:**
 Daniel Leivant (Indiana University Bloomington, USA)
