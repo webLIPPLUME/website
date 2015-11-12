@@ -14,19 +14,11 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
- * **Thursday 12 Nov.,** 2 pm, room B2:
-Maciej Bendkowski and Katarzyna Grygiel
-(Jagellonian University, Krakow, Poland)
-
-  Lambda terms and their combinatorial representations
-
-In most combinatorial models of lambda terms it is not difficult to specify recurrence formulas that allow us to determine the number of lambda terms of a given size. However, applying them is highly inefficient and, moreover, it is a non-trivial task to derive the asymptotic growth of the studied sequences since the related generating functions are expressed in the form of infinitely nested radicals.
-
-During the talk, we will present several models of lambda terms, as well as different attempts to solve the enumeration problem. Among others, we will discuss the model based on de Bruijn indices, which turns out to be closely related to two families of binary trees: black-white trees and zigzag-free ones. Moreover, we will show that in such a model strongly normalizing terms are of density 0 among all lambda terms.
 
  * **Thursday 19 Nov.,** room TBA:
 Denis Kuperberg (TUM Munich)
@@ -49,15 +41,22 @@ Luigi Santocanale (LIF & Université Aix-Marseille)
 
   TBA
 
- * **Monday 14 Dec.,** room TBA:
+ * **TBA** room TBA:
 Pascal Fradet (Inria Rhône-Alpes)
 
   TBA
+  
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
 
-* **Monday 15 June,** 2 pm, Amphi B:
+ * **Thursday 12 Nov. 2015:**
+Maciej Bendkowski and Katarzyna Grygiel
+(Jagellonian University, Krakow, Poland)
+
+  Lambda terms and their combinatorial representations
+
+* **Monday 15 June 2015:**
 Daniel Leivant (Indiana University Bloomington, USA)
 
   The Computational Contents of Ramified Corecurrence
