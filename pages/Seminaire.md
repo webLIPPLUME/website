@@ -41,10 +41,6 @@ Luigi Santocanale (LIF & Université Aix-Marseille)
 
   TBA
 
- * **TBA** room TBA:
-Pascal Fradet (Inria Rhône-Alpes)
-
-  TBA
   
 ###  Past Events (since September 2010)
 
