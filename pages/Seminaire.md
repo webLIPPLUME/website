@@ -20,7 +20,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 ###  Next Events
 
 
- * **Thursday 19 Nov.,** 10:30am, room TBA:
+* **Thursday 19 Nov.,** 10:30am, room TBA:
 Denis Kuperberg (TUM Munich)
 
   Good-for-Games automata versus Deterministic automata
@@ -36,7 +36,7 @@ We also study the complexity of deciding whether an input nondeterministic autom
 This is joint work with Michał Skrzypczak.
 
 
- * **Thursday 26 Nov.,** 10:30am, room TBA:
+* **Thursday 26 Nov.,** 10:30am, room TBA:
 Luigi Santocanale (LIF & Université Aix-Marseille)
 
   TBA
