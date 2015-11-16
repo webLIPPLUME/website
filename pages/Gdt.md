@@ -23,6 +23,7 @@ _Exposés à venir_ :
 
 * 23/11/2015 : **Jurriaan Rot.** Coalgebraic trace semantics via forgetful logics.
 * 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
+* 07/12/2015 : **Matteo Mio.** TBA
 
 _Exposés passés_ :
 
