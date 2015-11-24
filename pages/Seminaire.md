@@ -17,11 +17,12 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
-* **Thursday 26 Nov.,** 10:30am, room TBA:
+* **Thursday 26 Nov.,** 10:30am, Amphi J:
 Luigi Santocanale (LIF & Université Aix-Marseille)
 
   Fixed-point elimination in the Intuitionistic Propositional Calculus
