@@ -16,19 +16,19 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
-* 07/12/2015 : **Matteo Mio.** TBA
+* 07/12/2015 : **Matteo Mio.** Regular sets of Trees and Probability.
 * 14/12/2015 : **Pierre Clairambault.** TBA
 
 _Exposés passés_ :
 
-
+* 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
 * 23/11/2015 : **Jurriaan Rot.** Coalgebraic trace semantics via forgetful logics.
 * 16/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 1.
 * 09/11/2015 : **_Jérôme Feret_.** An algebraic approach for inferring and using symmetries in rule-based models.
