@@ -17,17 +17,22 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 07/12/2015 : **Matteo Mio.** Regular sets of Trees and Probability.
-* 14/12/2015 : **Pierre Clairambault.** TBA
+* 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
+* 11/01/2016 : **_Ugo Dal Lago._** TBA
+* 18/01/2016 : **Simon Castellan.** TBA
+* 25/01/2016 : **Laure Gonnord.** An encoding of array verification problems into array-free Horn clauses.
+* 01/02/2016 : **Damien Pous.** TBA
 
 _Exposés passés_ :
 
+* 07/12/2015 : **Matteo Mio.** Regular sets of Trees and Probability.
 * 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
 * 23/11/2015 : **Jurriaan Rot.** Coalgebraic trace semantics via forgetful logics.
 * 16/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 1.
