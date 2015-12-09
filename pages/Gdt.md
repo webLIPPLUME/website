@@ -18,6 +18,7 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
@@ -26,7 +27,6 @@ _Exposés à venir_ :
 
 * 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
 * 11/01/2016 : **_Ugo Dal Lago._** TBA
-* 18/01/2016 : **Simon Castellan.** TBA
 * 25/01/2016 : **Laure Gonnord.** An encoding of array verification problems into array-free Horn clauses.
 * 01/02/2016 : **Damien Pous.** TBA
 
