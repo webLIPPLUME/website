@@ -13,45 +13,40 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
-* 11/01/2016 : **_Ugo Dal Lago._** TBA
+* 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
 * 25/01/2016 : **Laure Gonnord.** An encoding of array verification problems into array-free Horn clauses.
 * 01/02/2016 : **Damien Pous.** TBA
 
 _Exposés passés_ :
 
+### Archives
+
+#### _Exposés proposés en 2015_
+
+* 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
+* 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
 * 07/12/2015 : **Matteo Mio.** Regular sets of Trees and Probability.
 * 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
 * 23/11/2015 : **Jurriaan Rot.** Coalgebraic trace semantics via forgetful logics.
 * 16/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 1.
 * 09/11/2015 : **_Jérôme Feret_.** An algebraic approach for inferring and using symmetries in rule-based models.
 * 02/11/2015 : **Matias Lee.** Logical Characterization of Bisimulation for Transition Relations over Probability Distributions with Internal Actions. 
-* 26/10/2015 : _pas de GdT (Vacances Scolaires)_
 * 19/10/2015 : **Adrien Basso-Blandin.** A knowledge representation meta-model for rule-based modelling of signalling networks.
-* 12/10/2015 : _pas de GdT (Journées GeoCal-LAC-LTP à Nancy)_
 * 21/09/2015 : **Olivier Laurent.** Introduction à la focalisation et application à l'orthologique.
 * 18/05/2015 : **Hélène Coullon.** Toward Component-based High Performance Computing.
 * 11/05/2015 : **Emmanuel Beffara.** Vers l'unification des systèmes de types pour processus mobiles. 
 * 04/05/2015 : **Frédéric Prost.** Social Data Anonymisation and Graph Transformations.
 * 27/04/2015 : **Laure Gonnord.** Validation of Memory Accesses Through Symbolic Analyses.
 * 20/04/2015 : **Paul Brunet.** A Kleene theorem for Petri automata.
-* 13/04/2015 : _pas de GdT (ETAPS)_
-* 06/04/2015 : _pas de GdT (lundi de paques)_
 * 30/03/2015 : **Patrick Baillot.** Analyse de complexité par typage et réductions cryptographiques.
-* 23/03/2015 : _pas de GdT (workshop [CLA 2015][])_
 * 16/03/2015 : **Anupam Das.** No complete linear term rewriting for propositional logic (probably).
 * 09/03/2015 : **Colin Riba.** Representation of Functions in Second-Order Arithmetic and Girard's System F.
 * 02/03/2015 : **Russ Harmer.** Executable Knowledge.
 * 23/02/2015 : **Damien Pous.** Kozen's proof of completeness for Kleene algebra.
-* 16/02/2015 : _pas de GdT (vacances scolaires)_
-* 09/02/2015 : _pas de GdT (vacances scolaires)_
-* 02/02/2015 : _pas de GdT (journées du GDR IM)_
 * 26/01/2015 : **Pierre Clairambault.** Introduction to normalization by evaluation.
 * 19/01/2015 : **Olivier Laurent.** Small Problems Related with Provability in Linear Logic.
 * 12/01/2015 : **_Alexandra Silva_.** Automata Learning: A Categorical Perspective. 
 * 05/01/2015 : **Adrien Basso-Blandin.** Conception d’un langage dédié à la conception de fonctions biologiques de synthèse par compilation de spécifications comportementales.
-
-### Archives
 
 #### _Exposés proposés en 2014_
 
