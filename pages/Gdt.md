@@ -24,7 +24,6 @@ _Exposés passés_ :
 #### _Exposés proposés en 2015_
 
 * 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
-* 14/12/2015 : **Pierre Clairambault.** Relating causal and interleaving concurrent game semantics.
 * 07/12/2015 : **Matteo Mio.** Regular sets of Trees and Probability.
 * 30/11/2015 : **Laure Daviaud.** A gentle introduction to the profinite theory of rational languages, part 2.
 * 23/11/2015 : **Jurriaan Rot.** Coalgebraic trace semantics via forgetful logics.
