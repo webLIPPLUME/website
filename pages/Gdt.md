@@ -19,7 +19,6 @@ _Exposés à venir_ :
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 1/02/2016 : **Damien Pous.** TBA
 * 8/02/2016 : **Simon Castellan.** TBA
-
 * 21/03/2016 : **_Dominique Duval._** TBA
 
 _Exposés passés_ :
