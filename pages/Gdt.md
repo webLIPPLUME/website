@@ -17,12 +17,12 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
 * 21/03/2016 : **_Dominique Duval._** TBA
 
 _Exposés passés_ :
 
+* 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
 
 ### Archives
