@@ -10,6 +10,7 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
@@ -17,8 +18,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 _Exposés à venir_ :
 
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
-* 1/02/2016 : **Damien Pous.** TBA
-* 8/02/2016 : **Simon Castellan.** TBA
+* 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
 * 21/03/2016 : **_Dominique Duval._** TBA
 
 _Exposés passés_ :
