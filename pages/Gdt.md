@@ -14,6 +14,7 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
@@ -129,7 +130,6 @@ polynomial and exponential complexity classes in elementary lambda-calculus.
 * lundi 25/06/2012, 14h00 : **Valentin Blot.** Classical realizability by strategies with gain conditions.
 * lundi 18/06/2012, 14h00 : **Dominique Duval.** Semantics of computational effects: colors vs black-and-white.
 * lundi 11/06/2012, 14h00 : **Erika De Benedetti.** A complete polynomial lambda-calculus.
-* lundi 28/05/2012, 14h00 : **NO GDT: Pentecôte **
 * lundi 21/05/2012, 14h00 : **Filippo Bonchi.** Toward a coalgebraic theory of bisimulation up-to.
 * lundi 14/05/2012, 14h00 : **Pawel Sobocinski.** Combinators for Petri Nets with boundaries.
 * mercredi 09/05/2012, 14h00 : **Fabio Zanasi.** Automata for Monadic Second Order Logics on trees of arbitrary degree.
@@ -139,7 +139,6 @@ polynomial and exponential complexity classes in elementary lambda-calculus.
 * lundi 19/03/2012, 11h00 : **Colin Riba.** A Model Theoretic Proof of Completeness of an Axiomatization of MSO on Streams.
 * lundi 26/03/2012, 11h00 : **Tom Hirschowitz.** A construction of operational and game semantics for CCS.
 * lundi 05/03/2012, 14h00 : **Patrick Baillot.** Des interprétations d’ordre supérieur pour la complexité implicite.
-* 30/01/2012 - 27/02/2012 : **NO GDT: LI in Marseille!!!**
 * lundi 23/01/2012, 14h00 : **Marc Lasson.** Paramétricité dans une sorte imprédicative.
 * lundi 16/01/2012, 14h00 : **Pierre lescanne.** Rationalité et escalade dans les jeux infinis séquentiels.
 * lundi 09/01/2012, 14h00 : **Lionel Rieg.** Vers des réels en réalisabilité classique.
