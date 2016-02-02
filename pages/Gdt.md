@@ -15,14 +15,14 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** or **Pierre Clairambault** (russell point harmer et/ou pierre point clairambault arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
-* 8/02/2016 : **Damien Pous.** TBA
+* 8/02/2016, **14h45** : **Damien Pous.** Coinduction for Verification and Certification: an overview.
 * 15/02/2016 : _Vacances scolaires_
 * 22/02/2016 : _Vacances scolaires_
 * 29/02/2016 : **Simon Castellan.** TBA
@@ -31,6 +31,7 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
+* 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 18/01/2016 : Journées GDR IM.
 * 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
