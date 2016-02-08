@@ -22,7 +22,7 @@ Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/wkl.pdf).
 
 
-#### ~~High Performance category theory implementation for big graph transformations:~~ this proposal has been attributed.
+#### <s>High Performance category theory implementation for big graph transformations:</s> this proposal has been attributed.
 Proposed by Frederic *Frédéric Prost* (Oct 2015)
 see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
 
