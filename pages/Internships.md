@@ -10,6 +10,7 @@ published: true
 
 
 
+
 ###  [M2 Internships][9]
 
 #### Witness Extraction for MSO on Infinite Words
@@ -21,7 +22,7 @@ Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/wkl.pdf).
 
 
-#### High Performance category theory implementation for big graph transformations
+#### ~~High Performance category theory implementation for big graph transformations:~~ this proposal has been attributed.
 Proposed by Frederic *Frédéric Prost* (Oct 2015)
 see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
 
@@ -46,7 +47,7 @@ See [this page](http://perso.ens-lyon.fr/russell.harmer/stage.html)
 Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
 See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
 
-#### Types for complexity analysis, with applications to security 
+#### ~~Types for complexity analysis, with applications to security :~~ this proposal has been attributed.
 Proposed by *Patrick Baillot* (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2016/sujet_typesforcomplexity.pdf)
 
