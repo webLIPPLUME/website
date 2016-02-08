@@ -47,7 +47,7 @@ See [this page](http://perso.ens-lyon.fr/russell.harmer/stage.html)
 Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
 See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
 
-#### ~~Types for complexity analysis, with applications to security :~~ this proposal has been attributed.
+#### <s>Types for complexity analysis, with applications to security :</s> this proposal has been attributed.
 Proposed by *Patrick Baillot* (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2016/sujet_typesforcomplexity.pdf)
 
