@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ###  [M2 Internships][9]
 
 #### Witness Extraction for MSO on Infinite Words
@@ -70,7 +71,11 @@ _None_ as for now, but you can contact us if you are interested.
 
 ####  Comparison of two methods in the analysis of program termination and complexity  
 Proposed by *Laure Daviaud and Laure Gonnord* (Jan 2016)
-See [this page](http://perso.ens-lyon.fr/laure.daviaud/stageL3.pdf)
+See [this page](http://perso.ens-lyon.fr/laure.daviaud/stageL3.pdf).
+
+####  Automatically solving chess variants
+Proposed by *Frédéric Prost with Mehdi Mhalla and Philippe Virouleau. * (Feb 2016)
+See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracle_Finder/Oracle_Finder.html).
 
 [7]: http://www.ens-lyon.fr/DI/stageL3
 [8]: http://www.ens-lyon.fr/DI/stageM1
