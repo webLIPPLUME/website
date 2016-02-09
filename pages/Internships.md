@@ -74,7 +74,7 @@ Proposed by *Laure Daviaud and Laure Gonnord* (Jan 2016)
 See [this page](http://perso.ens-lyon.fr/laure.daviaud/stageL3.pdf).
 
 ####  Automatically solving chess variants
-Proposed by *Frédéric Prost with Mehdi Mhalla and Philippe Virouleau. * (Feb 2016)
+Proposed by *Frédéric Prost with Mehdi Mhalla and Philippe Virouleau* (Feb 2016)
 See [this page](http://perso.ens-lyon.fr/frederic.prost/Oracle_Finder/Oracle_Finder.html).
 
 [7]: http://www.ens-lyon.fr/DI/stageL3
