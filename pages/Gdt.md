@@ -31,7 +31,7 @@ _Exposés à venir_ :
 
 _Exposés passés_ :
 
-* 8/02/2016, **14h45** : **Damien Pous.** Coinduction for Verification and Certification: an overview.
+* 8/02/2016, **Damien Pous.** Coinduction for Verification and Certification: an overview.
 * 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 18/01/2016 : Journées GDR IM.
