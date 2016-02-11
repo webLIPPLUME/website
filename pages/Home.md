@@ -9,6 +9,7 @@ published: true
 ---
 
 
+
 ###  Qui sommes-nous ? / Who are we?
 
 * [Membres / Members][Members]
@@ -41,13 +42,12 @@ published: true
 ### Actualité / News
 
 <p></p>
+
 <div class="xnews">
 <dl>
-  <dt><b>Filippo Bonchi and Damien Pous at CACM</b></dt>
-  <dd>A paper by Filippo Bonchi and Damien Pous published in Communications of the
-ACM Research Highlights, with a 
-<a href="http://cacm.acm.org/magazines/2015/2/182642-hacking-nondeterminism-with-induction-and-coinductio
-+n/fulltext">video</a>.<dd>
+  <dd> 1/2016 Damien Pous has obtained an ERC starting grant (CoVeCe project). See
+  <a href="http://cnrs-hebdo.dr7.cnrs.fr/Hebdo//lettre.php?numero=99#actu2707">this page</a>.
+ <dd>
 </dl>
 </div>
 
