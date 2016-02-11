@@ -10,6 +10,7 @@ published: true
 
 
 
+
 ###  Qui sommes-nous ? / Who are we?
 
 * [Membres / Members][Members]
@@ -45,7 +46,7 @@ published: true
 
 <div class="xnews">
 <dl>
-  <dd> jan. 2016. Damien Pous has obtained an ERC starting grant (CoVeCe project)! See
+  <dd> jan. 2016. Damien Pous has obtained an ERC starting grant ([CoVeCe project](https://perso.ens-lyon.fr/damien.pous/covece/))! See
   <a href="http://cnrs-hebdo.dr7.cnrs.fr/Hebdo//lettre.php?numero=99#actu2707">this page</a>.
  <dd>
 </dl>
