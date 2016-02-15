@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ###  Qui sommes-nous ? / Who are we?
 
 * [Membres / Members][Members]
@@ -23,7 +24,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism (Darpa)](http://www.darpa.mil/program/big-mechanism).
+* **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism (Darpa)](http://www.darpa.mil/program/big-mechanism) - [CoVeCe (ERC)](https://perso.ens-lyon.fr/damien.pous/covece/).
 
 * [Publications / Publications][Publications]
 
