@@ -19,12 +19,13 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
 
-* **Thursday 3rd March,** 10:30am, Room TBA:
+* **Thursday 3rd March,** 10:30am, Amphi E:
 Daniel Leivant (Indiana University Bloomington)
 
   Syntax directed reasoning in dynamic logic: a coinductive approach
