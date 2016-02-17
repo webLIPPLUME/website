@@ -18,23 +18,38 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
-* **Thursday 26 Nov.,** 10:30am, Amphi J:
+
+* **Thursday 3rd March,** 10:30am, Room TBA:
+Daniel Leivant (Indiana University Bloomington)
+
+  Syntax directed reasoning in dynamic logic: a coinductive approach
+
+Dynamic logic is the ambient formalism for Hoare-style logics of programs.
+Already its propositional fragment, PDL, supports program looping,
+thereby exceeding traditional modal logics in significant ways.
+In particular, no syntax-directed proof calculus for PDL has been known to date.
+
+We give a syntax-directed calculus for PDL, based on a coinductive notion 
+of proof which allows infinite chains of reasoning.  
+We show that the calculus is sound nonetheless, as well as being
+complete for the intended semantics.
+
+We close by outlining applications of the formalism to open problems about PDL.
+
+###  Past Events (since September 2010)
+
+####  Since January 2014
+
+* **Thursday 26 Nov. 2015:**
 Luigi Santocanale (LIF & Université Aix-Marseille)
 
   Fixed-point elimination in the Intuitionistic Propositional Calculus
 
-It is a consequence of existing literature that least and greatest fixed-points of monotone polynomials on Heyting algebras -— that is, the algebraic models of the Intuitionistic Propositional Calculus -— always exist, even when these algebras are not complete as lattices. The reason is that these extremal fixed-points are definable by formulas of the IPC. Consequently, the μ-calculus based on intuitionistic logic is trivial, every μ-formula being equivalent to a fixed-point free formula. We give in this paper an axiomatization of least and greatest fixed-points of formulas, and an algorithm to compute a fixed-point free formula equivalent to a given μ-formula. The axiomatization of the greatest fixed-point is simple. The axiomatization of the least fixed-point is more complex, in particular every monotone formula converges to its least fixed-point by Kleene’s iteration in a finite number of steps, but there is no uniform upper bound on the number of iterations. We extract, out of the algorithm, upper bounds for such n, depending on the size of the formula. For some formulas, we show that these upper bounds are polynomial and optimal.
-
-Joint work with Silvio Ghilardi, Milan, and Maria Gouveia, Lisbon
-
-  
-###  Past Events (since September 2010)
-
-####  Since January 2014
 
 * **Thursday 19 Nov. 2015:**
 Denis Kuperberg (TUM Munich)
