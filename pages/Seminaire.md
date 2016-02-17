@@ -29,15 +29,9 @@ Daniel Leivant (Indiana University Bloomington)
 
   Syntax directed reasoning in dynamic logic: a coinductive approach
 
-Dynamic logic is the ambient formalism for Hoare-style logics of programs.
-Already its propositional fragment, PDL, supports program looping,
-thereby exceeding traditional modal logics in significant ways.
-In particular, no syntax-directed proof calculus for PDL has been known to date.
+Dynamic logic is the ambient formalism for Hoare-style logics of programs. Already its propositional fragment, PDL, supports program looping, thereby exceeding traditional modal logics in significant ways. In particular, no syntax-directed proof calculus for PDL has been known to date.
 
-We give a syntax-directed calculus for PDL, based on a coinductive notion 
-of proof which allows infinite chains of reasoning.  
-We show that the calculus is sound nonetheless, as well as being
-complete for the intended semantics.
+We give a syntax-directed calculus for PDL, based on a coinductive notion of proof which allows infinite chains of reasoning. We show that the calculus is sound nonetheless, as well as being complete for the intended semantics.
 
 We close by outlining applications of the formalism to open problems about PDL.
 
