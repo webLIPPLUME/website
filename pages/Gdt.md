@@ -21,14 +21,16 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 7/03/2016 : **Colin Riba.** Categories d'automates d'arbres.
+* 14/03/2016 : **Colin Riba.** Categories d'automates d'arbres.
 * 21/03/2016 : **_Dominique Duval._** Decorated semantics for an imperative language with exceptions.
+* 28/03/2016 : Lundi de Pacques.
 
 _Intervenants à venir_ :
 
@@ -37,6 +39,7 @@ _Intervenants à venir_ :
 
 _Exposés passés_ :
 
+* 7/03/2016 : **Colin Riba.** Categories d'automates d'arbres.
 * 29/02/2016 : **Simon Castellan.** Weak memory models using event structures. 
 * 8/02/2016 : **Damien Pous.** Coinduction for Verification and Certification: an overview.
 * 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
