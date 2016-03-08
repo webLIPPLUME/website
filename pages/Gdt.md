@@ -30,7 +30,7 @@ _Exposés à venir_ :
 
 * 14/03/2016 : **Colin Riba.** Categories d'automates d'arbres.
 * 21/03/2016 : **_Dominique Duval._** Decorated semantics for an imperative language with exceptions.
-* 28/03/2016 : Lundi de Pacques.
+* 28/03/2016 : Lundi de Pâques.
 
 _Intervenants à venir_ :
 
