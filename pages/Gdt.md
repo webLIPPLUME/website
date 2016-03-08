@@ -36,6 +36,7 @@ _Intervenants à venir_ :
 
 * **Colin Riba.** 7/03-
 * **Frédéric Prost.**
+* **Emmanuel Beffara.**
 
 _Exposés passés_ :
 
