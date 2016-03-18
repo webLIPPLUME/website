@@ -26,7 +26,7 @@ Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][]
 ###  Next Events
 
 * **Thursday 24th March,** 10:30am, Salle de Conseil du LIP:
-Jim Lairb (University of Bath, UK)
+Jim Laird (University of Bath, UK)
 
   Game Semantics for Bounded Polymorphism
 
