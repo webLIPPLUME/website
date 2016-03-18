@@ -20,30 +20,28 @@ published: true
 
 
 
+
 Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
 
 ###  Next Events
 
+* **Thursday 24th March,** 10:30am, Salle de Conseil du LIP:
+Jim Laird (University of Bath, UK)
 
-* **Thursday 3rd March,** 10:30am, Amphi E:
-Daniel Leivant (Indiana University Bloomington)
+  Game Semantics for Bounded Polymorphism
 
-  Syntax directed reasoning in dynamic logic: a coinductive approach
+We describe  a denotational, intensional semantics for programs with polymorphic types with bounded quantification, in which phenomena such as inheritance between stateful objects may be represented and studied. Our model is developed from a game semantics for unbounded polymorphism, by establishing  dinaturality  properties of generic strategies, and  using them to give a new construction for interpreting subtyping constraints and bounded quantification. We use  this construction to give a denotational semantics for a programming language with general references and an expressive polymorphic typing system. We show that full abstraction fails in general in this model, but that it holds for all terms at a  rich collection of bounded types.
 
-Dynamic logic is the ambient formalism for Hoare-style logics of programs.
-Already its propositional fragment, PDL, supports program looping, thereby
-exceeding traditional modal logics in significant ways. In particular,
-no syntax-directed proof calculus for PDL has been known to date.
-
-We give a syntax-directed calculus for PDL, based on a coinductive notion
-of proof which allows infinite chains of reasoning. We show that the calculus
-is sound nonetheless, as well as being complete for the intended semantics.
-
-We close by outlining applications of the formalism to open problems about PDL.
 
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
+
+* **Thursday 3rd March:**
+Daniel Leivant (Indiana University Bloomington)
+
+  Syntax directed reasoning in dynamic logic: a coinductive approach
+
 
 * **Thursday 26 Nov. 2015:**
 Luigi Santocanale (LIF & Université Aix-Marseille)
