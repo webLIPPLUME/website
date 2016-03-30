@@ -7,6 +7,17 @@ published: true
 ---
 
 
+
+### List of visitors of Plume in 2016
+
+Name  |  Academic Affiliation  |  Date
+----  |  -----------------  |  ----
+Ugo Dal Lago   | Università di Bologna | 04-18 Jan 2016 (invited professor ENS Lyon)
+Daniel Leivant | University of Indianapolis | 07 Feb- 07 March 2016 (invited professor MILYON)
+Henryk Michalewski | University of Warsaw |   07 - 14 Feb 2016
+Peter Dybjer  |  University of Gothenburg | 07 - 14 Feb 2016
+Jim Laird  |  University of Bath | 21 - 24 March 2016 (bilateral exchange project, Royal Society)
+
 ### List of visitors of Plume in 2015
 
 Name  |  Academic Affiliation  |  Date
