@@ -23,6 +23,7 @@ Name | position
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
+[Enric Cosme Llopez][] | Post doctorant
 [Anupam Das][]         | Post doctorant
 [Laure Daviaud][]      | Post doctorante
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
