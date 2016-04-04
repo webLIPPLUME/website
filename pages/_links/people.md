@@ -7,6 +7,7 @@ tags: null
 published: true
 ---
 
+[Enric Cosme Llopez]: http://www.uv.es/coslloen/ (Enric Cosme Llópez)
 [Laure Daviaud]: https://perso.ens-lyon.fr/laure.daviaud/ (Laure Daviaud)
 [Matias David Lee]: https://perso.ens-lyon.fr/matias-david.lee/ (Matias David Lee)
 [Matias David Lee Argentine]: http://cs.famaf.unc.edu.ar/~lee/about-me/ (Matias David Lee)
