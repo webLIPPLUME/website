@@ -30,13 +30,14 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 25/04/2016 : **Enric Cosme Llópez.**
+* 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
 
 _Intervenants à venir_ :
 
@@ -46,7 +47,7 @@ _Intervenants à venir_ :
 
 _Exposés passés_ :
 
-* 4/04/2016 : **Frédéric Prost.** Parallelism in AGREE Transformations.
+* 4/04/2016 : **Frédéric Prost.** Parallelism in AGREE transformations.
 * 21/03/2016 : **_Dominique Duval._** Decorated semantics for an imperative language with exceptions.
 * 14/03/2016 : **Colin Riba.** Categories of tree automata, part 2.
 * 7/03/2016 : **Colin Riba.** Categories of tree automata, part 1.
