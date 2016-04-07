@@ -29,17 +29,17 @@ published: true
 
 
 
+
 _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 11,18/04/2016 : Vacances scolaires.
+* 25/04/2016 : **Enric Cosme Llópez.**
 
 _Intervenants à venir_ :
 
-* **Enric Cosme Llópez.**
 * **Colin Riba.**
 * **Emmanuel Beffara.**
 * **Anupam Das.**
