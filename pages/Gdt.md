@@ -58,7 +58,6 @@ _Exposés passés_ :
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
 
-
 ### Archives
 
 #### _Exposés proposés en 2015_
