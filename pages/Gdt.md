@@ -37,16 +37,17 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
+* 2/05/2016 : **Enric Cosme Llópez.** Formations of monoids, congruences, and formal languages.
 
 _Intervenants à venir_ :
 
-* **Colin Riba.**
 * **Emmanuel Beffara.**
 * **Anupam Das.**
+* **Colin Riba.**
 
 _Exposés passés_ :
 
+* 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
 * 4/04/2016 : **Frédéric Prost.** Parallelism in AGREE transformations.
 * 21/03/2016 : **_Dominique Duval._** Decorated semantics for an imperative language with exceptions.
 * 14/03/2016 : **Colin Riba.** Categories of tree automata, part 2.
@@ -55,7 +56,6 @@ _Exposés passés_ :
 * 8/02/2016 : **Damien Pous.** Coinduction for Verification and Certification: an overview.
 * 1/02/2016 : **Filippo Bonchi.** Rewriting string diagrams via DPO.
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
-* 18/01/2016 : Journées GDR IM.
 * 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
 
 ### Archives
