@@ -37,16 +37,16 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 2/05/2016 : **Enric Cosme Llópez.** Formations of monoids, congruences, and formal languages.
+* 9/05/2016 : **Emmanuel Beffara.** TBA.
 
 _Intervenants à venir_ :
 
-* **Emmanuel Beffara.**
 * **Anupam Das.**
 * **Colin Riba.**
 
 _Exposés passés_ :
 
+* 2/05/2016 : **Enric Cosme Llópez.** Formations of monoids, congruences, and formal languages.
 * 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
 * 4/04/2016 : **Frédéric Prost.** Parallelism in AGREE transformations.
 * 21/03/2016 : **_Dominique Duval._** Decorated semantics for an imperative language with exceptions.
