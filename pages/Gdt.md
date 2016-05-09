@@ -37,7 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics.
+* 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics
 
 _Intervenants à venir_ :
 
