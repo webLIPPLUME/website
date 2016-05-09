@@ -35,17 +35,18 @@ _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point f
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
-_Exposés à venir_ :
+_Exposé à venir_ :
 
-* 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics.
+Jeudi 19/05/2016, salle 316C : **Anupam Das.**
 
 _Intervenants à venir_ :
 
-* **Anupam Das.**
+* **Emmanuel Beffara.**
 * **Colin Riba.**
 
 _Exposés passés_ :
 
+* 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 1.
 * 2/05/2016 : **Enric Cosme Llópez.** Formations of monoids, congruences, and formal languages.
 * 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
 * 4/04/2016 : **Frédéric Prost.** Parallelism in AGREE transformations.
