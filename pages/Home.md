@@ -47,7 +47,7 @@ published: true
 
 <div class="xnews">
 <dl>
-  <dd> apr. 2016. 4 papers co-authored by Plume members have been accepted at the conference LICS 2016, to be held in New York in july.
+  <dd> apr. 2016. 4 papers co-authored by Plume members have been accepted at the conference (<a href="http://lics.rwth-aachen.de/lics16/cfp.html"> LICS 2016 </a>, to be held in New York in july.
   <dd> jan. 2016. The new GDRI network (CNRS/INdAM) on Linear Logic has started, with ENS de Lyon as one of its partners.  
   <dd> jan. 2016. Damien Pous has obtained an ERC starting grant (<a href="https://perso.ens-lyon.fr/damien.pous/covece/">CoVeCe project</a>)! See
   <a href="http://cnrs-hebdo.dr7.cnrs.fr/Hebdo//lettre.php?numero=99#actu2707">this page</a>.
