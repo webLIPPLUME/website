@@ -37,7 +37,8 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposé à venir_ :
 
-Jeudi 19/05/2016, salle 316C : **Anupam Das.**
+* Jeudi 19/05/2016, salle 316C : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
+* 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
 
 _Intervenants à venir_ :
 
