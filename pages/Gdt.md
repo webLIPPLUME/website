@@ -35,7 +35,7 @@ _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point f
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
-_Exposé à venir_ :
+_Exposés à venir_ :
 
 * Jeudi 19/05/2016, salle 316C : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
 * 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
