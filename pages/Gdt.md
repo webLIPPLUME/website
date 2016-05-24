@@ -37,8 +37,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* Jeudi 19/05/2016, salle 316C : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
-* 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
 
 _Intervenants à venir_ :
 
@@ -47,6 +45,8 @@ _Intervenants à venir_ :
 
 _Exposés passés_ :
 
+* 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
+* 19/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
 * 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 1.
 * 2/05/2016 : **Enric Cosme Llópez.** Formations of monoids, congruences, and formal languages.
 * 25/04/2016 : **Enric Cosme Llópez.** The dual equivalence of equations and co-equations for automata.
