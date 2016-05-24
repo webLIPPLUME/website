@@ -38,7 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 _Exposés à venir_ :
 
 * 30/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 2.
-* 13/06/2016 : **Anupam Das. ** TBA.
+* 13/06/2016 : **Anupam Das.** TBA.
 
 _Intervenants à venir_
 
