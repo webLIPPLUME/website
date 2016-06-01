@@ -47,7 +47,7 @@ published: true
 
 <div class="xnews">
 <dl>
-<dd> 9 june 2016 : <a href="http://chocola.ens-lyon.fr/events/seminaire-2016-06-09/"> CHoCoLa seminar day </a>, including talks by Th. Coquand and Th. Streicher. 
+<dd> 9 june 2016. <a href="http://chocola.ens-lyon.fr/events/seminaire-2016-06-09/"> CHoCoLa seminar day </a>, including talks by Th. Coquand and Th. Streicher. 
   <dd> apr. 2016. 4 papers co-authored by Plume members have been accepted at the conference <a href="http://lics.rwth-aachen.de/lics16/cfp.html"> LICS 2016 </a>!
   <dd> jan. 2016. The new GDRI network (CNRS/INdAM) on Linear Logic has started, with ENS de Lyon as one of its partners.  
   <dd> jan. 2016. Damien Pous has obtained an <b>ERC starting grant</b> (<a href="https://perso.ens-lyon.fr/damien.pous/covece/">CoVeCe project</a>)! See
