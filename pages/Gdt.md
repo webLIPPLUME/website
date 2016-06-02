@@ -1,8 +1,8 @@
 ---
 title: Groupe de travail
-subject: "L'actualité du groupe de travail des lundi."
+subject: L'actualité du groupe de travail des lundi.
 author: Plume Webmaster
-timestamp: "2014-11-01 15:18:54 +0200"
+timestamp: '2014-11-01 15:18:54 +0200'
 tags: null
 published: true
 ---
@@ -37,7 +37,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 30/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 2.
 * 13/06/2016 : **Anupam Das.** TBA.
 
 _Intervenants à venir_
@@ -46,6 +45,7 @@ _Intervenants à venir_
 
 _Exposés passés_ :
 
+* 30/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 2.
 * 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
 * 19/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
 * 9/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 1.
