@@ -42,6 +42,7 @@ _Exposés à venir_ :
 _Intervenants à venir_
 
 * **Colin Riba.**
+* **Damien Pous.**
 
 _Exposés passés_ :
 
