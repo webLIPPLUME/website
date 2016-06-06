@@ -37,7 +37,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 6/06/2016 : **Anupam Das.** Free-cut elimination in linear logic and an application to a feasible arithmetic.
 * 13/06/2016 : **Russ Harmer.** Implicit state simulation.
 
 _Intervenants à venir_
@@ -46,6 +45,7 @@ _Intervenants à venir_
 
 _Exposés passés_ :
 
+* 6/06/2016 : **Anupam Das.** Free-cut elimination in linear logic and an application to a feasible arithmetic.
 * 30/05/2016 : **Emmanuel Beffara.** Proof-theoretical investigations in operational semantics, part 2.
 * 23/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 2.
 * 19/05/2016 : **Anupam Das.** Linear rewriting systems for Boolean structures, part 1.
