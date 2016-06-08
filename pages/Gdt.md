@@ -38,6 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 _Exposés à venir_ :
 
 * 13/06/2016 : **Russ Harmer.** Implicit state simulation.
+* 27/06/2016 : **_Christian Doczkal._** TBD
 
 _Intervenants à venir_
 
