@@ -38,7 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 _Exposés à venir_ :
 
 * 20/06/2016 : **Russ Harmer.** Implicit state simulation, part 2.
-* 27/06/2016 : **_Christian Doczkal._** TBD
+* 27/06/2016 : **_Christian Doczkal._** Informative Completeness for Decidable Modal Logics.
 
 _Intervenants à venir_
 
