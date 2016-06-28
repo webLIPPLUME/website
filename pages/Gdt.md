@@ -37,8 +37,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
-* 27/06/2016 : **_Christian Doczkal._** Informative Completeness for Decidable Modal Logics.
-
 _Intervenants à venir_
 
 * **Colin Riba.**
@@ -46,6 +44,7 @@ _Intervenants à venir_
 
 _Exposés passés_ :
 
+* 27/06/2016 : **_Christian Doczkal._** Informative Completeness for Decidable Modal Logics.
 * 20/06/2016 : **Russ Harmer.** Implicit state simulation, part 2.
 * 13/06/2016 : **Russ Harmer.** Implicit state simulation, part 1.
 * 6/06/2016 : **Anupam Das.** Free-cut elimination in linear logic and an application to a feasible arithmetic.
