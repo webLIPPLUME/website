@@ -1,8 +1,8 @@
 ---
 title: Home Page
-subject: "Contenu apparaissant sur la page d'accueil."
+subject: Contenu apparaissant sur la page d'accueil.
 author: Plume Webmaster
-timestamp: "2013-03-28 10:39:37 +0200"
+timestamp: '2013-03-28 10:39:37 +0200'
 tags: null
 embedded: true
 published: true
@@ -49,7 +49,7 @@ published: true
 <dl>
 <dd> 9 june 2016. <a href="http://chocola.ens-lyon.fr/events/seminaire-2016-06-09/"> CHoCoLa seminar day </a>, including talks by Th. Coquand and Th. Streicher. 
   <dd> apr. 2016. 4 papers co-authored by Plume members have been accepted at the conference <a href="http://lics.rwth-aachen.de/lics16/cfp.html"> LICS 2016 </a>!
-  <dd> jan. 2016. The new GDRI network (CNRS/INdAM) on Linear Logic has started, with ENS de Lyon as one of its partners.  
+  <dd> jan. 2016. The new <a href="http://linear-logic.org/en/"> GDRI network (CNRS/INdAM) on Linear Logic </a> has started, with ENS de Lyon as one of its partners.  
   <dd> jan. 2016. Damien Pous has obtained an <b>ERC starting grant</b> (<a href="https://perso.ens-lyon.fr/damien.pous/covece/">CoVeCe project</a>)! See
   <a href="http://cnrs-hebdo.dr7.cnrs.fr/Hebdo//lettre.php?numero=99#actu2707">this page</a>.
  <dd>
