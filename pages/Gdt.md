@@ -37,10 +37,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **sa
 
 _Exposés à venir_ :
 
+* 19/09/2016 : **Damien Pous.**
+
 _Intervenants à venir_
 
 * **Colin Riba.**
-* **Damien Pous.**
 
 _Exposés passés_ :
 
