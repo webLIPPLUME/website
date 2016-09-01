@@ -33,7 +33,7 @@ published: true
 
 _contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point fr)
 
-_Sauf indication contraire, les exposés ont lieu le **lundi à 14h30**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
+_Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
