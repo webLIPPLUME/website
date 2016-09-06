@@ -38,6 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 _Exposés à venir_ :
 
 * 19/09/2016 : **Damien Pous.**
+* 26/09/2016 : **Matias-David Lee.**
 
 _Intervenants à venir_
 
