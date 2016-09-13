@@ -24,6 +24,8 @@ published: true
 
 ###  Activités / Activities
 
+* **Evénements / Events** : [Linear logic 2016](https://ll2016.sciencesconf.org/) [RAMiCS 2017](http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/)
+
 * **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism (Darpa)](http://www.darpa.mil/program/big-mechanism) - [CoVeCe (ERC)](https://perso.ens-lyon.fr/damien.pous/covece/).
 
 * [Publications / Publications][Publications]
