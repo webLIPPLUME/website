@@ -13,7 +13,9 @@ Name | Current position
 ---- | ----------------
 
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
-Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) [personal site](http://jurriaan.me/)
+
+[Jurriaan Rot](http://jurriaan.me/)           | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) 
+
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matthieu Perrinel][]  | Doctorant / PhD student
