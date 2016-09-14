@@ -16,17 +16,19 @@ Name | position
 ---- | --------
 [Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 **Catherine Desplanches**  | Assistante d'équipe/ Team assistant
+[Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Adrien Basso-Blandin][] | Post doctorant
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
+[Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 [Enric Cosme Llopez][] | Post doctorant
 [Anupam Das][]         | Post doctorant
 [Laure Daviaud][]      | Post doctorante
-[http://perso.ens-lyon.fr/adrien.durier/](Adrien Durier)  | Doctorant / Phd student
+[Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
@@ -35,6 +37,7 @@ Name | position
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
+[Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
 [Frédéric Prost][]     | Maître de Conférences / assistant professor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) [personal site](http://jurriaan.me/)
