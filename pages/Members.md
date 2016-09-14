@@ -19,7 +19,6 @@ Name | position
 [Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Adrien Basso-Blandin][] | Post doctorant
-[Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
 [Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
@@ -40,7 +39,7 @@ Name | position
 [Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
 [Frédéric Prost][]     | Maître de Conférences / assistant professor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
-Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) [personal site](http://jurriaan.me/)
+
 
 
 ###  Invités récents / Visitors
