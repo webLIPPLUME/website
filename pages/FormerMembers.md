@@ -1,8 +1,8 @@
 ---
-title: "Anciens membres - Former members"
-subject: "Historique des membres de l'équipe depuis sa création."
+title: Anciens membres - Former members
+subject: Historique des membres de l'équipe depuis sa création.
 author: Plume Webmaster
-timestamp: "2015-03-04 10:15:32 +0200"
+timestamp: '2015-03-04 10:15:32 +0200'
 tags: null
 published: true
 ---
@@ -11,6 +11,9 @@ published: true
 
 Name | Current position
 ---- | ----------------
+
+[Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
+Jurriaan Rot             | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) [personal site](http://jurriaan.me/)
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matthieu Perrinel][]  | Doctorant / PhD student
