@@ -37,8 +37,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 19/09/2016 : **Damien Pous.**
+* 19/09/2016 : **Damien Pous.** Coinduction all the way up.
 * 26/09/2016 : **Matias-David Lee.**
+* 10/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 
 _Intervenants à venir_
 
