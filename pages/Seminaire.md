@@ -1,8 +1,8 @@
 ---
-title: "Séminaires - Seminars"
+title: Séminaires - Seminars
 subject: Le séminaire des jeudis...
 author: Colin Riba
-timestamp: "2012-02-12 07:22:08 +0200"
+timestamp: '2012-02-12 07:22:08 +0200'
 tags: null
 published: true
 ---
@@ -21,21 +21,54 @@ published: true
 
 
 
-Our seminars are usually on Thursdays. Some of them are shared with the [LIMD][] team of the [LAMA][] laboratory, and are located in Chambéry. About once a month, the seminar is held as a meeting of the [Choco][] ANR project.
+Our seminars are usually on Thursdays. About once a month, the seminar is held as a [CHoCoLa](http://chocola.ens-lyon.fr) meeting.
 
 ###  Next Events
 
-* **Thursday 24th March,** 10:30am, Salle de Conseil du LIP:
-Jim Laird (University of Bath, UK)
 
-  Game Semantics for Bounded Polymorphism
+* **Thursday 29th Sept.,** 10:30am, room TBA:
+Peter Jipsen, Chapman University (Orange, California, USA)
 
-We describe  a denotational, intensional semantics for programs with polymorphic types with bounded quantification, in which phenomena such as inheritance between stateful objects may be represented and studied. Our model is developed from a game semantics for unbounded polymorphism, by establishing  dinaturality  properties of generic strategies, and  using them to give a new construction for interpreting subtyping constraints and bounded quantification. We use  this construction to give a denotational semantics for a programming language with general references and an expressive polymorphic typing system. We show that full abstraction fails in general in this model, but that it holds for all terms at a  rich collection of bounded types.
+	Concurrent Kleene algebras with tests as algebraic models for concurrent programs
+
+We introduce concurrent Kleene algebra with tests (CKAT) as a
+combination of Kleene algebra with tests (KAT) of Kozen and Smith
+with concurrent Kleene algebras (CKA), introduced by Hoare,
+Möller, Struth and Wehrman. CKAT provides a relatively simple
+algebraic model for reasoning about semantics of concurrent
+programs. We generalize guarded strings to guarded
+series-parallel strings, or gsp-strings, to give a concrete
+language model for CKAT. Combining nondeterministic guarded
+automata of Kozen with branching automata of Lodaya and Weil one
+obtains a model for processing gsp-strings in parallel. To ensure
+that the model satisfies the weak exchange law
+(x||y)(z||w) <= (xz)||(yw)
+of CKA, we make use of the subsumption order of Gischer on the
+gsp-strings.
+
+To express basic concurrent algorithms, we define concurrent
+deterministic flowchart schemas and relate them to branching
+automata and to concurrent Kleene algebras with tests. This gives
+a computational model that interprets assignment statements,
+if-then-else, while-do and concurrent fork-join. Mapping from
+this model to an algebra of binary relations gives an algebraic
+method of proving that two concurrent programs are
+equivalent (i.e., compute the same input-output relation).
+
+(joint work with M. Andrew Moshier)
+
+
 
 
 ###  Past Events (since September 2010)
 
 ####  Since January 2014
+
+* **Thursday 24th March:**
+Jim Laird (University of Bath, UK)
+
+  Game Semantics for Bounded Polymorphism
+
 
 * **Thursday 3rd March:**
 Daniel Leivant (Indiana University Bloomington)
