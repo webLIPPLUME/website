@@ -58,7 +58,7 @@ equivalent (i.e., compute the same input-output relation).
 (joint work with M. Andrew Moshier)
 
 
-* **Thursday 6th Oct.,** 10:00am, room B2:
+* **Thursday 6th Oct.,** 10:03am, room B2:
 Georg Struth, The University of Sheffield, UK
 
 	Concurrent Kleene Algebras and Pomset Languages
