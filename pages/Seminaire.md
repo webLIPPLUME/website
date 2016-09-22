@@ -26,7 +26,7 @@ Our seminars are usually on Thursdays. About once a month, the seminar is held a
 ###  Next Events
 
 
-* **Thursday 29th Sept.,** 10:30am, room TBA:
+* **Thursday 29th Sept.,** 10:30am, room B2:
 Peter Jipsen, Chapman University (Orange, California, USA)
 
 	Concurrent Kleene algebras with tests as algebraic models for concurrent programs
