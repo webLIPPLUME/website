@@ -50,6 +50,8 @@ published: true
 <div class="xnews">
 <dl>
 <dd> 7-10 nov 2016. <a href="https://ll2016.sciencesconf.org/"> Linear logic 2016 </a>: an interdisciplinary meeting on Linear Logic taking place in Lyon (one research school and two workshops)
+<dd> 4 oct 2016. PhD defense of <a href="https://perso.ens-lyon.fr/paul.brunet/">  Paul Brunet</a>.
+<dd> 27 sept 2016. Habilitation defense of <a href="https://perso.ens-lyon.fr/damien.pous/"> Damien Pous</a>.
 <dd> 9 june 2016. <a href="http://chocola.ens-lyon.fr/events/seminaire-2016-06-09/"> CHoCoLa seminar day </a>, including talks by Th. Coquand and Th. Streicher. 
   <dd> apr. 2016. 4 papers co-authored by Plume members have been accepted at the conference <a href="http://lics.rwth-aachen.de/lics16/cfp.html"> LICS 2016 </a>!
   <dd> jan. 2016. The new <a href="http://linear-logic.org/en/"> GDRI network (CNRS/INdAM) on Linear Logic </a> has started, with ENS de Lyon as one of its partners.  
