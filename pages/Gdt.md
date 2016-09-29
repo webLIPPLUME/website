@@ -37,7 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 3/10/2016 : **Paul Brunet.**
+* 3/10/2016 : **Paul Brunet.** Algebras of relations: from algorithms to formal proofs.
 * 10/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 
 _Intervenants à venir_
