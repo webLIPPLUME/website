@@ -37,7 +37,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 26/09/2016 : **Matias Lee.** Bisimulation over open terms for stream systems.
 * 3/10/2016 : **Paul Brunet.**
 * 10/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 
@@ -47,6 +46,7 @@ _Intervenants à venir_
 
 _Exposés passés_ :
 
+* 26/09/2016 : **Matias Lee.** Bisimulation over open terms for stream systems.
 * 19/09/2016 : **Damien Pous.** Coinduction all the way up.
 * 27/06/2016 : **_Christian Doczkal._** Informative Completeness for Decidable Modal Logics.
 * 20/06/2016 : **Russ Harmer.** Implicit state simulation, part 2.
