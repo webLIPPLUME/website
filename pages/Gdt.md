@@ -41,7 +41,7 @@ _Exposés à venir_ :
 * 10/10/2016 : **Yves-Stan Le Cornec.**
 * 17/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 * 24,31/10/2016 : Vacances scolaires.
-* 7/11/2016 : École [Linear Logic 2016](https://ll2016.sciencesconf.org).
+* 7/11/2016 : [Linear Logic 2016](https://ll2016.sciencesconf.org).
 
 _Intervenants à venir_
 
