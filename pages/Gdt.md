@@ -41,6 +41,8 @@ _Exposés à venir_ :
 * 17/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 * 24,31/10/2016 : Vacances scolaires.
 * 7/11/2016 : [Linear Logic 2016](https://ll2016.sciencesconf.org).
+* 14/11/2016 : **Pierre Pradic.**
+* 21/11/2016 : FIL-TIF.
 * 28/11/2016 : **Enric Cosme Llópez.**
 * 5/12/2016 : **Enric Cosme Llópez.**
 
