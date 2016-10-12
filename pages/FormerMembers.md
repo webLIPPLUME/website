@@ -18,7 +18,7 @@ Name | Current position
 [Fabio Zanasi][]       | Doctorant / PhD student ([personal site][Fabio Zanasi Casa])
 [Jean-Marie Madiot][]  | Doctorant / PhD student
 [Matthieu Perrinel][]  | Doctorant / PhD student
-[Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/)
+[Daniela Petrisan][]   | Post doctorant ([former position](http://www.cs.le.ac.uk/people/dlp10/))
 [Erika De Benedetti][] | Doctorante / Phd student (cotutelle with [Turin][Erika De Benedetti Turin])
 [Valentin Blot][]      | Doctorant / Phd student
 Federico Aschieri      | [Federico Aschieri][]
