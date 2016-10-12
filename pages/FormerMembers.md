@@ -11,6 +11,7 @@ published: true
 
 Name | Current position
 ---- | ----------------
+[Laure Daviaud][]      | Post doctorante
 [Matias David Lee][]   | Post doctorant ([Argentine site][Matias David Lee Argentine])
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
 [Jurriaan Rot](http://jurriaan.me/)           | Post doctorant ([Labex Milyon](http://milyon.universite-lyon.fr/)) 
