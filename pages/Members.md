@@ -27,9 +27,11 @@ Name | position
 [Enric Cosme Llopez][] | Post doctorant
 [Anupam Das][]         | Post doctorant
 [Laure Daviaud][]      | Post doctorante
+[Christian Doczkal](http://perso.ens-lyon.fr/christian.doczkal/)  | Post doctorant
 [Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
 [Russ Harmer][]        | Chercheur / Researcher (CNRS)
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
+[Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Yves-Stan Le Cornec](http://perso.ens-lyon.fr/yves-stan.le-cornec)  | Post doctorant
 [Matias David Lee][]   | Post doctorant ([Argentine site][Matias David Lee Argentine])
