@@ -1,6 +1,6 @@
 ---
-title: "Visiteurs - Visitors"
-subject: "La liste des visiteurs de l'équipe."
+title: Visiteurs - Visitors
+subject: La liste des visiteurs de l'équipe.
 author: Plume Webmaster
 tags: null
 published: true
@@ -12,6 +12,11 @@ published: true
 
 Name  |  Academic Affiliation  |  Date
 ----  |  -----------------  |  ----
+Jurriaan Rot | Radboud University | 24-29 Oct 2016
+Marco Peressotti | Università di Udine | 11-15 Oct 2016
+Georg Struth | Sheffield University | 02-07 Oct 2016
+Peter Jipsen | Chapman University | 26-30 Sep 2016
+Henning Basold | Radboud University Nijmegen | 18-22 Sep 2016
 Ugo Dal Lago   | Università di Bologna | 04-18 Jan 2016 (invited professor ENS Lyon)
 Daniel Leivant | University of Indianapolis | 07 Feb- 07 March 2016 (invited professor MILYON)
 Henryk Michalewski | University of Warsaw |   07 - 14 Feb 2016
