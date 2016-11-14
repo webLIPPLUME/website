@@ -41,6 +41,8 @@ _Exposés à venir_ :
 * 28/11/2016 : [Journées Nationales GeoLAC](https://www.irif.fr/rencontres/geocal-lac2016/index).
 * 5/12/2016 : **Enric Cosme Llópez.**
 * 12/12/2016 : **Enric Cosme Llópez.**
+* 9/01/2017 : **Pierre Pradic.**
+* 16/01/2017 : **_Chung-Kil Hur.**
 
 _Exposés passés_ :
 
