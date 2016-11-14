@@ -42,7 +42,7 @@ _Exposés à venir_ :
 * 5/12/2016 : **Enric Cosme Llópez.**
 * 12/12/2016 : **Enric Cosme Llópez.**
 * 9/01/2017 : **Pierre Pradic.**
-* 16/01/2017 : **_Chung-Kil Hur.**
+* 16/01/2017 : **_Chung-Kil Hur._**
 
 _Exposés passés_ :
 
