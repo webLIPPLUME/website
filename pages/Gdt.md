@@ -37,12 +37,11 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 21/11/2016 : FIL-TIF.
-* 28/11/2016 : [Journées Nationales GeoLAC](https://www.irif.fr/rencontres/geocal-lac2016/index).
 * 5/12/2016 : **Enric Cosme Llópez.**
 * 12/12/2016 : **Enric Cosme Llópez.**
 * 9/01/2017 : **Pierre Pradic.**
 * 16/01/2017 : **_Chung-Kil Hur._**
+* 20,27/02/2017 : Vacances scolaires.
 
 _Exposés passés_ :
 
