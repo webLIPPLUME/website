@@ -37,7 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 5/12/2016 : **Enric Cosme Llópez.**
+* 5/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs.
 * 12/12/2016 : **Enric Cosme Llópez.**
 * 9/01/2017 : **Pierre Pradic.**
 * 16/01/2017 : **_Chung-Kil Hur._**
