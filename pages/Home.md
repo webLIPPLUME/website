@@ -24,7 +24,7 @@ published: true
 
 ###  Activités / Activities
 
-* **Evénements / Events** : [Linear logic 2016](https://ll2016.sciencesconf.org/) -  [RAMiCS 2017](http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/)
+* **Evénements / Events** : [RAMiCS 2017](http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/) - <a href="https://ejcim2017.sciencesconf.org/"> EJCIM 2017</a> - [Linear logic 2016](https://ll2016.sciencesconf.org/) 
 
 * **Projets / Projects** : [Récré][] - [Pace][] - [Elica](http://lipn.univ-paris13.fr/~mazza/Elica/) - [Big mechanism (Darpa)](http://www.darpa.mil/program/big-mechanism) - [CoVeCe (ERC)](https://perso.ens-lyon.fr/damien.pous/covece/).
 
@@ -49,6 +49,7 @@ published: true
 
 <div class="xnews">
 <dl>
+<dd> 23-27 janv 2017. <a href="https://ejcim2017.sciencesconf.org/"> EJCIM 2017</a> (Ecole jeunes chercheurs/chercheuses en informatique mathématique): this research school will take place this year at ens Lyon.
 <dd> 7-10 nov 2016. <a href="https://ll2016.sciencesconf.org/"> Linear logic 2016 </a>: an interdisciplinary meeting on Linear Logic taking place in Lyon (one research school and two workshops)
 <dd> 4 oct 2016. PhD defense of <a href="https://perso.ens-lyon.fr/paul.brunet/">  Paul Brunet</a>.
 <dd> 27 sept 2016. Habilitation defense of <a href="https://perso.ens-lyon.fr/damien.pous/"> Damien Pous</a>.
