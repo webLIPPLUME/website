@@ -31,20 +31,20 @@ published: true
 
 
 
-_contact_ : **Russ Harmer** (russell point harmer arobase ens tiret lyon point fr)
+_contact_ : **Matteo Mio** (matteo point mio arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 _Exposés à venir_ :
 
-* 5/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs.
-* 12/12/2016 : **Enric Cosme Llópez.**
+* 12/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs, part 2.
 * 9/01/2017 : **Pierre Pradic.**
 * 16/01/2017 : **_Chung-Kil Hur._**
 * 20,27/02/2017 : Vacances scolaires.
 
 _Exposés passés_ :
 
+* 5/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs, part 1.
 * 17/10/2016 : **Frédéric Prost.** Attributed graph rewriting with sub-structure cloning.
 * 10/10/2016 : **Yves-Stan Le Cornec.** Model checking de systèmes modulaires à l'aide de réductions hiérarchiques.
 * 3/10/2016 : **Paul Brunet.** Algebras of relations: from algorithms to formal proofs.
