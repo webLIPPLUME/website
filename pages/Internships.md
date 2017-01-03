@@ -1,8 +1,8 @@
 ---
-title: "Stages - Internship Proposals"
+title: Stages - Internship Proposals
 subject: Les propositions de stage proposés par tel ou tel membre de Plume.
 author: Plume Webmaster
-timestamp: "2012-11-13 10:21:46 +0200"
+timestamp: '2012-11-13 10:21:46 +0200'
 tags: null
 published: true
 ---
@@ -14,6 +14,10 @@ published: true
 
 ###  [M2 Internships][9]
 
+#### Types pour la complexité implicite 
+Proposed by *Patrick Baillot* (Jan 2017)
+See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2017/sujet_types2017.pdf).
+
 #### Witness Extraction for MSO on Infinite Words
 Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/reg.pdf).
@@ -22,10 +26,6 @@ See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/reg.pdf).
 Proposed by *Colin Riba* and Henryk Michalewski (Nov 2015)
 See [this page](http://perso.ens-lyon.fr/colin.riba/sujets/wkl.pdf).
 
-
-#### <s>High Performance category theory implementation for big graph transformations:</s> this proposal has been attributed.
-Proposed by Frederic *Frédéric Prost* (Oct 2015)
-see [this page](http://perso.ens-lyon.fr/frederic.prost/Impl_Cat.html)
 
 #### Linear graph rewriting for Boolean logic
 Proposed by *Anupam Das* and *Olivier Laurent* (Oct 2015) 
@@ -48,9 +48,6 @@ See [this page](http://perso.ens-lyon.fr/russell.harmer/stage.html)
 Proposed by *Filippo Bonchi* and *Damien Pous* (Oct 2015)
 See [description (rtf file)](http://perso.ens-lyon.fr/filippo.bonchi/internship.rtf)
 
-#### <s>Types for complexity analysis, with applications to security :</s> this proposal has been attributed.
-Proposed by *Patrick Baillot* (Nov 2015)
-See [this page](http://perso.ens-lyon.fr/patrick.baillot/STAGES/2016/sujet_typesforcomplexity.pdf)
 
 #### Relativized Implicit Computational Complexity and Declassification
 Proposed by *Frédéric Prost* (Oct  2014)
@@ -69,9 +66,6 @@ _None_ as for now, but you can contact us if you are interested.
 
 ###  [L3 Internships][7]
 
-####  Comparison of two methods in the analysis of program termination and complexity  
-Proposed by *Laure Daviaud and Laure Gonnord* (Jan 2016)
-See [this page](http://perso.ens-lyon.fr/laure.daviaud/stageL3.pdf).
 
 ####  Automatically solving chess variants
 Proposed by *Frédéric Prost with Mehdi Mhalla and Philippe Virouleau* (Feb 2016)
