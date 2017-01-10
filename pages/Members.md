@@ -14,10 +14,11 @@ published: true
 
 Name | position
 ---- | --------
-[Patrick Baillot][]    | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
+[Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 **Catherine Desplanches**  | Assistante d'équipe/ Team assistant
 [Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
+[Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
 [Adrien Basso-Blandin][] | Post doctorant
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
