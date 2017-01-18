@@ -22,7 +22,6 @@ Name | position
 [Adrien Basso-Blandin][] | Post doctorant
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
-[Paul Brunet][]        | Doctorant / Phd student ([former location][Paul Brunet Cachan])
 [Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 [Enric Cosme Llopez][] | Post doctorant
@@ -40,7 +39,7 @@ Name | position
 [Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
 [Frédéric Prost][]     | Maître de Conférences / assistant professor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
-
+[Valeria Vignudelli](https://sites.google.com/site/valeriavignudelli/) | Post doctorante
 
 
 ###  Invités récents / Visitors
