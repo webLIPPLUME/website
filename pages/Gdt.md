@@ -39,6 +39,8 @@ _Exposés à venir_ :
 
 * 9/01/2017 : **Pierre Pradic.**
 * 16/01/2017 : **_Chung-Kil Hur._**
+* 23/01/2017 : No GdT this week.
+* 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 20,27/02/2017 : Vacances scolaires.
 
 _Exposés passés_ :
