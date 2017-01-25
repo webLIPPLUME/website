@@ -37,14 +37,16 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
+* 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
+* 20,27/02/2017 : Vacances scolaires.
+
+_Exposés passés_ :
+
 * 9/01/2017 : No GdT this week.
 * 16/01/2017 : **_Chung-Kil Hur._** A Promising Semantics for Relaxed-Memory Concurrency.
 * 23/01/2017 : No GdT this week.
 
-_Exposés passés_ :
 
-* 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
-* 20,27/02/2017 : Vacances scolaires.
 
 
 ### Archives
