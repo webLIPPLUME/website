@@ -40,10 +40,16 @@ _Exposés à venir_ :
 * 9/01/2017 : No GdT this week.
 * 16/01/2017 : **_Chung-Kil Hur._** A Promising Semantics for Relaxed-Memory Concurrency.
 * 23/01/2017 : No GdT this week.
+
+_Exposés passés_ :
+
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 20,27/02/2017 : Vacances scolaires.
 
-_Exposés passés_ :
+
+### Archives
+
+#### _Exposés proposés en 2016_
 
 * 12/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs, part 2.
 * 5/12/2016 : **Enric Cosme Llópez.** A complete axiomatization of isomorphism of treewidth 2 graphs, part 1.
@@ -72,7 +78,6 @@ _Exposés passés_ :
 * 25/01/2016 : **_Laure Gonnord._** An encoding of array verification problems into array-free Horn clauses.
 * 11/01/2016 : **_Ugo Dal Lago._** Particles vs. Waves: is Multiplicity Really Necessary?
 
-### Archives
 
 #### _Exposés proposés en 2015_
 
