@@ -39,7 +39,7 @@ _Exposés à venir_ :
 
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 06/02/2017 :  pas encore déterminé.
-* 13/02/2017 : pas encore déterminé.
+* 13/02/2017 : **Pierre Pradic.**
 * 20,27/02/2017 : Vacances scolaires.
 
 _Exposés passés_ :
