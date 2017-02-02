@@ -38,7 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 _Exposés à venir_ :
 
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
-* 06/02/2017 :  ** Simon Castellan.** Non-angelic concurrent game semantics.
+* 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
 * 13/02/2017 : **Pierre Pradic.**
 * 20,27/02/2017 : Vacances scolaires.
 
