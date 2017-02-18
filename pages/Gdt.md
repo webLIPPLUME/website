@@ -39,7 +39,7 @@ _Exposés à venir_ :
 
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
-* 13/02/2017 : **Pierre Pradic.**
+* 13/02/2017 : **Pierre Pradic.** Devising a realizability notion for Church's synthesis
 * 20,27/02/2017 : Vacances scolaires.
 
 _Exposés passés_ :
