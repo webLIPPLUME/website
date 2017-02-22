@@ -37,14 +37,15 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
-* 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
-* 13/02/2017 : **Pierre Pradic.** Devising a realizability notion for Church's synthesis
 * 20,27/02/2017 : Vacances scolaires.
+* 02/03/2017: **Matteo Mio.** An introduction to the duality theory of Boolean algebras with operators.
 
 _Exposés passés_ :
 
 * 16/01/2017 : **_Chung-Kil Hur._** A Promising Semantics for Relaxed-Memory Concurrency.
+* 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
+* 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
+* 13/02/2017 : **Pierre Pradic.** Devising a realizability notion for Church's synthesis
 
 
 
