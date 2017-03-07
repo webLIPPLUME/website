@@ -37,8 +37,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 20,27/02/2017 : Vacances scolaires.
-* 02/03/2017: **Matteo Mio.** An introduction to the duality theory of Boolean algebras with operators.
+* 13,20,27/03/2017 : TBA.
+* 03/04/2017 : TBA.
+* 10/04/2017 :** **Aurore Alcolei** A Compositional Proof of Herband Theorem through Game Semantics 
 
 _Exposés passés_ :
 
@@ -46,6 +47,7 @@ _Exposés passés_ :
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
 * 13/02/2017 : **Pierre Pradic.** Devising a realizability notion for Church's synthesis
+* 02/03/2017: **Matteo Mio.** An introduction to the duality theory of Boolean algebras with operators.
 
 
 
