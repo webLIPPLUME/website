@@ -39,7 +39,7 @@ _Exposés à venir_ :
 
 * 13,20,27/03/2017 : TBA.
 * 03/04/2017 : TBA.
-* 10/04/2017 :** **Aurore Alcolei** A Compositional Proof of Herband Theorem through Game Semantics 
+* 10/04/2017 : **Aurore Alcolei** A Compositional Proof of Herband Theorem through Game Semantics 
 
 _Exposés passés_ :
 
