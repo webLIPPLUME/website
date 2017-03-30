@@ -37,7 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 03/04/2017 : no speakers (yet).
+* 03/04/2017 : ** Anupam Das**. Monotonicity in Logic and Complexity
 * 10/04/2017 : **Aurore Alcolei** A Compositional Proof of Herband Theorem through Game Semantics 
 
 _Exposés passés_ :
