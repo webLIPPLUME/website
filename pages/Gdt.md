@@ -37,7 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 20,27/03/2017 : no speakers (yet).
+* 27/03/2017 : **Olivier Laurent** Linear Logic, Double-Negation Translation and Expressiveness.
 * 03/04/2017 : no speakers (yet).
 * 10/04/2017 : **Aurore Alcolei** A Compositional Proof of Herband Theorem through Game Semantics 
 
