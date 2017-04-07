@@ -14,12 +14,10 @@ published: true
 
 Name | position
 ---- | --------
-[Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 **Catherine Desplanches**  | Assistante d'équipe/ Team assistant
 [Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
-[Adrien Basso-Blandin][] | Post doctorant
 [Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
 [Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
 [Simon Castellan][]    | Doctorant / Phd student
@@ -28,16 +26,17 @@ Name | position
 [Anupam Das][]         | Post doctorant
 [Christian Doczkal](http://perso.ens-lyon.fr/christian.doczkal/)  | Post doctorant
 [Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
-[Russ Harmer][]        | Chercheur / Researcher (CNRS)
+[Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
+[Guilhem Jaber](http://guilhem.jaber.fr)
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
-[Yves-Stan Le Cornec](http://perso.ens-lyon.fr/yves-stan.le-cornec)  | Post doctorant
+[Yves-Stan Le Cornec]()  | Post doctorant
+[Sébastien Légaré]()	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
-[Frédéric Prost][]     | Maître de Conférences / assistant professor on leave from Univ. Joseph Fourier (Grenoble)
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
 [Valeria Vignudelli](https://sites.google.com/site/valeriavignudelli/) | Post doctorante
 
