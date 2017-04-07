@@ -32,7 +32,6 @@ Name | position
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Yves-Stan Le Cornec]()  | Post doctorant
-[Sébastien Légaré]()	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
