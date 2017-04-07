@@ -12,9 +12,9 @@ published: true
 ### The team
 
 
-Name | position
+Name | Position
 ---- | --------
-**Catherine Desplanches**  | Assistante d'équipe/ Team assistant
+**Cathérine Desplanches**  | Assistante d'équipe/ Team assistant
 [Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
