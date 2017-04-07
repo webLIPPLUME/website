@@ -11,7 +11,9 @@ published: true
 
 Name | Current position
 ---- | ----------------
+[Frédéric Prost][]     | Maître de Conférences / assistant professor (Univ. Joseph Fourier, Grenoble)
 [Paul Brunet][]        | Post doctorant (University College London)
+[Adrien Basso-Blandin][] | Post doctorant (IR, Dassault Systèmes)
 [Laure Daviaud][]      | Post doctorante
 [Matias David Lee][]   | Post doctorant ([Argentine site][Matias David Lee Argentine])
 [Emmanuel Beffara][]   | Maître de Conférences/ assistant professor (on leave from [Univ. Aix-Marseille](http://iml.univ-mrs.fr/~beffara/), délégation CNRS)
