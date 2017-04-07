@@ -28,10 +28,11 @@ Name | Position
 [Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
 [Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
-[Guilhem Jaber]	| (http://guilhem.jaber.fr)
+[Guilhem Jaber](http://guilhem.jaber.fr) | Post doctorant MILyon
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Yves-Stan Le Cornec]()  | Post doctorant
+[Sébastien Légaré]()	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
