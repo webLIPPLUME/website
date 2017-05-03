@@ -35,11 +35,12 @@ _contact_ : **Matteo Mio** (matteo point mio arobase ens tiret lyon point fr)
 
 _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B2** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
-_Exposés à venir_ :
+#### _Exposés à venir_
 
 * 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
 
-_Exposés passés_ :
+#### _Exposés passés en 2017_
+
 * 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
 * 03/04/2017 : **Anupam Das.** Monotonicity in Logic and Complexity
 * 27/03/2017 : **Olivier Laurent** Linear Logic, Double-Negation Translation and Expressiveness.
