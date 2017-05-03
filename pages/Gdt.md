@@ -37,11 +37,12 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 03/04/2017 : **Anupam Das.** Monotonicity in Logic and Complexity
-* 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
+* 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic
+
 
 _Exposés passés_ :
-
+* 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
+* 03/04/2017 : **Anupam Das.** Monotonicity in Logic and Complexity
 * 27/03/2017 : **Olivier Laurent** Linear Logic, Double-Negation Translation and Expressiveness.
 * 02/03/2017: **Matteo Mio.** An introduction to the duality theory of Boolean algebras with operators.
 * 13/02/2017 : **Pierre Pradic.** Devising a realizability notion for Church's synthesis
