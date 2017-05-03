@@ -39,6 +39,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 * 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
 
+
+### Archives
+
 #### _Exposés passés en 2017_
 
 * 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
@@ -49,11 +52,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 06/02/2017 :  **Simon Castellan.** Non-angelic concurrent game semantics.
 * 30/01/2017 : **Valeria Vignudelli.** Environmental Bisimulations for Probabilistic Higher-Order Languages.
 * 16/01/2017 : **_Chung-Kil Hur._** A Promising Semantics for Relaxed-Memory Concurrency.
-
-
-
-
-### Archives
 
 #### _Exposés proposés en 2016_
 
