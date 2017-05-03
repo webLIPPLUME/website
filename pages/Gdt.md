@@ -37,8 +37,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 _Exposés à venir_ :
 
-* 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic
-
+* 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
 
 _Exposés passés_ :
 * 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
