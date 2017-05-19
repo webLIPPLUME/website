@@ -49,7 +49,7 @@ published: true
 
 <div class="xnews">
 <dl>
-<dd> 22 may 2017. <href= "http://www.ens-lyon.fr/prochaines-hdr-en-sciences-exactes-et-experimentales/meta-modelisation-a-base-de-regles-pour-la-curation-biologique-339899.kjsp"> Habilitation defense </a> of <a href="https://perso.ens-lyon.fr/russell.harmer/"> Russ Harmer</a>.
+<dd> 22 may 2017. <a href= "http://www.ens-lyon.fr/prochaines-hdr-en-sciences-exactes-et-experimentales/meta-modelisation-a-base-de-regles-pour-la-curation-biologique-339899.kjsp"> Habilitation defense </a> of <a href="https://perso.ens-lyon.fr/russell.harmer/"> Russ Harmer</a>.
 <dd> 15-18 may 2017. The conference <a href="http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/"> RAMICS 2017</a> ( Int. Conf. on Relational and Algebraic Methods in Computer Science) takes place at ens Lyon.
 <dd> 23-27 janv 2017. <a href="https://ejcim2017.sciencesconf.org/"> EJCIM 2017</a> (Ecole jeunes chercheurs/chercheuses en informatique mathématique): this research school will take place this year at ens Lyon.
 <dd> 7-10 nov 2016. <a href="https://ll2016.sciencesconf.org/"> Linear logic 2016 </a>: an interdisciplinary meeting on Linear Logic taking place in Lyon (one research school and two workshops)
