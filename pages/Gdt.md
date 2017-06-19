@@ -37,13 +37,14 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 #### _Exposés à venir_
 
-* 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
+* 03/07/2017 : **Simon Castellan.** Répétition de soutenance de thèse.
 
 
 ### Archives
 
 #### _Exposés passés en 2017_
 
+* 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
 * 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
 * 03/04/2017 : **Anupam Das.** Monotonicity in Logic and Complexity
 * 27/03/2017 : **Olivier Laurent** Linear Logic, Double-Negation Translation and Expressiveness.
