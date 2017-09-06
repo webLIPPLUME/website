@@ -37,13 +37,18 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 #### _Exposés à venir_
 
-* 03/07/2017 : **Simon Castellan.** Répétition de soutenance de thèse.
+* 11/09/2017 : free slot.
+* 17/09/2017 : **TBA.** (slot reserved)
+* 23/09/2017 : free slot.
+* 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
+* 09/09/2017 : free slot.
 
 
 ### Archives
 
 #### _Exposés passés en 2017_
 
+* 03/07/2017 : **Simon Castellan.** Répétition de soutenance de thèse.
 * 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
 * 10/04/2017 : **Aurore Alcolei.** A Compositional Proof of Herband Theorem through Game Semantics 
 * 03/04/2017 : **Anupam Das.** Monotonicity in Logic and Complexity
