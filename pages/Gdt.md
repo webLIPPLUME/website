@@ -41,7 +41,10 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 17/09/2017 : **TBA.** (slot reserved)
 * 23/09/2017 : free slot.
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
-* 09/09/2017 : free slot.
+* 09/10/2017 : free slot.
+* 16/10/2017 : free slot.
+* 23/10/2017 : free slot.
+* 30/10/2017 : free slot.
 
 
 ### Archives
