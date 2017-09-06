@@ -45,6 +45,13 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 16/10/2017 : free slot.
 * 23/10/2017 : free slot.
 * 30/10/2017 : free slot.
+* 06/11/2017 : free slot.
+* 13/11/2017 : free slot.
+* 20/11/2017 : free slot.
+* 27/11/2017 : free slot.
+* 01/12/2017 : free slot.
+* 08/12/2017 : free slot.
+* 15/12/2017 : free slot.
 
 
 ### Archives
