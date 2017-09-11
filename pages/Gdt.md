@@ -37,8 +37,8 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 #### _Exposés à venir_
 
-* 11/09/2017 : free slot.
-* 17/09/2017 : **TBA.** (slot reserved)
+* 17/09/2017 : **Pierre Clairambault.** Observably Deterministic Concurrent Strategies and Intensional
+Full Abstraction for Parallel-or.
 * 23/09/2017 : free slot.
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
 * 09/10/2017 : free slot.
