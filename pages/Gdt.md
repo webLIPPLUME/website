@@ -43,8 +43,8 @@ Full Abstraction for Parallel-or.
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
 * 09/10/2017 : free slot.
 * 16/10/2017 : free slot.
-* 23/10/2017 : free slot.
-* 30/10/2017 : free slot.
+* 23/10/2017 : School holidays.
+* 30/10/2017 : School holidays.
 * 06/11/2017 : free slot.
 * 13/11/2017 : free slot.
 * 20/11/2017 : free slot.
