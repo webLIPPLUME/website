@@ -33,16 +33,14 @@ published: true
 
 _contact_ : **Matteo Mio** (matteo point mio arobase ens tiret lyon point fr)
 
-_Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B1** au 4ème étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
+_Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle 114** au 1ere étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 #### _Exposés à venir_
 
-* 17/09/2017 : **Pierre Clairambault.** Observably Deterministic Concurrent Strategies and Intensional
-Full Abstraction for Parallel-or.
-* 23/09/2017 : free slot.
+
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
 * 09/10/2017 : free slot.
-* 16/10/2017 : free slot.
+* 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
 * 23/10/2017 : School holidays.
 * 30/10/2017 : School holidays.
 * 06/11/2017 : free slot.
@@ -57,6 +55,8 @@ Full Abstraction for Parallel-or.
 ### Archives
 
 #### _Exposés passés en 2017_
+
+* 26/09/2017 : **Olivier Laurent.** Double-Negations and Focusing.
 
 * 03/07/2017 : **Simon Castellan.** Répétition de soutenance de thèse.
 * 03/04/2017 : **Anupam Das.** From focussed systems to complexity bounds: a case study for intuitionistic propositional logic.
