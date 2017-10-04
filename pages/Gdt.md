@@ -38,8 +38,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 #### _Exposés à venir_
 
 
-* 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
-* 09/10/2017 : free slot.
+* 09/10/2017 : **Henryk Michalewski.**  AlphaMath
 * 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
 * 23/10/2017 : School holidays.
 * 30/10/2017 : School holidays.
@@ -56,6 +55,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 #### _Exposés passés en 2017_
 
+* 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
 * 26/09/2017 : **Olivier Laurent.** Double-Negations and Focusing.
 
 * 03/07/2017 : **Simon Castellan.** Répétition de soutenance de thèse.
