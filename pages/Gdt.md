@@ -44,7 +44,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 30/10/2017 : School holidays.
 * 06/11/2017 : free slot.
 * 13/11/2017 : No GdT this week (many Plume members are away).
-* 20/11/2017 : free slot.
+* 20/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
 * 27/11/2017 : free slot.
 * 01/12/2017 : free slot.
 * 08/12/2017 : free slot.
