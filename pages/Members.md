@@ -33,7 +33,7 @@ Marc De Visme	| Doctorant / PhD student
 [Sébastien Légaré]()	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus Professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
-Ievgeniia Oshurko	| Doctorante / PhD student
+[Ievgeniia Oshurko](http://perso.ens-lyon.fr/ievgeniia.oshurko/)	| Doctorante / PhD student
 [Luc Pellissier](https://lipn.univ-paris13.fr/~pellissier/)	| ATER (ENS Lyon)
 Laureline Pinault	| Doctorante / PhD student
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
