@@ -18,23 +18,24 @@ Name | Position
 [Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
 [Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
 [Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
-[Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
+[Henning Basold](http://cs.ru.nl/~hbasold/)	| Post doctorant
 [Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
-[Simon Castellan][]    | Doctorant / Phd student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
-[Enric Cosme Llopez][] | Post doctorant
-[Anupam Das][]         | Post doctorant
+Marc De Visme	| Doctorant / PhD student
 [Christian Doczkal](http://perso.ens-lyon.fr/christian.doczkal/)  | Post doctorant
+[Amina Doumane](https://www.irif.fr/~doumane/)	| Post doctorante
 [Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
-[Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Responsable scientifique**
+[Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Chef d'équipe**
 [Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Guilhem Jaber](http://guilhem.jaber.fr) | Post doctorant MILyon
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
-[Yves-Stan Le Cornec]()  | Post doctorant
 [Sébastien Légaré]()	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
+Ievgeniia Oshurko	| Doctorante / PhD student
+[Luc Pellissier](https://lipn.univ-paris13.fr/~pellissier/)	| ATER (ENS Lyon)
+Laureline Pinault	| Doctorante / PhD student
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
 [Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
 [Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
