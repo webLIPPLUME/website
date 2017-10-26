@@ -14,31 +14,31 @@ published: true
 
 Name | Position
 ---- | --------
-**Cathérine Desplanches**  | Assistante d'équipe/ Team assistant
-[Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / Phd student
-[Philippe Audebaud][]  | Maître de Conférences / assistant professor (ENS Lyon)
+**Cathérine Desplanches**  | Assistante d'équipe / Team assistant
+[Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / PhD student
+[Philippe Audebaud][]  | Maître de Conférences / Assistant Professor (ENS Lyon)
 [Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
 [Henning Basold](http://cs.ru.nl/~hbasold/)	| Post doctorant
-[Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / Phd student
+[Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / PhD student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 Marc De Visme	| Doctorant / PhD student
 [Christian Doczkal](http://perso.ens-lyon.fr/christian.doczkal/)  | Post doctorant
 [Amina Doumane](https://www.irif.fr/~doumane/)	| Post doctorante
-[Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / Phd student
+[Adrien Durier](http://perso.ens-lyon.fr/adrien.durier/)  | Doctorant / PhD student
 [Russ Harmer](http://perso.ens-lyon.fr/russell.harmer/)  | Chercheur / Researcher (CNRS) -- **Chef d'équipe**
-[Daniel Hirschkoff][]  | Maître de Conférences / assistant professor (ENS Lyon) - External collaborator of the [Focus][] project
+[Daniel Hirschkoff][]  | Maître de Conférences / Assistant Professor (ENS Lyon) - External collaborator of the [Focus][] project
 [Guilhem Jaber](http://guilhem.jaber.fr) | Post doctorant MILyon
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
 [Sébastien Légaré]()	| Post doctorant
-[Pierre Lescanne][]    | Professeur émérite / Emeritus professor
+[Pierre Lescanne][]    | Professeur émérite / Emeritus Professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 Ievgeniia Oshurko	| Doctorante / PhD student
 [Luc Pellissier](https://lipn.univ-paris13.fr/~pellissier/)	| ATER (ENS Lyon)
 Laureline Pinault	| Doctorante / PhD student
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
-[Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / Phd student
-[Colin Riba][]         | Maître de Conférences / assistant professor (ENS Lyon)
+[Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / PhD student
+[Colin Riba][]         | Maître de Conférences / Assistant Professor (ENS Lyon)
 [Valeria Vignudelli](https://sites.google.com/site/valeriavignudelli/) | Post doctorante
 
 
