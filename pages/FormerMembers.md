@@ -11,6 +11,11 @@ published: true
 
 Name | Current position
 ---- | ----------------
+[Filippo Bonchi][]     | Chercheur / Researcher (CNRS)
+[Simon Castellan][]    | Doctorant / Phd student
+[Enric Cosme Llopez][] | Post doctorant
+[Anupam Das][]         | Post doctorant
+[Yves-Stan Le Cornec]()  | Post doctorant
 [Frédéric Prost][]     | Maître de Conférences / assistant professor (Univ. Joseph Fourier, Grenoble)
 [Paul Brunet][]        | Post doctorant (University College London)
 [Adrien Basso-Blandin][] | Post doctorant (IR, Dassault Systèmes)
