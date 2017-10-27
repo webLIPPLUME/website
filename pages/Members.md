@@ -30,7 +30,7 @@ Marc De Visme	| Doctorant / PhD student
 [Guilhem Jaber](http://guilhem.jaber.fr) | Post doctorant MILyon
 [Denis Kuperberg](http://perso.ens-lyon.fr/denis.kuperberg/) | Chercheur / Researcher (CNRS)
 [Olivier Laurent][]    | Chercheur / Researcher (CNRS)
-[Sébastien Légaré]()	| Post doctorant
+Sébastien Légaré	| Post doctorant
 [Pierre Lescanne][]    | Professeur émérite / Emeritus Professor
 [Matteo Mio](http://perso.ens-lyon.fr/matteo.mio/)    | Chercheur / Researcher (CNRS)
 [Ievgeniia Oshurko](http://perso.ens-lyon.fr/ievgeniia.oshurko/)	| Doctorante / PhD student
