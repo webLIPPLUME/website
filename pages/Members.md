@@ -15,11 +15,11 @@ published: true
 Name | Position
 ---- | --------
 **Cathérine Desplanches**  | Assistante d'équipe / Team assistant
-[Aurore Alcolei](http://perso.ens-lyon.fr/aurore.alcolei/) | Doctorante / PhD student
+Aurore Alcolei | Doctorante / PhD student
 [Philippe Audebaud][]  | Maître de Conférences / Assistant Professor (ENS Lyon)
 [Patrick Baillot](http://perso.ens-lyon.fr/patrick.baillot/) | Chercheur / Researcher (CNRS)
 [Henning Basold](http://cs.ru.nl/~hbasold/)	| Post doctorant
-[Florent Bréhard](http://perso.ens-lyon.fr/florent.brehard/)  | Doctorant / PhD student
+Florent Bréhard  | Doctorant / PhD student
 [Pierre Clairambault][]| Chercheur / Researcher (CNRS)
 Marc De Visme	| Doctorant / PhD student
 [Christian Doczkal](http://perso.ens-lyon.fr/christian.doczkal/)  | Post doctorant
@@ -37,7 +37,7 @@ Sébastien Légaré	| Post doctorant
 [Luc Pellissier](https://lipn.univ-paris13.fr/~pellissier/)	| ATER (ENS Lyon)
 Laureline Pinault	| Doctorante / PhD student
 [Damien Pous][]        | Chercheur / Researcher (CNRS)
-[Pierre Pradic](http://perso.ens-lyon.fr/pierre.pradic/)  | Doctorant / PhD student
+Pierre Pradic  | Doctorant / PhD student
 [Colin Riba][]         | Maître de Conférences / Assistant Professor (ENS Lyon)
 [Valeria Vignudelli](https://sites.google.com/site/valeriavignudelli/) | Post doctorante
 
