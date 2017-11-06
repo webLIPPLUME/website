@@ -46,7 +46,8 @@ Sesqui-push-out graph rewriting library in Python. Project run by *Russ Harmer*.
 
 ### KAMI: Knowledge Aggregator and Model Instantiator
 
-Bio-curation tool for rule-based modelling of cellular signalling networks. Project run by *Russ Harmer*. [More][KAMI].
+Bio-curation tool for rule-based modelling of cellular signalling networks. Project run by *Russ Harmer*. [More][KAMI]. Part of the larger [Kappa] project.
 
 [ReGraph]: https://github.com/Kappa-Dev/ReGraph
 [KAMI]: https://github.com/Kappa-Dev/KAMI
+[Kappa]: http://dev.executableknowledge.org
