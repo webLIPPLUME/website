@@ -46,7 +46,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 13/11/2017 : No GdT this week (too many Plume members are away).
 * 20/11/2017 : free slot.
 * 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
-* 04/12/2017 : **Guilhem Jaber.** TBA
+* 04/12/2017 : **Guilhem Jaber.** A Trace Semantics for System F Parametric Polymorphism.
 * 11/12/2017 : **Serguei Lenglet.** TBA 
 * 18/12/2017 : free slot.
 
