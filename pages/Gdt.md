@@ -38,11 +38,6 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 #### _Exposés à venir_
 
 
-* 09/10/2017 : **Henryk Michalewski.**  AlphaMath
-* 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
-* 23/10/2017 : School holidays.
-* 30/10/2017 : School holidays.
-* 06/11/2017 : No GdT this week.
 * 13/11/2017 : No GdT this week (too many Plume members are away).
 * 20/11/2017 : free slot.
 * 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
@@ -55,6 +50,8 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 #### _Exposés passés en 2017_
 
+* 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
+* 09/10/2017 : **Henryk Michalewski.**  AlphaMath.
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
 * 26/09/2017 : **Olivier Laurent.** Double-Negations and Focusing.
 
