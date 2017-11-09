@@ -42,7 +42,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 20/11/2017 : free slot.
 * 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
 * 04/12/2017 : **Guilhem Jaber.** A Trace Semantics for System F Parametric Polymorphism.
-* 11/12/2017 : **Serguei Lenglet.** TBA 
+* 11/12/2017 : **Serguei Lenglet.** Fully Abstract Encodings of Lambda-Calculus  in HOcore through Abstract Machines.
 * 18/12/2017 : free slot.
 
 
