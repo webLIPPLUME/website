@@ -42,8 +42,8 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
 * 23/10/2017 : School holidays.
 * 30/10/2017 : School holidays.
-* 06/11/2017 : free slot.
-* 13/11/2017 : No GdT this week (many Plume members are away).
+* 06/11/2017 : No GdT this week.
+* 13/11/2017 : No GdT this week (too many Plume members are away).
 * 20/11/2017 : free slot.
 * 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
 * 04/12/2017 : **Guilhem Jaber.** TBA
