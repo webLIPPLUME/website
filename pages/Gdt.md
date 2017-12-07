@@ -38,18 +38,17 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 #### _Exposés à venir_
 
 
-* 13/11/2017 : No GdT this week (too many Plume members are away).
-* 20/11/2017 : free slot.
-* 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
-* 04/12/2017 : **Guilhem Jaber.** A Trace Semantics for System F Parametric Polymorphism.
+
 * 11/12/2017 : **Serguei Lenglet.** Fully Abstract Encodings of Lambda-Calculus  in HOcore through Abstract Machines.
-* 18/12/2017 : free slot.
+* 18/12/2017 : **Filippo Bonchi.** Sound up-to techniques and complete abstract domain.
 
 
 ### Archives
 
 #### _Exposés passés en 2017_
 
+* 04/12/2017 : **Guilhem Jaber.** A Trace Semantics for System F Parametric Polymorphism.
+* 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
 * 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
 * 09/10/2017 : **Henryk Michalewski.**  AlphaMath.
 * 02/10/2017 : **Amina Doumane.**  Constructive completeness for the linear-time mu-calculus.
