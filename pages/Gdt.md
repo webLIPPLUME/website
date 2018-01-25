@@ -39,14 +39,18 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 
 
-* 11/12/2017 : **Serguei Lenglet.** Fully Abstract Encodings of Lambda-Calculus  in HOcore through Abstract Machines.
-* 18/12/2017 : **Filippo Bonchi.** Sound up-to techniques and complete abstract domain.
+* 05/02/2018 : **Henning Basold.** Breaking the Loop: Recursive Proofs for Coinductive Predicates in
+Fibrations
+
+* 12/02/2018 : **Damien Pous.** Non-wellfounded proof theory for IMALL with lists: cut elimination, computational interpretation and relationship to equational axiomatisations (Kleene algebra).
 
 
 ### Archives
 
 #### _Exposés passés en 2017_
 
+* 18/12/2017 : **Filippo Bonchi.** Sound up-to techniques and complete abstract domain.
+* 11/12/2017 : **Serguei Lenglet.** Fully Abstract Encodings of Lambda-Calculus  in HOcore through Abstract Machines.
 * 04/12/2017 : **Guilhem Jaber.** A Trace Semantics for System F Parametric Polymorphism.
 * 27/11/2017 : **Luc Pellissier.** PhD Defense rehearsal.
 * 16/10/2017 : **Henning Basold.** A Recursive Logic for the Equivalence of Inductive-Coinductive Programs.
