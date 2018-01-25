@@ -33,7 +33,7 @@ published: true
 
 _contact_ : **Matteo Mio** (matteo point mio arobase ens tiret lyon point fr)
 
-_Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle 115** au 1ere étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
+_Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **salle B1** au 1ere étage du batiment central de l'[ENS Lyon][], site **Monod** : 46 Allée d’Italie, 69364, Lyon._
 
 #### _Exposés à venir_
 
