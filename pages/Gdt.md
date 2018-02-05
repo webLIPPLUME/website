@@ -42,7 +42,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 * 05/02/2018 : **Henning Basold.** Breaking the Loop: Recursive Proofs for Coinductive Predicates in
 Fibrations
 
-* 12/02/2018 : **Damien Pous.** Non-wellfounded proof theory for IMALL with lists: cut elimination, computational interpretation and relationship to equational axiomatisations (Kleene algebra).
+* 12/02/2018 : **Pierre Pradic.** TBA.
+
+* 26/02/2018 : **Damien Pous.** Non-wellfounded proof theory for IMALL with lists: cut elimination, computational interpretation and relationship to equational axiomatisations (Kleene algebra).
 
 
 ### Archives
