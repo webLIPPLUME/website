@@ -39,7 +39,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 
 
-* 12/02/2018 : **Pierre Pradic.** TBA.
+* 12/02/2018 : **Pierre Pradic.** A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 
 * 19/02/2018 : **Christian Doczkal.** TBA.
 
