@@ -41,11 +41,14 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 * 12/02/2018 : **Pierre Pradic.** A Curry-Howard Approach to Church's Synthesis via Linear Logic.
 
-* 19/02/2018 : **Christian Doczkal.** TBA.
+* 19/02/2018 : **Christian Doczkal.** No GdT (holidays)
 
 * 26/02/2018 : **Damien Pous.** Non-wellfounded proof theory for IMALL with lists: cut elimination, computational interpretation and relationship to equational axiomatisations (Kleene algebra).
 
 * 05/03/2018 : **Valia Mitsou.** TBA.
+
+* 12/03/2018 : **Christian Doczkal.** TBA
+
 
 
 ### Archives
