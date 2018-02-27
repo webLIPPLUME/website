@@ -40,7 +40,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 
 
-* 05/03/2018 : **Valia Mitsou.** TBA.
+* 05/03/2018 : **Valia Mitsou.** Limitations of treewidth for problems beyond NP.
 
 * 12/03/2018 : No GdT.
 
