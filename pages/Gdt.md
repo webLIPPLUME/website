@@ -46,7 +46,7 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 * 19/03/2018 : **Christian Doczkal.** TBA
 
-* 26/03/2018 : **Simon IOSTI.** TBA
+* 26/03/2018 : **Simon IOSTI.** The synthesis of eventually safe properties via Good-for-Games automata.
 
 * 23/04/2018 : **Laure Daviaud.** TBA
 
