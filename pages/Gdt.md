@@ -40,11 +40,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 
 
-* 19/03/2018 : **Christian Doczkal.** TBA
-
 * 26/03/2018 : **Simon IOSTI.** The synthesis of eventually safe properties via Good-for-Games automata.
 
-* 23/04/2018 : **Laure Daviaud.** TBA
+* 23/04/2018 : **Laure Daviaud.** When is containment decidable for probabilistic automata?
 
 
 
@@ -54,6 +52,9 @@ _Sauf indication contraire, les exposés ont lieu le **lundi à 14h00**, en **sa
 
 
 #### _Exposés passés en 2018_
+
+* 19/03/2018 : **Christian Doczkal.** A formal proof of the graph minor theorem for treewidth 2
+
 
 * 05/03/2018 : **Valia Mitsou.** Limitations of treewidth for problems beyond NP.
 
