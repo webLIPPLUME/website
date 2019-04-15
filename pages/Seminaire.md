@@ -8,29 +8,29 @@ published: true
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Our seminars are usually on Thursdays. About once a month, the seminar is held as a [CHoCoLa](http://chocola.ens-lyon.fr) meeting.
 
 ###  Next Events
 
-* **Thursday 17th Nov.,** 10:30am, room TBA:
+* **Thursday 17th Nov.,** 3:30pm, room TBA:
 Radu Mardare, Aalborg University (Danmark)
 
-	TBA
+	Quantitative Algebraic Reasoning: towards a Quantitative Theory of Effects
 
+We develop a quantitative analogue of equational reasoning which we
+call quantitative algebraic reasoning. We deﬁne an indexed equality
+relation of type a =_e b which we think of as saying that “a is
+approximately equal to b up to an error of e”. The models are
+universal algebras defined on metric spaces.
+We have interesting examples where we have a quantitative equational
+theory whose free algebras correspond to well known structures. In
+each case we have ﬁnitary and continuous versions. The cases are:
+Hausdorﬀ metrics from quantitive semilattices; p-Wasserstein metrics
+(hence also the Kantorovich metric) from barycentric algebras; and the
+total variation distance from a particular type of barycentric algebras.
 
+This is a joint work with Gordon Plotkin and Prakash Panangaden;
+preliminary results have been presented at LICS2016.
 
 
 
